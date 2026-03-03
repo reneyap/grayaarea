@@ -53,7 +53,9 @@ GrayArea/
 
 > Cross-platform: Windows / Mac / Linux. No PowerShell dependencies.
 
-See [`tools/architecture.md`](tools/architecture.md) for the full design including Supabase schema, TypeScript interfaces, import scripts, and MCP server spec.
+See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for the full design including Supabase schema, TypeScript interfaces, import scripts, and MCP server spec.
+
+See [`docs/DIGITAL_STRATIGRAPHY.md`](docs/DIGITAL_STRATIGRAPHY.md) for the Digital Stratigraphy concept and repository organization philosophy.
 
 ---
 
@@ -68,7 +70,7 @@ This project treats a literary novel as a software project:
 - **Semantic search** — pgvector embeddings on all topic files
 - **MCP server** — exposes story bible to AI assistants (Claude, Cursor)
 
-See [`tools/story-as-code-landscape.md`](tools/story-as-code-landscape.md) for a survey of story-as-code tooling and how this stack compares.
+See [`docs/STORY-AS-CODE-LANDSCAPE.md`](docs/STORY-AS-CODE-LANDSCAPE.md) for a survey of story-as-code tooling and how this stack compares.
 
 ---
 
