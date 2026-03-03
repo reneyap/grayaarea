@@ -1,0 +1,1 @@
+# [[like Stark Industries + Harvard +  Westpoint + DNC + RNC + Jesuits + Tibetan Buddha  Dalai Lama (“Daneel”as a title), Bon Head a figure like the uncle of Tony Stark. Like Panchen Lama -- looks for the candidates. Twins were selected.   Lambs to be slaughtered. :)
