@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** The outskirts of the UES, a squatter camp in the Preservation Zone.
+*   **Characters:** Eli, 'The Hollow' (a disgruntled former host of Daneel).
+*   **Scene Beats:**
+    *   Eli tracks a weird signal thinking it's the infection, but finds a 'Hollow'.
+    *   The Hollow is suffering from Ghost Data withdrawal and craves the 'Phase-Lock'.
+    *   The Hollow gives Eli a cryptic warning about the epicenter: 'It's not a sickness, it's a broadcast.'
 
 ---
 

@@ -13,7 +13,13 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** Grand Central Museum ruins; flooded streets, freezing blizzard. Contrast the sunken Preservation Zone with the glowing UES.
+*   **Characters:** Eli, XR bot squad.
+*   **Scene Beats:**
+    *   Eli's Apache XR-45 hovers over the designated landmark.
+    *   Deploy XR bots. Establish Eli's cybernetic body reacting to the extreme cold (or ignoring it).
+    *   Observe vagrants in the 'dead zones' avoiding National Guard snipers.
+    *   Initial scan confirms anomalous high-frequency signatures instead of a standard viral outbreak.
 
 ---
 

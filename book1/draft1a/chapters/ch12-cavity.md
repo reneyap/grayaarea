@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** Inside the Foundation Convoy / Telemetry screens.
+*   **Characters:** Daneel James, Bio-Monitors.
+*   **Scene Beats:**
+    *   The ambient alien resonance clashes with Daneel's signal.
+    *   James (the 14-year-old host) hits 'The Static'. Puberty hormones + external stress cause the Driver/Passenger link to fail.
+    *   For one terrifying microsecond, James's actual voice screams out in terror before Daneel suppresses him chemically.
 
 ---
 

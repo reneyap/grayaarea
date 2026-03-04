@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** A secure briefing room / Internal mindscape.
+*   **Characters:** Daneel James, Eli.
+*   **Scene Beats:**
+    *   Daneel communicates with Eli, recounting the 'Wandering Period'.
+    *   Flashback/Memory: Isaac's smartwatch, the coma patient, Alejandro.
+    *   Contrast the desperate, nomadic survival of early Daneel with his current entrenched, institutionalized, 'God-like' status supported by The Foundation.
 
 ---
 

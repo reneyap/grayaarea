@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** Deep inside Grand Central Museum (The Epicenter).
+*   **Characters:** Eli, XR bots, source of the anomaly.
+*   **Scene Beats:**
+    *   Eli reaches the core and realizes there are no biological pathogens.
+    *   The 'virus' is a spontaneous replication of the original PRIME / X20 birth event.
+    *   It is an alien consciousness attempting to unconditionally entrain and overwrite every human mind in range.
 
 ---
 

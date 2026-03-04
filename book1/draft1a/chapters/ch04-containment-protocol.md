@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** Marine Corps Field Hospital, perimeter wall.
+*   **Characters:** Eli, Military Commander, quarantined civilians.
+*   **Scene Beats:**
+    *   Military enacts blunt quarantine measures based on the 'Human Supremacy' treaty.
+    *   Eli interfaces with a prejudiced commander who views cyborgs/AI with extreme suspicion (post-Robot War tension).
+    *   Reveal that the Foundation is bypassing military protocol, hiding their own 'containment' of failing human hardware.
 
 ---
 

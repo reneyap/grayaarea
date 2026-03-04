@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** Foundation Armored Convoy (The Active Pod).
+*   **Characters:** Daneel James, 'Alpha' backup candidate (Age 10), Foundation Shield Guards.
+*   **Scene Beats:**
+    *   The convoy moves into the danger zone. Establish the 3-mile 'Proximity Shadow Pod' rule.
+    *   Introduce the Alpha—a perfectly compliant child kept in a sterile state, waiting to have their ego wiped.
+    *   Demonstrate the chillingly efficient logistics of succession when Daneel calculates James's vessel might fail.
 
 ---
 

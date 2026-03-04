@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** UES Broadcast center / Perimeter gates.
+*   **Characters:** Foundation Translators (PR reps), fearful public, Eli.
+*   **Scene Beats:**
+    *   Translators broadcast a calming, spiritual message to the panic-stricken masses.
+    *   Daneel is framed as a benevolent savior working in meditation.
+    *   Eli observes the sheer hypocrisy: the public adores the Foundation, oblivious to the fact their 'God' is a machine riding hijacked children.
 
 ---
 

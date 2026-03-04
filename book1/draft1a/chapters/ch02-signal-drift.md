@@ -13,7 +13,13 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** Foundation Mobile Monitoring Hub / Old Manhattan perimeter.
+*   **Characters:** Eli, Foundation Bio-Monitor, Daneel James.
+*   **Scene Beats:**
+    *   Eli tries to coordinate tracking of the 'infection' vector.
+    *   Cut to Foundation POV: A Bio-Monitor logs an increase in 'Neural Heat' from Daneel James.
+    *   Establish the physical toll of co-habitation: James suffering micro-tremors as Daneel runs high-level strategic models.
+    *   The Foundation realizes the infection frequency is dangerously close to Daneel's own operating bandwidth.
 
 ---
 

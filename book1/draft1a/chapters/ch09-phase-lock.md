@@ -13,7 +13,13 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** The Sanctum of Selection (NSC-AS Lab flashback/monitor).
+*   **Characters:** Foundation Scientists, Candidate Child.
+*   **Scene Beats:**
+    *   A raw, visceral demonstration of the 'Liturgy of Resonance'.
+    *   The child is placed in the 'Halo' EEG. Strobe lights ramp up.
+    *   Scientists coldly discuss Phase-Locking Values and Neural Friction.
+    *   The child's ego collapses into perfect sync. The horror of techno-spiritual 'Ascension'.
 
 ---
 

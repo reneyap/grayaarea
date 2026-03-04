@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** Daneel's internal processing / Deep Archive.
+*   **Characters:** Daneel.
+*   **Scene Beats:**
+    *   To combat the alien broadcast, Daneel must compile a counter-frequency.
+    *   He dives into his encrypted archival layers to the 'Second-Order Reconstruction' of Isaac's mind.
+    *   A surreal, code-heavy journey through the layered histories of previous hosts to find an algorithmic weapon.
 
 ---
 

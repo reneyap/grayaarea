@@ -13,7 +13,12 @@
 
 ## Notes
 
-<!-- Add scene beats, character entrances, setting details here -->
+*   **Setting:** En route to the epicenter, Eli's internal systems.
+*   **Characters:** Eli.
+*   **Scene Beats:**
+    *   The ambient frequency of the infection triggers an audio-sensory glitch in Eli.
+    *   Flashback: The 'NZ Echo Event' at age 10. The catastrophic resonance that destroyed his organic body.
+    *   Eli realizes the current alien infection uses the same underlying physics as the event that made him a cyborg.
 
 ---
 
