@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The infection follows no biological vector. It scans as a signal, a complex, self-replicating waveform that utilizes the human nervous system as an antenna. It is not trying to kill; it is trying to connect. This is the spontaneous replication of the original X20 event—the 'Alien' consciousness attempting to entrain every mind within range.
 
 Patient Zero is not a victim of a pathogen, but a receiver overloaded by the broadcast. The Foundation's scientists stare at the readouts in disbelief. The signal structure mimics their own NSC-AS protocols but on a scale that defies variable limits. It is a brute-force synchronization attack.

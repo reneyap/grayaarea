@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 Puberty is the enemy of stability. James, the current host, is hitting 'The Static'—the hormonal/neurological turbulence that disrupts the 'Phase-Lock'. The smooth integration of the Passenger begins to fray. Glitches appear in Daneel's motor control; flashes of James's original, suppressed personality burst through the logic interface.
 
 The driver and passenger are at war. James screams through the code for a microsecond, a terrified child waking up in a body that is no longer his. Daneel suppresses the outbreak with ruthless efficiency, but the cost is high. The 'Neural Heat' rises, cooking the synapses from the inside out.

@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The makeshift triage unit in the subway tunnel vibrates with the intensity of the signal. The 'Neural Heat' has spiked beyond safety limits. James's body convulses on the gurney, the cooling units whining in protest as they fail to dissipate the thermal load of the processing error.
 
 Eli stands amidst the chaos, his own sensors overwhelmed. He can *hear* the data transfer screaming in the RF spectrum, a high-pitched keen that physically hurts his cybernetic auditory processors. The air hums with the bandwidth of the alien resonance, ionizing the dust particles until they glow.

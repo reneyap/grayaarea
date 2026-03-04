@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 Twenty minutes later, the line has been crossed. The host is brain-dead, the cortical stack fried by the overload. To the Foundation security chief, the body is now just compromised hardware, a security risk to be liquidated. They prepare the incinerators.
 
 Eli intervenes. He moves with a terrifying, mechanical swiftness, not to save the boy—who is already gone—but to salvage the data. He interfaces directly with the failing life-support systems, becoming an external processor for the corpse. It is a gruesome act of efficiency.

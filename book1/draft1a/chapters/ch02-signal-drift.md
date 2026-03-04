@@ -26,7 +26,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The Foundation's Mobile Monitoring Hub sits on the perimeter like a fortress of solitude, its antennas bristling against the grey sky. Inside, the air is sterile, recycled, and thick with the hum of high-fidelity servers processing terabytes of neural telemetry. The distinction between human habitat and server room has blurred here; biology is merely another variable to be monitored.
 
 Daneel James, the current host, exists within this controlled environment not as a prisoner, but as a protected asset. The bio-monitors trace the subtle drift of his consciousness, watching for the telltale signs of 'phase-lock' failure. Every heartbeat is logged, every spike in cortisol analyzed for potential rejection of the Passenger.

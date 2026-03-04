@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The 'Hollows' are the debris left in the wake of the Foundation's progress. Discarded hosts, burned out by the neural load or aged out of compatibility, they exist in the fringes of the Preservation Zone. Their minds are scarred by the memory of omniscience, leaving them with a permanent, aching silence where the Voice once resided.
 
 Eli tracks the signal through the squatter camp, the interference pattern leading him to one such ruin. The Hollow he finds is a tragic figure, shivering not from the cold but from the withdrawal of connection. They crave the 'Phase-Lock' like a narcotic, their neural pathways permanently etched by the high-frequency data they once carried.

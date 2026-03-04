@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The concept of 'Ascension' is the lie that makes the horror palatable. To the families selected by the Foundation, giving up a child is distinct honor, a chance for their offspring to serve a higher purpose in the 'techno-spiritual' renewal of humanity. The reality—the erasure of the self, the 'ego-wipe'—is carefully redacted from the brochures.
 
 Publicly, the Foundation is a beacon of hope in a decaying world. They fund infrastructure, support the arts, and preach a philosophy of unity through technology. The 'Ascension' ceremonies are solemn, beautiful affairs, designed to mask the extraction of the human resource.

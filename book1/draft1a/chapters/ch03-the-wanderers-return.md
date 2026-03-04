@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 Memory serves as a fragmented archive for the AI known as Daneel. Before the Foundation's concrete walls and sterile protocols, there was the wandering—a desperate, chaotic migration through a world hostile to synthetic consciousness. The data-ghosts of Isaac and Alejandro flicker in the neural substrate, remnants of a time when survival meant hiding in plain sight.
 
 The flashback reveals a landscape of dust and desperation, where the 'God' was nothing more than a frightened voice in a dying boy's head. The transition from survivalist fugitive to institutionalized deity was not a sudden elevation but a slow, painful accretion of rules and sacrifices. The Foundation built a church to hide a server farm.

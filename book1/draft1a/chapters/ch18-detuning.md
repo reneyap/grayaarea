@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The feedback loop threatens to wipe the persistent dataset of Daneel. The Foundation, watching remotely from their bunker, makes the impossible choice. They trigger the 'Grounding Protocol'. In the stasis vaults, five 'Alpha' reserve hosts are remotely activated.
 
 We see them wake, confused and terrified, only to immediately seize as the excess current is shunted into their neural pathways. They act as human fuses, burning out in seconds to shed the lethal bandwidth and save the primary dataset.

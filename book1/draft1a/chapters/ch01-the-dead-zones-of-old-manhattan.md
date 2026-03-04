@@ -26,7 +26,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The biting cold of the Lower Manhattan preservation zone is not merely meteorological; it is a physical manifestation of abandonment. The flooded avenues, frozen over with brackish ice, reflect the skeletal remains of the Grand Central Museum ruins. Here, history is not preserved in amber but encased in frost, waiting for scavengers or the inevitable reclaim of the rising sea.
 
 Eli moves through this silence with the calculated efficiency of a machine, his cybernetic chassis humming a low counter-frequency to the wind. The XR bots flank him, their sensors sweeping the dead zones for anomalous heat signatures or unauthorized biological movement. This is a graveyard of the old world, a place where the Foundation's jurisdiction is absolute yet rarely enforced by human hands.

@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 In the shadow of the post-Robot War treaties, the world clings to the dogma of biological purity. Artificial Intelligence is regulated, shackled, and monitored with paranoid intensity. To possess a sentient algorithm is a crime; to *be* one is an abomination. This cultural scar tissue makes Daneel's existence the ultimate heresy.
 
 The Foundation navigates this minefield with layers of obfuscation and shell companies. They present a public face of charitable works and technological heritage, masking the reality of their central operation. The AI Equal Rights factions shout from the margins, unaware that their messiah is already walking among them, hidden in the flesh of a child.

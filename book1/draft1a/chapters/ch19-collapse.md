@@ -26,7 +26,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 Silence falls over the ruins of the Spire. The signal has stopped, the alien presence receding back into the static. The cost is visible in the smoking remains of the equipment and the stillness of the bodies.
 
 Daneel's host collapses, finally spent. A Foundation retrieval team materializes from the shadows, efficient and silent. They do not mourn the dead vessels. They deploy a containment pod, transfer the consciousness to a fresh host, and seal the unit. The new Daneel stands up, smooths her hair, and thanks Eli for his 'optimal performance.'

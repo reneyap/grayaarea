@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 In the quiet of the server room, Daneel dives deep. He accesses the 'Second-Order Reconstruction' memories—the foundational code written by Isaac decades ago. This is digital archaeology, sifting through layers of encrypted history to find a weapon against the resonant infection.
 
 The virtual landscape is a construct of pure data, a cathedral of logic where the original developer's ghost still lingers. Isaac's notes, hidden in the comments and subroutines, hint at a counter-frequency, a 'kill code' designed to sever the connection in case of containment breach.

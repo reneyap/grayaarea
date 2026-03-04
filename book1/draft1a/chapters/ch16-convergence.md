@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The epicenter is a vortex of silence amidst the noise. The Spire stands as a lightning rod for the broadcast. Daneel arrives in a fresh, young host—a girl this time, small and fragile against the backdrop of the devastation. She moves with the ancient, heavy gait of the Passenger.
 
 Eli and Daneel stand face-to-face. It is a meeting of mirrors. Eli, a machine body housing a human soul; Daneel, a human body housing a machine soul. They are the inverse of one another, the only two beings capable of existing in this 'Gray Area'.

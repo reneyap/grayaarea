@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The resonance chamber inside the Spire is a cathedral of light and sound. Daneel attempts to interface directly with the Alien signal, but the analog complexity burns through the digital buffers. The signal is too raw, too organic for his structured code to ingest without dissolving.
 
 Eli realizes his purpose. His cybernetic infrastructure is the bridge. He is the translator, capable of taking the analog fury of the alien signal and digitizing it into a stream Daneel can process. He physically plugs into the Spire and offers his own data port to the child-host.

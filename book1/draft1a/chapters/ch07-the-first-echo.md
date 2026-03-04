@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 New Zealand, years ago. The air was different there, before the silence. A young Eli experienced the X20 event not as a political shift, but as a physical shattering. The resonant frequency that tore through the population did not kill him; it unmade him, stripping away the biological coherence and necessitating the cybernetic reconstruction that defines him now.
 
 This origin story is the anchor for his unique physiology. He is a man built to withstand vibration, a tuning fork reinforced with titanium and synthetic weave. The memory is a blur of pain and noise, a white-hot tone that cauterized his humanity and left him something else.

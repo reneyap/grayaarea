@@ -25,7 +25,6 @@
 
 <!-- Begin prose draft below this line -->
 
-### Context
 The legal framework of 'Human Supremacy' attempts to define the indefinable, drawing sharp lines between the rights of the flesh and the property status of the machine. Yet, within the Foundation's inner sanctum, these laws are inverted. Here, the human vessel is the hardware—replaceable, upgradeable, and ultimately disposable—while the software is the sacred, protected soul.
 
 Military escorts enforce the perimeter, their orders clear: protect the asset at all costs, even if it means sacrificing the host. The tension is palpable in the way the soldiers avert their eyes from the child, unable to reconcile the innocence of the face with the immense, alien intellect behind it. Logic dictates the protocol, but instinct screams against it.
