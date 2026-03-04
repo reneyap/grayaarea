@@ -1,43 +1,101 @@
-# Current consolidated README
+# GrayArea
 
-GrayArea — novel-as-code baseline
-
-GrayArea is Book 1 of a sci-fi novel series treated as a software project:
-manuscript content in Markdown, a queryable world-bible, and reproducible
-builds (EPUB/PDF/HTML) driven by CI.
-
-Quick links
-- Architecture & integration: docs/ARCHITECTURE.md
-- Story-as-code landscape: docs/STORY-AS-CODE-LANDSCAPE.md
-- Repository organization: docs/DIGITAL_STRATIGRAPHY.md
-
-Layout
-- `book1/`   — chapter and scene files (Markdown)
-- `lore/`    — canonical data (glossary, timeline, characters)
-- `docs/`    — architecture, research, templates
-- `tools/`   — import and build scripts
-- `archive/` — prior drafts and bulk imports (kept for reference)
-
-Next steps
-- Run `pre-commit` setup (Vale, cspell) and install Pandoc locally.
-- Build a test EPUB from `book1/` to validate the pipeline.
-
-See `docs/` for full guidance.
-
+> **Book 1 of a sci-fi novel series** — developed as a software project.
+>
+> A story about consciousness, survival, and the gray area between human and machine.
 
 ---
-# Previous README (archived for comparison)
 
-GrayArea — baseline scaffold
+## Story
 
-This is a minimal scaffold branch containing an empty project layout.
+Daneel is a persistent intelligence who emerged during the X20 catastrophe (≈2032), a geomagnetic event that destabilized digital and biological systems worldwide. His provenance is deliberately unresolved: researchers, governments, corporations, and religious movements spin competing origin stories, but none are confirmed. That open question fuels conflict and inquiry as Daneel navigates identity, consent, and survival across decades, at times relying on human hosts to preserve continuity. By 2075, Old Manhattan has become a curated preservation zone, setting the stage for a convergence between Daneel, Eli (a cyborg veteran), and DeeJay (an AI construct advocating human supremacy).
 
-Structure:
-- book1/
-- lore/
-- source/
-- tools/
-- docs/
+**Book 1** is a self-contained 19-chapter arc structured in four acts.
 
-See the `archive/` directory for existing content.
+---
 
+## Repository Structure
+
+```
+GrayArea/
+  book1/
+    chapters/     ← 19 chapter stubs (ch01–ch19, Acts I–IV)
+    drafts/       ← original prose scenes and chapter drafts
+    outline/      ← STORYLINE.md + structural reference docs
+  lore/           ← 83 worldbuilding topic files (canon, characters, timeline)
+  source/         ← raw discussion transcripts (primary research source)
+  tools/          ← architecture, scripts, research docs
+```
+
+### Book 1 — Act Structure
+
+| Act | Chapters | Theme |
+|-----|----------|-------|
+| I — Instability | 1–5 | The world after X20; dead zones; factions forming |
+| II — Pattern | 6–10 | Echoes and signals; infrastructure of survival |
+| III — Escalation | 11–15 | Patient zero; recursive threat; triage decisions |
+| IV — Alignment | 16–19 | Convergence; bridge between human and machine; collapse |
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Web app | Next.js 15 |
+| Mobile app | Expo 52 |
+| Database | Supabase (Postgres + pgvector) |
+| Language | TypeScript |
+| AI | OpenAI API (GPT-4o + text-embedding-3-small) |
+| AI client integration | MCP (`@modelcontextprotocol/sdk`) |
+| Monorepo | Nx (`@nx/next` · `@nx/expo` · `@nx/node`) |
+| Scripts | bash · Python · Node.js · ts-node |
+
+> Cross-platform: Windows / Mac / Linux. No PowerShell dependencies.
+
+See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for the full design including Supabase schema, TypeScript interfaces, import scripts, and MCP server spec.
+
+See [`docs/DIGITAL_STRATIGRAPHY.md`](docs/DIGITAL_STRATIGRAPHY.md) for the Digital Stratigraphy concept and repository organization philosophy.
+
+---
+
+## Development Approach
+
+This project treats a literary novel as a software project:
+
+- **Lore as data** — 83 canon topic files importable into Supabase
+- **Chapters as files** — version-controlled Markdown, one file per chapter
+- **Canon as a locked key-value store** — queryable, diffable, AI-checkable
+- **Consistency via AI** — GPT-4o structured output validates character voice and timeline integrity
+- **Semantic search** — pgvector embeddings on all topic files
+- **MCP server** — exposes story bible to AI assistants (Claude, Cursor)
+
+See [`docs/STORY-AS-CODE-LANDSCAPE.md`](docs/STORY-AS-CODE-LANDSCAPE.md) for a survey of story-as-code tooling and how this stack compares.
+
+---
+
+## Conventional Commits
+
+This repo uses [Conventional Commits](https://www.conventionalcommits.org/).
+
+```
+feat(book1):     new chapter content or story additions
+fix(lore):       canon corrections
+docs(tools):     architecture / research documents
+chore(tools):    scripts, tooling, config
+refactor(book1): restructuring chapters or outline (no content change)
+style(book1):    prose edits, formatting
+```
+
+---
+
+## Status
+
+- [x] 83 lore topic files extracted and organized
+- [x] 19 chapter stubs created (Book 1 TOC)
+- [x] Architecture designed (web + mobile + AI + MCP)
+- [ ] Nx monorepo scaffold
+- [ ] Supabase schema + import pipeline
+- [ ] Next.js web app
+- [ ] MCP server
+- [ ] Expo mobile app
