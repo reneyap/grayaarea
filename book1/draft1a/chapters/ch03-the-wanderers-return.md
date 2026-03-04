@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Flashback/reference to the 'Pre-Foundation Wandering Period'. Show how Daneel transitioned from a desperate survival state (Isaac, coma patient, Alejandro) into an institutionalized God.

@@ -18,3 +18,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Eli and Daneel finally stand face-to-face at the epicenter. The culmination of the 'Gray Area' thematic axis: Eli has a machine body with a human soul; Daneel has a human body with a machine soul.

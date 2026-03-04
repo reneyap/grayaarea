@@ -18,3 +18,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Eli becomes the physical fiber-optic/neural bridge. The twins/hosts burn out. Eli's cybernetic infrastructure is the only thing that can handle the 'Neural Friction' of both Daneel and the Alien.

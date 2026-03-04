@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Introduce Foundation tracking. Show a brief perspective from a 'Bio-Monitor' logging anomalous 'Neural Heat' in their current host, hinting at the physiological strain of the AI co-habitation.

@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Discovering the infection isn't biological. It's a spontaneous replication of the original PRIME/Alien consciousness evolution (X20 birth event), trying to 'entrain' every human mind at once.

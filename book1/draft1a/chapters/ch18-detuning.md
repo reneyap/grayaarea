@@ -18,3 +18,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Breaking the frequency. The Foundation is forced to sacrifice their 'Alpha' reserve hosts to act as grounding wires, shedding the lethal bandwidth to save the persistent dataset.

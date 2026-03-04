@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+A visceral scene inside the NSC-AS 'Halo'. A 10-year-old child successfully synchronizes with the strobe, demonstrating the terrifying, sterile 'Liturgy of Resonance' without emotion.

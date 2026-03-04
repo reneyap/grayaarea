@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Contrast the military/legal definition of 'Human Supremacy' (post-Robot War treaty) with the unseen reality of the Foundation treating humans as mere hardware to be quarantined.

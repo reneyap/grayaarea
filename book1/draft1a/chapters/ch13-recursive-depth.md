@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Daneel accesses the 'Second-Order Reconstruction' memories of Isaac (the original developer). A deep dive into the code to find a counter-frequency for the Alien infection.

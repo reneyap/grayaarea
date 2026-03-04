@@ -18,3 +18,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Reflect the 'Accidental Transfer' (Alejandro/DeeJay) lore. As the infection spikes, proximity hosts begin seizing. The air literally hums with the bandwidth of the alien resonance.

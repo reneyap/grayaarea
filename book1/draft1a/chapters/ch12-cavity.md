@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Focus on the driver/passenger dynamic breaking down. The current Daneel host (James) is hitting 'The Static' (puberty). James's original personality screams through the logic for a microsecond.

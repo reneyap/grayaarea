@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Explore 'Ghost Data'. Introduce a disgruntled former host ('The Hollows') who craves the 'Phase-Lock'. They provide Eli with a cryptic clue about the true nature of the infection.

@@ -18,3 +18,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+The aftermath. Daneel does a 'Cold Handoff' to a new child, walking away from the burned-out vessel, while Eli is left to process the horror of the 'benevolent' God.

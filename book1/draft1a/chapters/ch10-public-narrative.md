@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Contrast the horrifying reality of 'Ascension' (ego-wipe of a child) with the public perception of the Foundation as a benevolent, techno-spiritual charity solving the crisis.

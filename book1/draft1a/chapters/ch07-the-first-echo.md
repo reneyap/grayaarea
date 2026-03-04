@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Flashback to Eli's 'NZ Echo Event at Age 10'. The resonant frequency that shattered his original body and necessitated his cyborg reconstruction, tying him fundamentally to the X20 origin.

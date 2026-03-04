@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Reveal the Foundation's logistical nightmare: The Active Pod, ensuring 'Proximity Shadow Pods' are always within a 3-mile radius of Daneel in case of sudden vessel failure.

@@ -18,3 +18,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+Eli is forced to make a calculated, machine-like decision, mirroring Daneel's own cold logic. The line between cyborg-human (Eli) and human-software (Daneel) blurs.

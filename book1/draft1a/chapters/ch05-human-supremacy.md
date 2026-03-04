@@ -20,3 +20,7 @@
 ## Draft
 
 <!-- Begin prose draft below this line -->
+
+
+## Vignette
+A tense interaction highlighting the cultural scars of the Robot War. AI is strictly regulated (AI Equal Rights Factions exist but are marginalized), showing exactly why Daneel MUST hide in biological hosts.
