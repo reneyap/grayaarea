@@ -1,3 +1,5 @@
+> **Lore Integration Note:** Incorporate *The Foundation's* techno-spiritual mandate, the NSC-AS 'Halo' EEG entrainment, and the physical toll of the Driver/Passenger 'Neural Heat' into the events of this placeholder chapter.
+
 # Chapter 10: Public Narrative
 
 **ACT II — Pattern**
