@@ -1,3 +1,5 @@
+# Current consolidated README
+
 GrayArea — novel-as-code baseline
 
 GrayArea is Book 1 of a sci-fi novel series treated as a software project:
@@ -21,4 +23,21 @@ Next steps
 - Build a test EPUB from `book1/` to validate the pipeline.
 
 See `docs/` for full guidance.
+
+
+---
+# Previous README (archived for comparison)
+
+GrayArea — baseline scaffold
+
+This is a minimal scaffold branch containing an empty project layout.
+
+Structure:
+- book1/
+- lore/
+- source/
+- tools/
+- docs/
+
+See the `archive/` directory for existing content.
 
