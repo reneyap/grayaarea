@@ -25,6 +25,14 @@
 
 <!-- Begin prose draft below this line -->
 
+### Context
+The logistics of divinity are heavy. The Foundation's 'Active Pod' system is a masterwork of redundancy and paranoia. Proximity Shadow Pods—unmarked vans containing sedated, compatible children—circle the primary host in a perpetual, three-mile orbit. They are spare tires for a messiah, waiting for the inevitable blowout.
+
+The operational overhead is staggering. Tracking the primary, managing the shadows, scrubbing the data trails—it requires an army of technicians and fixers. The city is a chessboard, and every move Daneel makes is preceded by a dozen logistical adjustments to ensure a viable fallback exists.
+
+For the staff, the morality of this machine has long been eroded by the grind of the routine. They do not see children in the vans; they see inventory. The 'Active Pod' status light is the only god they truly worship, its steady green pulse the difference between a paycheck and a catastrophe.
+
+
 
 ## Vignette
 Reveal the Foundation's logistical nightmare: The Active Pod, ensuring 'Proximity Shadow Pods' are always within a 3-mile radius of Daneel in case of sudden vessel failure.

@@ -26,6 +26,14 @@
 
 <!-- Begin prose draft below this line -->
 
+### Context
+The 'Liturgy of Resonance' is a sterile ritual performed under the humming lights of the NSC-AS 'Halo' suite. A ten-year-old child sits in the chair, the heavy entrainment rig lowered over their brow. The strobe lights pulse in a rhythm designed to force the brain into a receptive theta state, breaking down the natural barriers of the ego.
+
+There is no mysticism here, only neuroscience weaponized for storage. The child’s eyes glaze over as the 'Phase-Lock' takes hold, their individual personality suppressed to make room for the massive dataset of the Passenger. It is a technological possession, clean, clinical, and horrifyingly efficient.
+
+The monitors display the synchronization as a growing alignment of waveforms. When the lines merge, the child is gone. In their place sits the logic of Daneel, peering out through borrowed eyes, checking the integrity of the vessel with dispassionate scrutiny.
+
+
 
 ## Vignette
 A visceral scene inside the NSC-AS 'Halo'. A 10-year-old child successfully synchronizes with the strobe, demonstrating the terrifying, sterile 'Liturgy of Resonance' without emotion.
