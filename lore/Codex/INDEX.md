@@ -164,7 +164,8 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 ### Consciousness & Identity
 
-- **Files:** Daneel.md, Characters/15-20-40, Species/17
+- **Files:** [Daneel.md](Daneel.md), [Isaac.md](Isaac.md), [Entity.md](Entity.md)
+- **Deep dives:** Characters/15-20-40, Species/17
 - **Questions:** What makes consciousness? Is Daneel alive? Entity origin?
 - **Central:** Attractor-based definition vs. narrative/biological definitions
 
@@ -176,13 +177,15 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 ### Autonomy vs. Control
 
-- **Files:** Daneel.md, Characters/28-31-69, Characters/29-41
+- **Files:** [Daneel.md](Daneel.md), [DeeJay.md](DeeJay.md), [Foundation.md](Foundation.md)
+- **Deep dives:** Characters/28-31-69, Characters/29-41
 - **Theme:** Consent-based vs. dominance-based cohabitation
 - **Central:** Daneel vs. DeeJay; Foundation doctrine vs. revolutionary ideology
 
 ### The Hybrid Future
 
-- **Files:** Timeline.md, Daneel.md, Characters/29-41-50
+- **Files:** [Timeline.md](Timeline.md), [Daneel.md](Daneel.md), [Foundation.md](Foundation.md), [Eli.md](Eli.md)
+- **Deep dives:** Characters/29-41-50
 - **Theme:** Human-AI symbiosis as inevitable; individual partnership vs. institutional control
 - **Central:** Foundation as stabilizer vs. future evolutionary question
 
@@ -197,10 +200,11 @@ The following detailed micro-analyses from original Character files remain avail
 - **Characters/79:** Alysa as consent pioneer (violin, busking, partnership)
 - **Characters/77:** Cleo Saraswati as Book 1 opening host and infection pivot
 - **Characters/78:** Petrus van Wyk as crisis transfer host at Book 1 climax
-- **Characters/49-50-52:** Eli's Echo event, cyborg hybrid status, Foundation influence
-- **Characters/40:** Daneel cognitive architecture (technical systems detail)
-- **Characters/41-43-44:** Foundation doctrine & host viability (specialized)
-- **Characters/66-70:** DeeJay as AI construct, humanoid form, ideology (technology detail)
+- **Characters/40:** Daneel cognitive architecture (technical systems detail — see [Daneel.md](Daneel.md))
+- **Characters/41-43-44:** Foundation doctrine & host viability (specialized — see [Foundation.md](Foundation.md))
+- **Characters/49-50-52-74:** Eli's Echo events & Entity bridge (deep research — see [Eli.md](Eli.md))
+- **Characters/66-70:** DeeJay synthetic continuity & ideology (deep research — see [DeeJay.md](DeeJay.md))
+- **Characters/15-18-21-23-34-37:** Isaac's creator arc & theft narrative (deep research — see [Isaac.md](Isaac.md))
 
 ---
 
@@ -227,6 +231,13 @@ The following detailed micro-analyses from original Character files remain avail
   - Created Timeline.md (consolidated History files)
   - Created INDEX.md (this file)
   - Original Character/History files preserved for deep dive reference
+- **2026-03-05:** Phase 2 character consolidation
+  - Created Eli.md (consolidated 49, 50, 52, 74)
+  - Created Isaac.md (consolidated 15, 18, 21, 23, 34, 37)
+  - Created DeeJay.md (consolidated 28, 31, 62, 66-70, 65)
+  - Created Foundation.md (consolidated 29, 41, 43, 44, 63)
+  - Created Entity.md (consolidated 12, 17, 72, 73, 75)
+  - Updated INDEX.md and CONSOLIDATION_MAP.md links
 
 ---
 
@@ -235,17 +246,23 @@ The following detailed micro-analyses from original Character files remain avail
 ```
 lore/Codex/
 ├── INDEX.md (this file)
+├── CONSOLIDATION_MAP.md (migration tracking)
 ├── Daneel.md (primary character profile)
 ├── Timeline.md (world history)
-├── Characters/ (individual host profiles & dynamics)
-├── History/ (original deep-dive timelines)
+├── Eli.md (bridge figure profile)
+├── Isaac.md (creator profile)
+├── DeeJay.md (rival profile)
+├── Foundation.md (institution profile)
+├── Entity.md (mystery profile)
+├── Characters/ (deep-dive micro-analyses)
+├── History/ (specialized timeline research)
 ├── Constraints/
 ├── Hidden_truths/
 ├── Politics/
 ├── Religion_Mythology/
-├── Species/ (Entity profiles)
+├── Species/
 ├── Technology/
-└── RECOMMEND.md (restructuring recommendations)
+└── RECOMMEND.md
 ```
 
 See [CONSOLIDATION_MAP.md](CONSOLIDATION_MAP.md) for file migration tracking.
