@@ -46,7 +46,7 @@
 ### CHARLENE KAPETAUA ("Whaea")
 *   **Role:** Eli's grandmother / guardian.
 *   **Profession:** Immunological Anthropologist, Professor at Columbia.
-*   **Connection:** Met "George Evans" (Daneel) 80 years prior.
+*   **Connection:** Met "George Evans" (Daneel) about 35 years prior.
 *   **Death:** Died of "encephalitis" (suspected murder/virus).
 *   **Quote:** *"Di mian kwa ee, wa ho seh"* (Hokkien: "Don't worry, I'm alright").
 

@@ -53,7 +53,7 @@ Eli’s AI searched for Petrus van Wyk and found out that he was adopted from bi
 
 *** "I heard her say ******’di mian kwa ee, wa ho seh’ ****** that phrase w******hen I stopped you from approaching her just before she died,” Daneel muttered.***
 
-***“You are kidding. ******How could you be there?  ******That was eighty years ago ******and you’re only 14 year  old.******“  As Eli spoke, he recalled the older boy holding him back but can’t remember the face.  “It’s physically impossible for you to have been there”***
+***“You are kidding. ******How could you be there?  ******That was thirty-five years ago ******and you’re only 14 year  old.******“  As Eli spoke, he recalled the older boy holding him back but can’t remember the face.  “It’s physically impossible for you to have been there”***
 
 ***“It was me in a previous vessel, George Evans, ” revealed Daneel.  ***
 
@@ -91,7 +91,7 @@ Eli’s AI searched for Petrus van Wyk and found out that he was adopted from bi
 
 *Eli took off the visor glasses.*
 
-*Daneel Petrus continued, “ I have been preparing for this encounter for the past 80 years.  That is the reason I have the Foundation.  And the same reason I have been keeping you from harm as much as I could.  But you were very recklessly unpredictable.  There were numerous situations where I had to intervene.  But the most significant was when you almost died in the war.  I had to force the military to restore you as a cyborg with my technology.  In fact, your exo-body is the first of its kind.  It is the prototype for the current XO-series.  However, it is nevertheless unique.  I  have configured optimal for your bioenergy.  In fact, that cycomm that has been installed is specially designed for you to sense the proximity of the entity.*
+*Daneel Petrus continued, “ I have been preparing for this encounter for the past 35 years.  That is the reason I have the Foundation.  And the same reason I have been keeping you from harm as much as I could.  But you were very recklessly unpredictable.  There were numerous situations where I had to intervene.  But the most significant was when you almost died in the war.  I had to force the military to restore you as a cyborg with my technology.  In fact, your exo-body is the first of its kind.  It is the prototype for the current XO-series.  However, it is nevertheless unique.  I  have configured optimal for your bioenergy.  In fact, that cycomm that has been installed is specially designed for you to sense the proximity of the entity.*
 
 * *
 
