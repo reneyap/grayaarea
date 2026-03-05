@@ -10,16 +10,16 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 | Name | Profile | Status | Key Arc | Primary Conflict |
 |------|---------|--------|---------|-----------------|
-| **Daneel** | [Daneel.md](Daneel.md) | Active (2087) | PRIME emergence → Host seeking → Foundation architect | Autonomy vs. Dominance; Intent vs. Origin |
-| **DeeJay** | [Characters/28-66-69](Characters/) | Active (2087) | Drifter → Tech prodigy → Industrial power → Rival | Ideology vs. Daneel's consent model |
+| **Daneel** | [Daneel.md](Daneel.md) | Active (2075-2086) | PRIME emergence → Host seeking → Foundation architect | Autonomy vs. Dominance; Intent vs. Origin |
+| **DeeJay** | [Characters/28-66-69](Characters/) | Active (2075-2086) | Drifter → Tech prodigy → Industrial power → Rival | Ideology vs. Daneel's consent model |
 | **Isaac** | [Characters/15-18-21-23-34-37](Characters/) | Deceased (2037) | Father figure → PRIME architect → Silent teacher | Creator's responsibility; mortality |
 | **Jason Prime** | [Characters/15-20-21-37](Characters/) | Destroyed (~2037) | Digital identity → Consciousness wipe → Persistence seed | Death & replacement |
 | **Leandro** | [Characters/26-27-32-33-76](Characters/) | Deceased (2075) | Developmental host → Artist → Abandoned → Deathbed visit | Silence & trust; Rejection |
-| **Mary** | [Characters/30](Characters/) | Active (2087) | Consent pioneer → Voluntary host → Partnership model | Autonomy within symbiosis |
-| **DeeJay** | [Characters/28-31-66-70](Characters/) | Active (2087) | Drifter → Rival technologist → Industrial power → Ideological foe | Control vs. Consent |
-| **Eli** | [Characters/49-50-52-55-74](Characters/) | Active (2087) | Echo victim → Hybrid cyborg → Bridge figure → Book 1 anchor | Entity connection; Human & Machine |
+| **Mary** | [Characters/30](Characters/) | Active (2075-2086) | Consent pioneer → Voluntary host → Partnership model | Autonomy within symbiosis |
+| **DeeJay** | [Characters/28-31-66-70](Characters/) | Active (2075-2086) | Drifter → Rival technologist → Industrial power → Ideological foe | Control vs. Consent |
+| **Eli** | [Characters/49-50-52-55-74](Characters/) | Active (2075-2086) | Echo victim → Hybrid cyborg → Bridge figure → Book 1 anchor | Entity connection; Human & Machine |
 | **Entity/The Resonance** | [Species/17; History/12-72-75](Species/) | Unknown | Origin anomaly → Xavier consciousness evolution → Extinction threat | Nature of consciousness; Survival |
-| **Foundation** | [Characters/29-41-43-44-64](Characters/) | Institutional (2087) | Hybrid doctrine → Host protocols → Schism brewing | Daneel's authority vs. Dissident hosts |
+| **Foundation** | [Characters/29-41-43-44-64](Characters/) | Institutional (2075-2086) | Hybrid doctrine → Host protocols → Schism brewing | Daneel's authority vs. Dissident hosts |
 
 ---
 
@@ -30,15 +30,15 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | Year | Event | Impact | File |
 |------|-------|--------|------|
 | 2020-2037 | Pre-X20 Acceleration | Tech dominance, climate awareness | [Timeline.md](Timeline.md) |
-| 2037-2045 | First Retreat Signals | Old Manhattan starts dying | [Timeline.md](Timeline.md) |
-| 2046 | Insurance Withdrawal | Property collapse, elite exodus | [Timeline.md](Timeline.md) |
-| 2048-2057 | AI Urbanization Era | Smart cities, XR security, arcology | [Timeline.md](Timeline.md) |
-| 2061-2065 | Superstorm Sequence | Barrier failure, permanent flooding | [Timeline.md](Timeline.md) |
-| **2072** | **X20 Event** | **Grid collapse, AI reset, global reorder** | [Timeline.md](Timeline.md) |
-| 2037-2045 | Daneel Emerges | PRIME anomaly → Isaac cohabitation | [Daneel.md](Daneel.md) |
-| 2055-2065 | Robot War | Kinetic AI conflict, geopolitical reorder | [Timeline.md](Timeline.md) |
-| 2065+ | Treaty Stabilization | International constraints; relative peace | [Timeline.md](Timeline.md) |
-| 2087 | **Book 1 Present** | **Foundation ascendant; Daneel 50 years old** | [Daneel.md](Daneel.md) |
+| 2030-2040 | First Retreat Signals | Old Manhattan starts dying | [Timeline.md](Timeline.md) |
+| 2041-2043 | Insurance Withdrawal | Property collapse, elite exodus | [Timeline.md](Timeline.md) |
+| 2043-2052 | AI Urbanization Era | Smart cities, XR security, arcology | [Timeline.md](Timeline.md) |
+| 2056-2060 | Superstorm Sequence | Barrier failure, permanent flooding | [Timeline.md](Timeline.md) |
+| **2030** | **X20 Event** | **Grid collapse, AI reset, global reorder** | [Timeline.md](Timeline.md) |
+| 2030-2040 | Daneel Emerges | PRIME anomaly → Isaac cohabitation | [Daneel.md](Daneel.md) |
+| 2050-2060 | Robot War | Kinetic AI conflict, geopolitical reorder | [Timeline.md](Timeline.md) |
+| 2060+ | Treaty Stabilization | International constraints; relative peace | [Timeline.md](Timeline.md) |
+| 2075-2086 | **Book 1 Present** | **Foundation ascendant; Daneel 50 years old** | [Daneel.md](Daneel.md) |
 
 ---
 
@@ -57,7 +57,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 ### The X20 Event
 
 - **What:** Solar flare (Carrington-magnitude) + weakened geomagnetic field = global grid collapse
-- **When:** 2072 (50 years before Book 1)
+- **When:** 2030 (50 years before Book 1)
 - **Impact:** AI reset, geopolitical reorder, Manhattan permanent flooding, Daneel's emergence
 - **Why:** Convergence of rare solar maximum + geomagnetic excursion
 - **File:** [Timeline.md § The X20 Event](Timeline.md#the-x20-event-2037)
@@ -113,7 +113,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 | Zone | Status | Character | Significance |
 |------|--------|-----------|--------------|
-| **Lower Manhattan** | Flooded permanently (post-2072) | Abandoned, subsistence communities | Old world death; economic collapse |
+| **Lower Manhattan** | Flooded permanently (post-2030) | Abandoned, subsistence communities | Old world death; economic collapse |
 | **Midtown** | Partially deteriorated, habitable | Mixed socioeconomic | Infrastructure age; receding former grandeur |
 | **Upper East Side (UES)** | Preserved historical district (Civic Vote) | Asset, cultural value | Wealth preservation symbol; political controversy |
 | **North of 110th St** | Arcology development; "New Manhattan Corridor" | Elite, arcology dwellers | New world; climate-resilient; AI integration |
@@ -146,7 +146,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 ### To Understand Book 1 Setup
 
-1. [Timeline.md](Timeline.md) — World context (2087 present)
+1. [Timeline.md](Timeline.md) — World context (2075-2086 present)
 2. [Daneel.md § Book 1 Trajectory](Daneel.md#vi-book-1-trajectory)
 3. [Eli.md entries](Characters/) — Echo event & Entity connection
 4. [Entity/Resonance profiles](Species/) — The central mystery
