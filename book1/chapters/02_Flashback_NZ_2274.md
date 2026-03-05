@@ -26,7 +26,7 @@ I was fascinated at the biological architecture of cellular structures, where ce
 
 Ah, those foolish attempts with those comatose victims were hard lessons learned. Had fate not intervened, I would not have survived.  I was gifted continuity. Now the task at hand required me to analyze what is causing the current outbreak. I was  curious if there was  another entity like me that was  seizing control over bodies.  And in the process, I hoped to possibly understand my own origins.  
 
-## Eli  (14 years old)
+## Eli  (10 years old)
 “Whaea, when can we go out?  I’m bored.  There isn’t anything to do here,” Eli whined.
 
 “Lije, we are still in quarantine.  We need to stay at home.  Until this outbreak is contained, we are not going out! Is that clear?!  ”

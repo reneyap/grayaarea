@@ -25,7 +25,7 @@ His AI informed him that the name Daneel is frequently used as a figurehead titl
 
 He didn’t understand her   but the phrase sounded familiar.  He gave her a puzzled look and said, “You are severely infected.  Rest for now.  I’ll come back later when your parents are here and you have rested.
 
-Interrupting Eli, Cleo coughed, cleared her throat and slowly whispered the same phrase.  Eli leaned towards her and listened carefully.  Eli had heard that phrase before.  He was then yanked back to the time when he was 15 years old -- and suddenly remembered those were the last words from his *Whaea*.  Words he didn’t understand then and still had no idea what they meant. 
+Interrupting Eli, Cleo coughed, cleared her throat and slowly whispered the same phrase.  Eli leaned towards her and listened carefully.  Eli had heard that phrase before.  He was then yanked back to the time when he was 11 years old -- and suddenly remembered those were the last words from his *Whaea*.  Words he didn't understand then and still had no idea what they meant.
 
 “Wha.. what?  What are you saying,...” Eli asked.
 
