@@ -1,5 +1,8 @@
 # Chapter 8: Leandro, DJ, Alyssa
- think it’ll be good for DJ to keep Leandro company
+
+**[~2047-2048: DeeJay Era]**
+
+think it'll be good for DJ to keep Leandro company
 
 [DJ is like “Anna Sorokin” ]] He’s- fraudster who convinced people that was a rich Russian oligarch’s nephew.
 
@@ -20,6 +23,10 @@ Leandro was ecstatic when Daneel left.  He no longer hears that voice in his hea
 DJ stayed with Leandro for a few more weeks...with Daneel in him.
 
 While DJ sleeps till noon after each midnight gambling spree,  Daneel was able to seize control and step out into the light of day.    He knew this arrangement with DJ had to stop soon.   DJ consuming too much alcohol,  ruining his body and more specifically his brain, making him an unsuitable host.  
+
+---
+
+**[TIME JUMP: 2075 — Twenty-Eight Years Later]**
 
 In one of these escapades, as he walks along the pathway in Central Park, Daneel sees music -- a whiff of different brilliant  hues of blue  and red.  He follows it and finally hears her playing the violin,  a young, thin curly haired busker.  He sits on a bench near her.  Fascinating how a young human can play like that.  The colors are so intense.  Leandro never has shown such colors.  Is it the instrument?   Or the violinist?
 
