@@ -3,18 +3,16 @@
 > Status note (2026-03-05): This document is now partly historical. Major consolidation and dedup steps have already been implemented; remaining items are future optimization suggestions.
 
 ## Current State Analysis
-- **Total files**: 81 (post-consolidation, post-dedup snapshot)
-- **Characters**: 42 files (56%)
-- **History**: 17 files (23%)
-- **Meta**: 8 files (11%)
-- **Other**: 8 files (10%)
-- **Empty categories**: Artifacts, Folklore, Knowledge_systems, Language (4 unused buckets)
+- **Program state**: Major consolidation and dedup work completed; remaining work is optimization and governance.
+- **Content distribution**: Character and history deep-dive directories still dominate file volume.
+- **Canonical layer**: Core profiles (`Daneel.md`, `Timeline.md`, `Isaac.md`, `DeeJay.md`, `Eli.md`, `Entity.md`, `Foundation.md`, `Leandro.md`, `Alysa.md`, `Cleo.md`, `Petrus.md`, `INDEX.md`) is active and aligned.
+- **Category status**: Some buckets remain low/zero-use (`Artifacts`, `Folklore`, `Knowledge_systems`, `Language`) and can be collapsed in a future structure pass.
 
 ---
 
 ## Problem Areas
 
-### 1. **Narrative Fragmentation in Characters (42 files)**
+### 1. **Narrative Fragmentation in Characters**
 Characters are split across 40+ micro-documents covering:
 - Single events (e.g., "32-Chess-Gaming-Event")
 - Inter-character dynamics (e.g., "76-Daneel-Kinship-Ambivalence-Leandro-Parallel")
@@ -28,7 +26,7 @@ Characters are split across 40+ micro-documents covering:
 - 40: Cognitive Architecture (system overview)
 
 ### 2. **Mixed Purpose Categories**
-- **Meta** folder (8 files): Contains Book 1 structural analysis, TOC debates, word count discussions → Not lore reference material
+- **Meta** folder (legacy planning set): Contains Book 1 structural analysis, TOC debates, word count discussions → Not lore reference material
 - **Characters**: Some files are narrative (25-27), others are system design (40), others are event-specific (32-35)
 
 ### 3. **Inconsistent File Organization**
