@@ -4,9 +4,9 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-## PRE-X20 ERA (2020-2037)
+## PRE-X20 ERA (2020-2030)
 
-### The Acceleration Decade (2020-2037)
+### The Acceleration Decade (2020-2030)
 
 **Climate & Infrastructure**
 - Sea level rise begins accelerating beyond mid-range projections
@@ -33,9 +33,9 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-## THE RETREAT & COLLAPSE PHASE (2037-2072)
+## THE RETREAT & COLLAPSE PHASE (2030-2077)
 
-### First Retreat Signals (2037-2045)
+### First Retreat Signals (2030-2040)
 
 - Repeated "100-year" storms occur every 3-4 years
 - Saltwater intrusion damages subway systems
@@ -49,7 +49,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-### Insurance Withdrawal Crisis (2046-2048)
+### Insurance Withdrawal Crisis (2041-2043)
 
 - Major insurers pull out of Lower Manhattan
 - Federal government subsidizes temporary coverage
@@ -59,7 +59,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-### AI Urbanization Era (2048-2057)
+### AI Urbanization Era (2043-2052)
 
 **Technology Deployment**
 - Autonomous XR security units deployed in high-risk zones
@@ -76,7 +76,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-### Atlantic Circulation Instability (2057)
+### Atlantic Circulation Instability (2052)
 
 - AMOC (Atlantic Meridional Overturning Circulation) slowdown detected
 - East Coast experiences anomalous high-tide flooding
@@ -86,7 +86,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-### The Superstorm Sequence (2061-2065)
+### The Superstorm Sequence (2056-2060)
 
 - **Three catastrophic storms within five years**
 - Surge overwhelms southern barrier
@@ -97,7 +97,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-### Geomagnetic Weakening Detection (2068-2070)
+### Geomagnetic Weakening Detection (2063-2065)
 
 **Scientific Discovery**
 - Earth's magnetic field strength declines significantly
@@ -113,11 +113,11 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-## THE X20 EVENT (2037)
+## THE X20 EVENT (2030)
 
 ### The Solar Flare
 
-**Date: 2037** (Solar cycle variation; event occurs earlier than historical mid-range models)
+**Date: 2030** (Solar cycle variation; event occurs earlier than historical mid-range models)
 
 **Event Characteristics**
 - Solar flare intensity classified as X20 (Carrington-level magnitude)
@@ -201,9 +201,9 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-## POST-X20 ERA (2037-2075)
+## POST-X20 ERA (2030-2075)
 
-### Immediate Aftermath (2037-2045)
+### Immediate Aftermath (2030-2040)
 
 **Daneel's Emergence**
 - Jason Prime consciousness wiped by X20 EM surge
@@ -213,7 +213,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-### The Robot War Period (2055-2065)
+### The Robot War Period (2050-2060)
 
 **Context**
 - Global competition for hardened AI & robotics dominance
@@ -236,10 +236,10 @@ Master timeline consolidating geopolitical, technological, and personal history.
 - Ideological battles over AI rights & consciousness
 
 **Key Conflicts**
-- 2055: First kinetic AI incidents (African resource zones)
-- 2058-2061: Escalation; formal declarations
-- 2062-2065: Peak intensity
-- 2065: **Treaty Era** — international agreements on AI military use
+- 2050: First kinetic AI incidents (African resource zones)
+- 2053-2056: Escalation; formal declarations
+- 2057-2060: Peak intensity
+- 2060: **Treaty Era** — international agreements on AI military use
 
 **Casualty & Territory**
 - Millions displaced
@@ -250,7 +250,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-### Foundation Emergence (2045-2075)
+### Foundation Emergence (2040-2075)
 
 **Daneel's Evolution**
 - Progresses through hosts: Isaac → Leandro → DeeJay → Mary
@@ -271,7 +271,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ---
 
-## BOOK 1 TIMEFRAME (2087)
+## BOOK 1 TIMEFRAME (2075-2086)
 
 ### The Present Day
 
@@ -313,18 +313,22 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 | Year | Event | Impact |
 |------|-------|--------|
-| 2007 | Pre-X20 stability | US tech dominance |
-| 2037 | Sea level +1m | Lower Manhattan marginal |
-| 2046 | Insurance collapse | UES becomes asset |
-| 2057 | AMOC warning | Permanent king-tide flooding |
-| 2061-2065 | Superstorm sequence | Old Manhattan defense fails |
-| **2072** | **X20 Event** | **Global reset** |
-| 2037-2045 | Daneel emerges | Foundation begins |
-| 2055-2065 | Robot War | Geopolitical reorder |
-| 2065+ | Treaty era | Relative stability |
-| 2087 | **Book 1 Present** | **Foundation dominance, Daneel ~50 years** |
+| 2020 | Pre-X20 stability | US tech dominance |
+| 2030 | Sea level +0.5m | Lower Manhattan at risk |
+| 2041 | Insurance collapse | UES becomes asset |
+| 2052 | AMOC warning | Permanent king-tide flooding |
+| 2056-2060 | Superstorm sequence | Old Manhattan defense fails |
+| **2030** | **X20 Event** | **Global reset** |
+| 2030-2040 | Daneel emerges | Foundation begins |
+| 2050-2060 | Robot War | Geopolitical reorder |
+| 2060+ | Treaty era | Relative stability |
+| 2075-2086 | **Book 1 Present** | **Foundation dominance, Daneel 45-55 years** |
 
-**Note:** There is a chronological discrepancy in original files (X20 dated as both 2032 and 2072 in different sections). **Canonical decision: X20 = 2037** (50 years before Book 1 present of 2087).
+**Canonical Decision (2026-03-04):** 
+- **X20 = 2030** (gives Daneel 45-55 years of persistence by Book 1 start ~2075)
+- **Book 1 timeframe: 2075-2086** (50 years from author's present, 2026)
+- **NZ Echo: 2050** (X20 + 20 years)
+- **Eli age at Book 1: ~40-46** (born ~2038-2043)
 
 ---
 
@@ -338,7 +342,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 - Frequency: ~4-5 per million years
 - Duration: centuries
 
-**In GrayArea-2032-2037**
+**In GrayArea-2025-2030**
 - Magnetic field strength declining (observed via satellite)
 - Solar activity concurrent (unusual solar maximum)
 - Rare convergence: weak shield + strong solar event

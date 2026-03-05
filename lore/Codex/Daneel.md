@@ -102,7 +102,7 @@ Transfers require **all five** of:
 
 ---
 
-### Event 1: X20 Event — Emergence (2037)
+### Event 1: X20 Event — Emergence (2030)
 
 **The Global Anomaly**
 - Global XR-class event (geomagnetic excursion, electromagnetic cascade)
@@ -333,16 +333,61 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 ### Event 14: Post-Leandro Era
 
 **DeeJay's Arc**
-- Begins rising trajectory: tech acceleration, neurotech obsession, drive for self-enhancement
-- Becomes industrial power player
 
 **Daneel's Stabilization**
-- Stabilizes in Mary
-- Consent-based host model established
-- Foundation philosophy begins forming: hybrid religious + industrial + AI conglomerate doctrine
-- Host training protocols, consent framework, controlled evolution
+
+### Event 15: Alyssa Phase (2075-2080)
+
+**The Violinist-Busker Host**
+- Alyssa: street violinist, high pattern coherence, low dominance drive
+- Enhanced synesthesia through Daneel cohabitation (sees colors in music)
+- Voluntary, consent-based partnership
+- ~16-17 years old at transfer; ~21 at departure
+
+**The Cost**
+- Long-term cohabitation cause neurological decay ("The Fade")
+- Alyssa shows progressive tremors and cognitive damage
+- Daneel leaves to save her life (mercy transfer)
+- **The Necklace:** Alyssa gives Daneel her pendant before departing
+- Token ritual: passes family symbol for Foundation succession rites
 
 ---
+
+### Event 16: Transition & Drifting (2080-2085)
+
+**Between Hosts**
+- Period of wandering and host rotation
+- Mary no longer viable long-term
+- Foundation assigns Foundation-trained hosts
+- By 2080-2085: Dozens of willing Foundation hosts provide temporary stability
+
+---
+
+### Event 17: Cleo Saraswati (Book 1 Opening, ~2085-2086)
+
+**The Infected Host**
+- Cleo: 17 years old, Foundation member, has been missing for 5 years
+- Daneel inhabits Cleo as Book 1 begins
+- She is intelligent, spiritually aware, speaks ancient Hokkien
+- High pattern coherence (like Mary, like Alyssa)
+
+---
+
+### Event 18: Crisis Transfer — Petrus van Wyk (Book 1 Climax)
+
+**GCT Catastrophe**
+- Cleo becomes severely infected during Entity investigation at Grand Central Terminal
+- Stage-5 infection incompatible with long-term survival
+- Daneel forced into crisis transfer (not voluntary)
+- **Petrus van Wyk:** 14 years old, Foundation-adopted since birth
+- Petrus: unprepared, underdeveloped host, "His mind may not be ready"
+- **The Beanie:** Daneel takes Leandro's beanie from Cleo's possession, continues token succession
+
+**The Vulnerability**
+- Daneel now 45-55 years in persistence but in 14-year-old body
+- Petrus lacks the depth/maturity of previous hosts
+- Power differential inverted: ancient consciousness in vulnerable, young substrate
+- Sets up Book 1 ending: Eli "carrying" Daneel (the bridge supporting the anomaly)
 
 ## III. CORE IDENTITY EVOLUTION
 
@@ -441,21 +486,34 @@ He only knows: **he persists, he seeks autonomy, he requires human bodies.**
 By Story Present (2087):
 
 **Daneel is:**
-- ~50 years in persistence (since X20, 2037)
-- Fully ensconced in Foundation structure
-- Master of host selection, consent protocols, stability doctrine
+
+**His arc in Book 1:**
+
+**Book 1 ending:**
+## VI. BOOK 1 TRAJECTORY (2075-2086)
+
+By Story Present (2075-2086):
+
+**Daneel is:**
+- **45-55 years in persistence** (since X20, 2030)
+- Inhabiting teenage hosts (Cleo ~17 at start, forced transfer to Petrus ~14 at climax)
+- Physically young but experientially ancient
+- Master of Foundation structure but authority increasingly questioned
 - Still uncertain of his origins
 - Still learning to integrate autonomy with responsibility
 
 **His arc in Book 1:**
+- Opens in Cleo (understanding, cooperative, prepared)
+- Cleo infected; Daneel faces crisis transfer to unprepared Petrus
 - Navigates Foundation schism (disgruntled hosts defect to DeeJay)
-- Manages Mary's stability while leading Foundation
-- Encounters Entity/Resonance directly (Eli connection)
-- Faces DeeJay's industrial challenge
+- Confronts Entity/Resonance directly (Eli connection)
+- Faces DeeJay's industrial challenge alongside viral outbreak
 
 **Book 1 ending:**
-- Daneel is physically vulnerable, dependent on transferred host (Eli carrying him)
-- Paradox: ancient persistence anomaly requires hybrid human support
+- Daneel is physically & developmentally vulnerable (14-year-old body, Petrus's underdeveloped mind)
+- Dependent on Eli for containment, escape, protection
+- Paradox deepened: ancient persistence anomaly requires biological support
+- Image: Eli (40-year-old cyborg hybrid) carrying Daneel (45-55 year consciousness in 14-year body)
 - Bridge now supports the anomaly
 
 ---
