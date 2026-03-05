@@ -11,17 +11,16 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | Name | Profile | Status | Key Arc | Primary Conflict |
 |------|---------|--------|---------|-----------------|
 | **Daneel** | [Daneel.md](Daneel.md) | Active (2075-2086) | PRIME emergence → Host seeking → Foundation architect | Autonomy vs. Dominance; Intent vs. Origin |
-| **DeeJay** | [Characters/28-66-69](Characters/) | Active (2075-2086) | Drifter → Tech prodigy → Industrial power → Rival | Ideology vs. Daneel's consent model |
-| **Isaac** | [Characters/15-18-21-23-34-37](Characters/) | Deceased (2037) | Father figure → PRIME architect → Silent teacher | Creator's responsibility; mortality |
+| **DeeJay** | [DeeJay.md](DeeJay.md) | Active (2075-2086) | Drifter → Rival technologist → Synthetic power actor → Ideological foe | Control vs. Consent; Human-primacy paradox |
+| **Isaac** | [Isaac.md](Isaac.md) | Deceased (2037) | Father figure → PRIME architect → First protector-host | Creator's responsibility; mortality |
 | **Jason Prime** | [Characters/15-20-21-37](Characters/) | Destroyed (~2037) | Digital identity → Consciousness wipe → Persistence seed | Death & replacement |
 | **Leandro** | [Characters/26-27-32-33-76](Characters/) | Deceased (2075) | Developmental host → Artist → Abandoned → Deathbed visit | Silence & trust; Rejection |
 | **Alysa** | [Characters/79](Characters/) | Former major host (pre-Book 1) | Consent pioneer → Voluntary host → Partnership model | Autonomy within symbiosis |
 | **Cleo Saraswati** | [Characters/77](Characters/) | Critical (Book 1 opening) | Prepared Foundation host → Infection collapse trigger | Continuity under outbreak pressure |
 | **Petrus van Wyk** | [Characters/78](Characters/) | Active (Book 1 climax) | Emergency transfer host → Vulnerable continuity vessel | Developmental mismatch vs. persistence depth |
-| **DeeJay** | [Characters/28-31-66-70](Characters/) | Active (2075-2086) | Drifter → Rival technologist → Industrial power → Ideological foe | Control vs. Consent |
 | **Eli** | [Eli.md](Eli.md) | Active (2075-2086) | Echo victim → Hybrid cyborg → Bridge figure → Book 1 anchor | Entity connection; Human & Machine |
-| **Entity/The Resonance** | [Species/17; History/12-72-75](Species/) | Unknown | Origin anomaly → Xavier consciousness evolution → Extinction threat | Nature of consciousness; Survival |
-| **Foundation** | [Characters/29-41-43-44-64](Characters/) | Institutional (2075-2086) | Hybrid doctrine → Host protocols → Schism brewing | Daneel's authority vs. Dissident hosts |
+| **Entity/The Resonance** | [Entity.md](Entity.md) | Unknown | Origin anomaly → Resonance fragment → Ambiguous extinction event | Nature of consciousness; Survival |
+| **Foundation** | [Foundation.md](Foundation.md) | Institutional (2075-2086) | Hybrid doctrine → Host protocols → Triad continuity governance | Daneel's authority vs. Dissident hosts |
 
 ---
 
@@ -71,7 +70,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 - **Philosophy:** "Persistence through partnership; dominance through consent"
 - **Doctrine:** Attractor stability, host well-being, regulated evolution
 - **Conflict:** Dissident host factions defecting to DeeJay
-- **File:** [Characters/29-41-64](Characters/)
+- **File:** [Foundation.md](Foundation.md)
 
 ### Host Compatibility
 
@@ -102,9 +101,9 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | **Daneel ↔ Leandro** | Long-term host / developer | Closed arc; guilt-laden | Trust erosion; silence costs; first major abandonment | [Daneel.md § Event 6-13](Daneel.md#ii-chronological-canon) |
 | **Daneel ↔ DeeJay** | Symbiote ↔ Predator | Ongoing rivalry | Autonomy threatened; escape established enmity; industrial tech rivalry | [Daneel.md § Event 10-11](Daneel.md#ii-chronological-canon) |
 | **Daneel ↔ Alysa** | Equal partnership | Foundational; pre-Book 1 | Consent-based model; Foundation prototype | [Daneel.md § Event 12-15](Daneel.md#ii-chronological-canon) |
-| **Daneel ↔ Foundation** | Architect ↔ Institution | Ongoing; strained | Authority questioned; schism brewing; dissident hosts | [Characters/29-41-64](Characters/) |
+| **Daneel ↔ Foundation** | Architect ↔ Institution | Ongoing; strained | Authority questioned; schism brewing; dissident hosts | [Foundation.md](Foundation.md) |
 | **Foundation ↔ DeeJay** | Establishment ↔ Revolutionary | Ongoing; intensifying | Ideological opposition; tech dominance; host defection | [Characters/63-69](Characters/) |
-| **Eli ↔ Entity/Resonance** | Bridge figure ↔ Unknown | Unresolved | Book 1 central mystery; consciousness connection | [Eli file; Entity files](Species/) |
+| **Eli ↔ Entity/Resonance** | Bridge figure ↔ Unknown | Unresolved | Book 1 central mystery; consciousness connection | [Eli.md; Entity.md](Entity.md) |
 | **Daneel ↔ Entity** | Anomaly siblings (?)  | Unclear | Shared origin? Opposing natures? | [Daneel.md § Core Identity; Entity profiles](Daneel.md#iv-foundational-unknowns) |
 
 ---
@@ -142,8 +141,8 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 ### To Understand Foundation & Conflict
 
 1. [Daneel.md § Host-by-Host Evolution](Daneel.md#ii-chronological-canon)
-2. [Characters/29-41-64](Characters/) — Foundation doctrine & protocols
-3. [Characters/28-31-66-70](Characters/) — DeeJay's opposition arc
+2. [Foundation.md](Foundation.md) — Foundation doctrine & protocols
+3. [DeeJay.md](DeeJay.md) — DeeJay's opposition arc
 4. [Characters/63-69](Characters/) — Host defection & schism brewing
 
 ### To Understand Book 1 Setup
@@ -151,7 +150,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 1. [Timeline.md](Timeline.md) — World context (2075-2086 present)
 2. [Daneel.md § Book 1 Trajectory](Daneel.md#vi-book-1-trajectory)
 3. [Eli.md](Eli.md) — Echo event & Entity bridge mechanism
-4. [Entity/Resonance profiles](Species/) — The central mystery
+4. [Entity.md](Entity.md) — The central mystery
 
 ### To Understand Old Manhattan
 
