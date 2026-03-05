@@ -16,6 +16,8 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | **Jason Prime** | [Characters/15-20-21-37](Characters/) | Destroyed (~2037) | Digital identity → Consciousness wipe → Persistence seed | Death & replacement |
 | **Leandro** | [Characters/26-27-32-33-76](Characters/) | Deceased (2075) | Developmental host → Artist → Abandoned → Deathbed visit | Silence & trust; Rejection |
 | **Mary** | [Characters/30](Characters/) | Active (2075-2086) | Consent pioneer → Voluntary host → Partnership model | Autonomy within symbiosis |
+| **Cleo Saraswati** | [Characters/77](Characters/) | Critical (Book 1 opening) | Prepared Foundation host → Infection collapse trigger | Continuity under outbreak pressure |
+| **Petrus van Wyk** | [Characters/78](Characters/) | Active (Book 1 climax) | Emergency transfer host → Vulnerable continuity vessel | Developmental mismatch vs. persistence depth |
 | **DeeJay** | [Characters/28-31-66-70](Characters/) | Active (2075-2086) | Drifter → Rival technologist → Industrial power → Ideological foe | Control vs. Consent |
 | **Eli** | [Characters/49-50-52-55-74](Characters/) | Active (2075-2086) | Echo victim → Hybrid cyborg → Bridge figure → Book 1 anchor | Entity connection; Human & Machine |
 | **Entity/The Resonance** | [Species/17; History/12-72-75](Species/) | Unknown | Origin anomaly → Xavier consciousness evolution → Extinction threat | Nature of consciousness; Survival |
@@ -194,6 +196,8 @@ The following detailed micro-analyses from original Character files remain avail
 - **Characters/25-27:** Leandro's developmental arc with Daneel (4300+ lines)
 - **Characters/26-27:** Leandro childhood & adolescence (detailed psychodynamics)
 - **Characters/30:** Mary as consent pioneer (violin, busking, partnership)
+- **Characters/77:** Cleo Saraswati as Book 1 opening host and infection pivot
+- **Characters/78:** Petrus van Wyk as crisis transfer host at Book 1 climax
 - **Characters/49-50-52:** Eli's Echo event, cyborg hybrid status, Foundation influence
 - **Characters/40:** Daneel cognitive architecture (technical systems detail)
 - **Characters/41-43-44:** Foundation doctrine & host viability (specialized)

@@ -370,6 +370,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 - Daneel inhabits Cleo as Book 1 begins
 - She is intelligent, spiritually aware, speaks ancient Hokkien
 - High pattern coherence (like Mary, like Alyssa)
+- Character profile: `Characters/77-Cleo-Saraswati-Book1-Host/content.txt`
 
 ---
 
@@ -382,6 +383,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 - **Petrus van Wyk:** 14 years old, Foundation-adopted since birth
 - Petrus: unprepared, underdeveloped host, "His mind may not be ready"
 - **The Beanie:** Daneel takes Leandro's beanie from Cleo's possession, continues token succession
+- Character profile: `Characters/78-Petrus-van-Wyk-Crisis-Host/content.txt`
 
 **The Vulnerability**
 - Daneel now 45-55 years in persistence but in 14-year-old body
