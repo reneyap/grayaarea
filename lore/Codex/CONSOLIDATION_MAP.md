@@ -50,12 +50,17 @@ This document tracks the consolidation of 75 files into streamlined canonical pr
 | **Entity** | 12, 17, 72, 73, 75 | ✅ Consolidated | Entity.md |
 | **Foundation** | 29, 41, 43, 44, 63 | ✅ Consolidated | Foundation.md |
 
+### Phase 3 Character Consolidation (In Progress 2026-03-05)
+
+| Character | Files | Status | Canonical Reference |
+|-----------|-------|--------|---------------------|
+| **Leandro** | 25, 26, 27, 32, 33, 76 | ✅ Consolidated | Leandro.md |
+
 ### Remaining Character Consolidation
 
 | Character | Files | Status | Next Step |
 |-----------|-------|--------|-----------|
 | **Jason Prime** | 15, 20, 21, 37 | Cross-referenced | Optional standalone JasonPrime.md |
-| **Leandro** | 25, 26, 27, 32, 33, 76 | Not yet consolidated | Create Leandro.md |
 | **Alysa** | 79 | Single-file canonical | Optional Alysa.md (expanded) |
 | **Cleo** | 77 | Single-file canonical | Optional Cleo.md (expanded) |
 | **Petrus** | 78 | Single-file canonical | Optional Petrus.md (expanded) |
@@ -94,6 +99,7 @@ This document tracks the consolidation of 75 files into streamlined canonical pr
 | **DeeJay.md** | Rival profile | Cohabitation residue, synthetic continuity, ideology |
 | **Foundation.md** | Institutional profile | Doctrine, protocol, triad architecture, schism pressure |
 | **Entity.md** | Mystery profile | Origin ambiguity, echo phenomenology, containment tragedy |
+| **Leandro.md** | Developmental host profile | First stable host (15 years), accidental transfer, biological limits, Entity parallel |
 | **INDEX.md** | Quick reference | Character lookup, timeline events, relationships, themes, reading paths |
 | **CONSOLIDATION_MAP.md** | This file | Migration tracking & phase planning |
 
@@ -216,15 +222,14 @@ Empty categories (no content):
 
 ---
 
-## PHASE 3 IMPLEMENTATION (Next)
+## PHASE 3 IMPLEMENTATION (In Progress)
 
 ### High Priority
 
 | Task | Files | Goal |
 |------|-------|------|
-| Create Leandro.md | 25, 26, 27, 32, 33, 76 | Consolidate developmental host arc |
+| ~~Create Leandro.md~~ | ~~25, 26, 27, 32, 33, 76~~ | ✓ **Complete** |
 | Expand Alysa/Cleo/Petrus profiles | 79, 77, 78 | Promote single-file entries to full .md canon docs |
-| Clean deep-dive references in INDEX.md | Character refs | Point thematic clusters to new canonical files first |
 
 ### Medium Priority
 
@@ -266,12 +271,13 @@ Empty categories (no content):
 - ✅ **DeeJay.md:** 28, 31, 62, 66, 67, 68, 69, 70 (+65) integrated
 - ✅ **Foundation.md:** 29, 41, 43, 44, 63 integrated
 - ✅ **Entity.md:** 12, 17, 72, 73, 75 integrated
-- ✅ **INDEX.md:** Phase 2 references validated
+- ✅ **Leandro.md:** 25, 26, 27, 32, 33, 76 integrated
+- ✅ **INDEX.md:** Phase 2 + Phase 3 references validated
 - ✅ **CONSOLIDATION_MAP.md:** Updated
 
 ### Remaining Tasks
 
-- [ ] Phase 3 profile expansions (Leandro/Alysa/Cleo/Petrus)
+- [ ] Phase 3 profile expansions (Alysa/Cleo/Petrus)
 - [ ] Optional JasonPrime.md
 - [ ] Final polish pass on thematic cluster links
 
@@ -291,4 +297,6 @@ Empty categories (no content):
 | 2026-03-05 | Create Isaac.md, DeeJay.md, Foundation.md, Entity.md | ✓ Complete |
 | 2026-03-05 | Update INDEX.md links to canonical profiles | ✓ Complete |
 | 2026-03-05 | Commit Phase 2 consolidation (`fb1a8c4`) | ✓ Complete |
+| 2026-03-05 | Create Leandro.md (25, 26, 27, 32, 33, 76) | ✓ Complete |
+| 2026-03-05 | Update INDEX.md + CONSOLIDATION_MAP.md (Phase 3) | ✓ Complete |
 

@@ -14,7 +14,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | **DeeJay** | [DeeJay.md](DeeJay.md) | Active (2075-2086) | Drifter → Rival technologist → Synthetic power actor → Ideological foe | Control vs. Consent; Human-primacy paradox |
 | **Isaac** | [Isaac.md](Isaac.md) | Deceased (2037) | Father figure → PRIME architect → First protector-host | Creator's responsibility; mortality |
 | **Jason Prime** | [Characters/15-20-21-37](Characters/) | Destroyed (~2037) | Digital identity → Consciousness wipe → Persistence seed | Death & replacement |
-| **Leandro** | [Characters/26-27-32-33-76](Characters/) | Deceased (2075) | Developmental host → Artist → Abandoned → Deathbed visit | Silence & trust; Rejection |
+| **Leandro** | [Leandro.md](Leandro.md) | Deceased (~2047-2049) | First stable host (15 years) → Accidental transfer → Biological limits revealed | Dependency & fragility; Trust erosion |
 | **Alysa** | [Characters/79](Characters/) | Former major host (pre-Book 1) | Consent pioneer → Voluntary host → Partnership model | Autonomy within symbiosis |
 | **Cleo Saraswati** | [Characters/77](Characters/) | Critical (Book 1 opening) | Prepared Foundation host → Infection collapse trigger | Continuity under outbreak pressure |
 | **Petrus van Wyk** | [Characters/78](Characters/) | Active (Book 1 climax) | Emergency transfer host → Vulnerable continuity vessel | Developmental mismatch vs. persistence depth |
@@ -171,9 +171,10 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 ### Persistence & Abandonment
 
-- **Files:** Daneel.md (Leandro phase), Characters/25-27
+- **Files:** [Leandro.md](Leandro.md), [Daneel.md](Daneel.md) § Leandro Phase
+- **Deep dives:** Characters/25-27, 32-33, 76
 - **Theme:** Cost of silence; trust erosion; mortality without recursion
-- **Central:** Leandro's decline after Daneel leaves; unspoken grief
+- **Central:** Leandro's 15-year developmental arc; accidental transfer trauma; biological limits; Entity parallel
 
 ### Autonomy vs. Control
 
@@ -195,8 +196,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 The following detailed micro-analyses from original Character files remain available for specialized research:
 
-- **Characters/25-27:** Leandro's developmental arc with Daneel (4300+ lines)
-- **Characters/26-27:** Leandro childhood & adolescence (detailed psychodynamics)
+- **Characters/25-27, 32-33, 76:** Leandro deep-dive source files (coma patient transfer mechanics, Zika context, seizure intervention science, DeeJay chess meeting, accidental transfer physics, Entity emotional parallel) — consolidated into [Leandro.md](Leandro.md) canonical profile
 - **Characters/79:** Alysa as consent pioneer (violin, busking, partnership)
 - **Characters/77:** Cleo Saraswati as Book 1 opening host and infection pivot
 - **Characters/78:** Petrus van Wyk as crisis transfer host at Book 1 climax
@@ -238,6 +238,10 @@ The following detailed micro-analyses from original Character files remain avail
   - Created Foundation.md (consolidated 29, 41, 43, 44, 63)
   - Created Entity.md (consolidated 12, 17, 72, 73, 75)
   - Updated INDEX.md and CONSOLIDATION_MAP.md links
+- **2026-03-05:** Phase 3 character consolidation (Leandro)
+  - Created Leandro.md (consolidated 25, 26, 27, 32, 33, 76)
+  - Updated INDEX.md canonical profiles table, thematic clusters, deep-dive reference
+  - Updated CONSOLIDATION_MAP.md Phase 3 tracking
 
 ---
 
@@ -254,6 +258,7 @@ lore/Codex/
 ├── DeeJay.md (rival profile)
 ├── Foundation.md (institution profile)
 ├── Entity.md (mystery profile)
+├── Leandro.md (developmental host profile)
 ├── Characters/ (deep-dive micro-analyses)
 ├── History/ (specialized timeline research)
 ├── Constraints/
