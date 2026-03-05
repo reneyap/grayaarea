@@ -15,9 +15,9 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | **Isaac** | [Isaac.md](Isaac.md) | Deceased (2037) | Father figure → PRIME architect → First protector-host | Creator's responsibility; mortality |
 | **Jason Prime** | [Characters/15-20-21-37](Characters/) | Destroyed (~2037) | Digital identity → Consciousness wipe → Persistence seed | Death & replacement |
 | **Leandro** | [Leandro.md](Leandro.md) | Deceased (~2047-2049) | First stable host (15 years) → Accidental transfer → Biological limits revealed | Dependency & fragility; Trust erosion |
-| **Alysa** | [Characters/79](Characters/) | Former major host (pre-Book 1) | Consent pioneer → Voluntary host → Partnership model | Autonomy within symbiosis |
-| **Cleo Saraswati** | [Characters/77](Characters/) | Critical (Book 1 opening) | Prepared Foundation host → Infection collapse trigger | Continuity under outbreak pressure |
-| **Petrus van Wyk** | [Characters/78](Characters/) | Active (Book 1 climax) | Emergency transfer host → Vulnerable continuity vessel | Developmental mismatch vs. persistence depth |
+| **Alysa** | [Alysa.md](Alysa.md) | Alive, Foundation advisor (~2086) | Consent pioneer → Voluntary host → Neurological fade → Mercy departure | Autonomy within symbiosis; The Fade cost |
+| **Cleo Saraswati** | [Cleo.md](Cleo.md) | Unknown (post-infection) | Book 1 opening host → Entity infection → Emergency transfer | Prepared vulnerability; Crisis pivot |
+| **Petrus van Wyk** | [Petrus.md](Petrus.md) | Active (Book 1 climax) | Emergency transfer host → Vulnerable continuity vessel | Developmental mismatch; Power inversion |
 | **Eli** | [Eli.md](Eli.md) | Active (2075-2086) | Echo victim → Hybrid cyborg → Bridge figure → Book 1 anchor | Entity connection; Human & Machine |
 | **Entity/The Resonance** | [Entity.md](Entity.md) | Unknown | Origin anomaly → Resonance fragment → Ambiguous extinction event | Nature of consciousness; Survival |
 | **Foundation** | [Foundation.md](Foundation.md) | Institutional (2075-2086) | Hybrid doctrine → Host protocols → Triad continuity governance | Daneel's authority vs. Dissident hosts |
@@ -69,12 +69,14 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 - **Who:** Daneel as de facto leader; hundreds of trained, willing human hosts
 - **Philosophy:** "Persistence through partnership; dominance through consent"
 - **Doctrine:** Attractor stability, host well-being, regulated evolution
+- **Constraint:** Overstay in a single host degrades host substrate quality and Daneel efficiency
 - **Conflict:** Dissident host factions defecting to DeeJay
 - **File:** [Foundation.md](Foundation.md)
 
 ### Host Compatibility
 
 - **Law:** Recursive depth + oscillatory coherence + self-modeling capacity required
+- **Windowing:** Compatibility is time-bounded; overstay accelerates coupling degradation
 - **Viable: Humans only** (deep recursion, narrative modeling, emotional regulation)
 - **Non-viable: Animals** (shallow recursion, rapid destabilization)
 - **Problematic: Machines only** (deterministic but limited depth, hardware entropy, political vulnerability)
@@ -98,10 +100,11 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | Pair | Dynamic | Status | Impact | File |
 |------|---------|--------|--------|------|
 | **Daneel ↔ Isaac** | Teacher-student (deceased) | Closed arc | Ethical foundation; systems thinking imprint | [Daneel.md § From Isaac](Daneel.md#what-daneel-learns-from-each-host) |
-| **Daneel ↔ Leandro** | Long-term host / developer | Closed arc; guilt-laden | Trust erosion; silence costs; first major abandonment | [Daneel.md § Event 6-13](Daneel.md#ii-chronological-canon) |
-| **Daneel ↔ DeeJay** | Symbiote ↔ Predator | Ongoing rivalry | Autonomy threatened; escape established enmity; industrial tech rivalry | [Daneel.md § Event 10-11](Daneel.md#ii-chronological-canon) |
-| **Daneel ↔ Alysa** | Equal partnership | Foundational; pre-Book 1 | Consent-based model; Foundation prototype | [Daneel.md § Event 12-15](Daneel.md#ii-chronological-canon) |
+| **Daneel ↔ Leandro** | Long-term host / developer | Closed arc; guilt-laden | Trust erosion; silence costs; first major abandonment | [Leandro.md](Leandro.md); [Daneel.md § Event 5-8](Daneel.md#ii-chronological-canon) |
+| **Daneel ↔ DeeJay** | Symbiote ↔ Predator | Ongoing rivalry | Autonomy threatened; escape established enmity; industrial tech rivalry | [DeeJay.md](DeeJay.md); [Daneel.md § Event 8-11](Daneel.md#ii-chronological-canon) |
+| **Daneel ↔ Alysa** | Equal partnership | Foundational; pre-Book 1 | Consent-based model; Foundation prototype; overstay threshold discovery | [Alysa.md](Alysa.md); [Daneel.md § Event 12-15](Daneel.md#ii-chronological-canon) |
 | **Daneel ↔ Foundation** | Architect ↔ Institution | Ongoing; strained | Authority questioned; schism brewing; dissident hosts | [Foundation.md](Foundation.md) |
+| **Daneel ↔ Petrus** | Ancient ↔ Adolescent | Book 1 climax; vulnerable | Power inversion; dependency on Eli | [Petrus.md](Petrus.md); [Daneel.md § Event 18](Daneel.md#ii-chronological-canon) |
 | **Foundation ↔ DeeJay** | Establishment ↔ Revolutionary | Ongoing; intensifying | Ideological opposition; tech dominance; host defection | [Characters/63-69](Characters/) |
 | **Eli ↔ Entity/Resonance** | Bridge figure ↔ Unknown | Unresolved | Book 1 central mystery; consciousness connection | [Eli.md; Entity.md](Entity.md) |
 | **Daneel ↔ Entity** | Anomaly siblings (?)  | Unclear | Shared origin? Opposing natures? | [Daneel.md § Core Identity; Entity profiles](Daneel.md#iv-foundational-unknowns) |
@@ -141,16 +144,18 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 ### To Understand Foundation & Conflict
 
 1. [Daneel.md § Host-by-Host Evolution](Daneel.md#ii-chronological-canon)
-2. [Foundation.md](Foundation.md) — Foundation doctrine & protocols
-3. [DeeJay.md](DeeJay.md) — DeeJay's opposition arc
-4. [Characters/63-69](Characters/) — Host defection & schism brewing
+2. [Alysa.md](Alysa.md) — Consent model and overstay threshold discovery
+3. [Foundation.md](Foundation.md) — Doctrine, rotation windows, continuity protocol
+4. [DeeJay.md](DeeJay.md) — DeeJay's opposition arc
 
 ### To Understand Book 1 Setup
 
 1. [Timeline.md](Timeline.md) — World context (2075-2086 present)
-2. [Daneel.md § Book 1 Trajectory](Daneel.md#vi-book-1-trajectory)
-3. [Eli.md](Eli.md) — Echo event & Entity bridge mechanism
-4. [Entity.md](Entity.md) — The central mystery
+2. [Cleo.md](Cleo.md) — Book 1 opening host and infection pivot
+3. [Petrus.md](Petrus.md) — Crisis transfer vulnerability case
+4. [Eli.md](Eli.md) — Echo event & Entity bridge mechanism
+5. [Entity.md](Entity.md) — The central mystery
+6. [Daneel.md § Book 1 Trajectory](Daneel.md#vi-book-1-trajectory)
 
 ### To Understand Old Manhattan
 
@@ -178,10 +183,10 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 ### Autonomy vs. Control
 
-- **Files:** [Daneel.md](Daneel.md), [DeeJay.md](DeeJay.md), [Foundation.md](Foundation.md)
+- **Files:** [Daneel.md](Daneel.md), [DeeJay.md](DeeJay.md), [Foundation.md](Foundation.md), [Alysa.md](Alysa.md)
 - **Deep dives:** Characters/28-31-69, Characters/29-41
-- **Theme:** Consent-based vs. dominance-based cohabitation
-- **Central:** Daneel vs. DeeJay; Foundation doctrine vs. revolutionary ideology
+- **Theme:** Consent-based vs. dominance-based cohabitation; viability window discipline vs. overstay
+- **Central:** Daneel vs. DeeJay; Alysa-era threshold discovery; Foundation doctrine vs. revolutionary ideology
 
 ### The Hybrid Future
 
@@ -197,9 +202,9 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 The following detailed micro-analyses from original Character files remain available for specialized research:
 
 - **Characters/25-27, 32-33, 76:** Leandro deep-dive source files (coma patient transfer mechanics, Zika context, seizure intervention science, DeeJay chess meeting, accidental transfer physics, Entity emotional parallel) — consolidated into [Leandro.md](Leandro.md) canonical profile
-- **Characters/79:** Alysa as consent pioneer (violin, busking, partnership)
-- **Characters/77:** Cleo Saraswati as Book 1 opening host and infection pivot
-- **Characters/78:** Petrus van Wyk as crisis transfer host at Book 1 climax
+- **Characters/79:** Alysa deep-dive source — consolidated into [Alysa.md](Alysa.md) canonical profile
+- **Characters/77:** Cleo deep-dive source — consolidated into [Cleo.md](Cleo.md) canonical profile
+- **Characters/78:** Petrus deep-dive source — consolidated into [Petrus.md](Petrus.md) canonical profile
 - **Characters/40:** Daneel cognitive architecture (technical systems detail — see [Daneel.md](Daneel.md))
 - **Characters/41-43-44:** Foundation doctrine & host viability (specialized — see [Foundation.md](Foundation.md))
 - **Characters/49-50-52-74:** Eli's Echo events & Entity bridge (deep research — see [Eli.md](Eli.md))
@@ -242,6 +247,12 @@ The following detailed micro-analyses from original Character files remain avail
   - Created Leandro.md (consolidated 25, 26, 27, 32, 33, 76)
   - Updated INDEX.md canonical profiles table, thematic clusters, deep-dive reference
   - Updated CONSOLIDATION_MAP.md Phase 3 tracking
+- **2026-03-05:** Phase 3 expansion (Alysa/Cleo/Petrus)
+  - Created Alysa.md, Cleo.md, Petrus.md canonical profiles
+  - Updated INDEX.md links from Characters/77-79 to canonical profile docs
+- **2026-03-05:** Canon correction (Alysa age + overstay model)
+  - Locked first contact at Alysa age ~14-15
+  - Added NSC-AS precursor and overstay degradation references
 
 ---
 
@@ -259,6 +270,9 @@ lore/Codex/
 ├── Foundation.md (institution profile)
 ├── Entity.md (mystery profile)
 ├── Leandro.md (developmental host profile)
+├── Alysa.md (consent pioneer profile)
+├── Cleo.md (Book 1 opening host profile)
+├── Petrus.md (Book 1 crisis host profile)
 ├── Characters/ (deep-dive micro-analyses)
 ├── History/ (specialized timeline research)
 ├── Constraints/

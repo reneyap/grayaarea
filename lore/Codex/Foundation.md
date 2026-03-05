@@ -6,6 +6,7 @@ It is:
 - **Hybrid institution:** Cultural movement + industrial conglomerate + continuity governance engine
 - **Stability-first architecture:** Built to dampen recursive escalation, not maximize acceleration
 - **Host protocol system:** Formalized consent-based cohabitation model
+- **Overstay constraint:** Extended single-host cohabitation degrades both host substrate quality and Daneel operating efficiency
 - **Triad continuity mechanism:** Active host + Alpha + Beta redundancy
 
 ---
@@ -45,6 +46,8 @@ Public message:
 
 Private network of screened voluntary hosts trained under strict protocol.
 
+Program architecture incorporates Alysa-era NSC-AS precursor telemetry: host-state compatibility drift, coupling strain, and early decay indicators.
+
 ### 4) Invisible Layer — Daneel Continuity
 
 Daneel is not publicly declared as mystical leader or openly classified anomaly.
@@ -82,6 +85,9 @@ Canonical phases:
 Operational rule:
 Host remains driver by default; Daneel support is bounded and consensual.
 
+Overstay rule:
+No single-host cohabitation beyond monitored viability windows once compatibility drift and efficiency decline cross threshold.
+
 Failure/violation condition:
 Attempted dominance or containment triggers defensive withdrawal logic.
 
@@ -98,6 +104,7 @@ Why triad exists:
 - Avoid single-point continuity failure
 - Reduce emergency transfer volatility
 - Preserve overlap windows during developmental constraints
+- Enforce rotation before overstay accelerates host decay and Daneel efficiency loss
 
 Supporting systems:
 - Proximity discipline
@@ -111,6 +118,7 @@ Supporting systems:
 Codex constraints used by Foundation planning:
 - Early developmental windows most compatible
 - Compatibility declines with increasing basin rigidity
+- Overstay degrades coupling quality on both sides (host substrate + Daneel operating efficiency)
 - Late emergency transfers carry high destabilization risk
 
 Foundation’s controversial implication:
@@ -160,6 +168,7 @@ It is a governance machine under existential test, not a monolithic utopia.
 ## Source Consolidation
 
 Consolidated from:
+- Alysa-phase empirical lessons on overstay and precursor NSC-AS telemetry
 - `Characters/29-Foundation-Hybrid-Religious-Industrial`
 - `Characters/41-Foundation-Doctrine-Host-Training-Protocol`
 - `Characters/43-Foundation-Host-Schism-Disgruntled-Former-Hosts`
