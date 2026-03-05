@@ -13,7 +13,7 @@ The internal relationship between the AI entity (Daneel) and the human host (Jam
     *   **The Passenger**: A witness to their own life. Strapped in, seeing what the body sees but unable to steer.
     *   **The Navigator**: In a "Cooperative Drive," the host provides local context.
         *   Facial expressions, social nuance, "gut feelings," and sensory texture.
-        *   Daneel leans on the Navigator to interact with humanity without appearing alien.
+        *   Daneel leans on the Navigator to interact with humanity without appearing entity.
 
 ## Willingness as "Fuel"
 *   **Requirement**: The host must be a **Willing Vessel**.

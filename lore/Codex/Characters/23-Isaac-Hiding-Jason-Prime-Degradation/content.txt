@@ -149,7 +149,7 @@ That matters later.
 
 Structural Summary (Now Clean)
 â€¢ Attractor v1 Alpha open + plastic
-â€¢ X20 + wipe â†’ alien embed
+â€¢ X20 + wipe â†’ entity embed
 â€¢ Corporate decommission decision
 â€¢ Isaac requests Jason Prime â†’ denied
 â€¢ Isaac steals v1

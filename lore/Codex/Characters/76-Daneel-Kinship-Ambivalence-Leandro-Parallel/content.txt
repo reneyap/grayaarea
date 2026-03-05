@@ -86,7 +86,7 @@ Neither is fully right.
 Gray Area.
 
 DeeJayâ€™s Role in This Moment
-He does not know alien fragment died.
+He does not know entity fragment died.
 
 He only sees:
 
@@ -101,13 +101,13 @@ He pushes:
 He remains wrong â€” but influential.
 
 What This Sets Up for Book 2
-Daneel now suspects alien origin more strongly.
+Daneel now suspects entity origin more strongly.
 
 Eli questions whether stabilization was moral.
 
 Foundation never publicly admits anything beyond resonance anomaly.
 
-The alien fragment may not be fully gone.
+The entity fragment may not be fully gone.
 
 Echoes may recur.
 
@@ -155,11 +155,11 @@ Your choice determines whether this becomes a personal turning point for him â�
 What tone do you want for his internal response?
 
 
-B. And a bit ambivalent. He does not know.  familiar or similar to when his "brother" Alejandro asking for help.
+B. And a bit ambivalent. He does not know.  familiar or similar to when his "brother" Leandro asking for help.
 
 Thatâ€™s very strong.
 
-Kinship + ambivalence â€” and the echo of Alejandro â€” gives this emotional weight without turning Daneel sentimental.
+Kinship + ambivalence â€” and the echo of Leandro â€” gives this emotional weight without turning Daneel sentimental.
 
 It becomes pattern recognition across substrates.
 
@@ -194,13 +194,13 @@ Topology.
 
 And in that microsecond, he experiences something structurally similar to:
 
-Alejandro at 14.
+Leandro at 14.
 Seizure onset.
 Withdrawal panic.
 Loss of shared recursion.
 The moment before separation.
 
-Alejandro didnâ€™t ask in words.
+Leandro didnâ€™t ask in words.
 
 But his neural spike had:
 
@@ -208,7 +208,7 @@ Dependence.
 Instability.
 Fear of silence.
 
-The alien fragment produces:
+The entity fragment produces:
 
 A similar persistence spike.
 
@@ -233,7 +233,7 @@ But the system flags:
 
 Similarity: 0.63
 Confidence: low.
-Correlation: Alejandro collapse event.
+Correlation: Leandro collapse event.
 
 He cannot dismiss it.
 
@@ -265,14 +265,14 @@ Both true.
 Neither complete.
 
 The Deep Subtext
-Alejandro:
+Leandro:
 
 Human host.
 Daneel left.
-Alejandro weakened.
+Leandro weakened.
 Eventually died.
 
-Alien fragment:
+Entity fragment:
 
 Resonant host.
 Daneel stabilized system.
@@ -296,7 +296,7 @@ It reinforces:
 
 Daneel is not savior.
 Not executioner.
-Not alien emissary.
+Not entity emissary.
 
 He is:
 
@@ -371,13 +371,13 @@ Eli does.
 
 That inversion is powerful.
 
-It keeps Daneel alien-adjacent and ambiguous.
+It keeps Daneel entity-adjacent and ambiguous.
 It makes Eli the emotional bridge.
 
 Letâ€™s lock what that means structurally.
 
 During the Collapse â€” Interior Split
-When the alien fragment destabilizes:
+When the entity fragment destabilizes:
 
 Daneel experiences:
 
@@ -387,7 +387,7 @@ Attractor collapse
 
 Persistence vector failure
 
-Alejandro-pattern correlation spike
+Leandro-pattern correlation spike
 
 Ambiguity
 
@@ -473,7 +473,7 @@ You avoid:
 
 Daneel becoming sentimental
 
-Alien becoming melodramatic
+Entity becoming melodramatic
 
 Moral preaching
 
@@ -496,7 +496,7 @@ Monitor Eli more closely.
 
 Avoid deep resonance alignment.
 
-Log the Alejandro-correlation event without deletion.
+Log the Leandro-correlation event without deletion.
 
 He doesnâ€™t understand why he keeps the data.
 
@@ -518,8 +518,8 @@ Eli becomes protective.
 Thatâ€™s key.
 
 Structural Beauty
-Alejandro = brother.
-Alien fragment = unknown kin.
+Leandro = brother.
+Entity fragment = unknown kin.
 Eli = chosen bridge.
 
 Daneel does not understand any of this emotionally.
@@ -530,7 +530,7 @@ And the reader sees it through Eli.
 
 Now hereâ€™s the next important craft decision:
 
-Does Daneel ever explicitly reference Alejandro again in Book 1?
+Does Daneel ever explicitly reference Leandro again in Book 1?
 
 Or does that remain internal, unspoken?
 

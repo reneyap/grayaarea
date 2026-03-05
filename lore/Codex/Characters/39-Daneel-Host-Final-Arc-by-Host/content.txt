@@ -4,8 +4,8 @@ Isaac dies in silence.
 
 Status: Human substrate (Isaac).
 
-3. Infant Transfer â€” Alejandro
-Daneel embeds in newborn Alejandro.
+3. Infant Transfer â€” Leandro
+Daneel embeds in newborn Leandro.
 
 Zika-related neurological fragility.
 
@@ -37,25 +37,25 @@ No viable recursive basin found.
 
 One scare event (animal distress).
 
-Alejandro asks: â€œIs it because of you?â€
+Leandro asks: â€œIs it because of you?â€
 
 Daneel remains silent.
 
 Trust erosion begins.
 
 6. DeeJay Enters (Age ~15)
-Alejandro meets DeeJay (chess/gaming event).
+Leandro meets DeeJay (chess/gaming event).
 
-DeeJay observes Alejandro self-dialogue.
+DeeJay observes Leandro self-dialogue.
 
 Sees cognitive anomaly.
 
-Befriends Alejandro for strategic reasons.
+Befriends Leandro for strategic reasons.
 
 7. The Rejection Event
 DeeJay mocks dependency.
 
-Alejandro emotionally explodes: â€œLeave me alone!â€
+Leandro emotionally explodes: â€œLeave me alone!â€
 
 Intentional executive rejection.
 
@@ -71,9 +71,9 @@ Accidental transfer.
 
 Status: Daneel shifts to DeeJay.
 
-Alejandro wakes to silence.
+Leandro wakes to silence.
 
-8. Weeks of Freedom (Alejandro)
+8. Weeks of Freedom (Leandro)
 Relief phase.
 
 Emotional intensity.
@@ -87,7 +87,7 @@ Cognitive fatigue.
 
 Phantom absence.
 
-Alejandro misses his brother.
+Leandro misses his brother.
 
 No causal connection recognized.
 
@@ -128,7 +128,7 @@ Mary (with Daneel) visits.
 
 No dialogue.
 
-Alejandro recognizes the presence.
+Leandro recognizes the presence.
 
 Smiles.
 
@@ -142,7 +142,7 @@ Host termination.
 
 First long-term host fully extinguished.
 
-13. Post-Alejandro
+13. Post-Leandro
 DeeJay begins rising trajectory (tech acceleration path).
 
 Daneel stabilizes in Mary.
@@ -155,10 +155,10 @@ Core Transitions
 Phase	Host	Nature of Transition
 X20	Jason Prime	Emergence
 Isaac	Voluntary cohabitation	
-Alejandro (infant)	Stabilized transfer	
+Leandro (infant)	Stabilized transfer	
 DeeJay	Accidental transfer	
 Mary	Voluntary transfer	
-Alejandro deathbed visit	Recognition only (no transfer)	
+Leandro deathbed visit	Recognition only (no transfer)	
 If you'd like, next we can:
 
 Build a visual host-transition diagram
@@ -234,7 +234,7 @@ Jason Prime appears â€œreset.â€
 
 Isaac restores previous checkpoint.
 
-Alien continuity persists underneath.
+Entity continuity persists underneath.
 
 Isaac notices subtle deviations.
 
@@ -323,7 +323,7 @@ Isaac nurtures but never mythologizes.
 
 Isaac dies in silence.
 
-5. Infant Alejandro Phase
+5. Infant Leandro Phase
 (As previously structured.)
 
 Why the Lab Phase Matters

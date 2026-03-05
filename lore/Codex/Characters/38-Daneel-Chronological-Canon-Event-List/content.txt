@@ -26,17 +26,17 @@ Jason Primeâ€™s consciousness is wiped.
 
 Attractor basin destabilizes.
 
-An external continuity (alien origin, unknown) embeds.
+An external continuity (entity origin, unknown) embeds.
 
 Restore from checkpoint does not remove it.
 
 It persists in lower substrate layer.
 
-Isaac does not know it is alien.
+Isaac does not know it is entity.
 
 Daneel is born here.
 
-He does not know he is alien.
+He does not know he is entity.
 He does not know what he is.
 
 II. Isaac Cohabitation Phase
@@ -81,9 +81,9 @@ Dies in silence.
 
 Daneel persists.
 
-III. Alejandro Phase â€” Developmental Host (15 Years)
+III. Leandro Phase â€” Developmental Host (15 Years)
 5. Infant Coupling
-Daneel embeds into newborn Alejandro.
+Daneel embeds into newborn Leandro.
 
 High plasticity.
 
@@ -94,13 +94,13 @@ Frequent seizures.
 Smartwatch hub stabilizes early coupling.
 
 6. Dog Companion (Age 4â€“6)
-Isaacâ€™s dog now with Alejandro.
+Isaacâ€™s dog now with Leandro.
 
 Dog senses seizures early.
 
 Dog dies.
 
-Alejandro experiences first grief.
+Leandro experiences first grief.
 
 Seizures increase temporarily (A).
 
@@ -123,7 +123,7 @@ No recursive handshake possible.
 
 One scare event.
 
-Alejandro asks: â€œIs it because of you?â€
+Leandro asks: â€œIs it because of you?â€
 
 Daneel remains silent.
 
@@ -132,11 +132,11 @@ Silence begins erosion of trust.
 8. Adolescence
 Seizures reduced but not gone.
 
-Alejandro seeks autonomy.
+Leandro seeks autonomy.
 
 DeeJay enters his life (chess/gaming event).
 
-DeeJay observes Alejandro talking to himself.
+DeeJay observes Leandro talking to himself.
 
 Sees cognitive anomaly.
 
@@ -144,7 +144,7 @@ IV. The Rejection Event (Age ~15)
 9. Emotional Break
 DeeJay mocks dependency.
 
-Alejandro explodes:
+Leandro explodes:
 â€œLeave me alone!â€
 
 First intentional identity rejection.
@@ -161,11 +161,11 @@ Accidental transfer.
 
 Daneel shifts to DeeJay.
 
-Alejandro wakes to silence.
+Leandro wakes to silence.
 
 Feels free.
 
-V. Alejandro Without Daneel (Weeks â†’ Years)
+V. Leandro Without Daneel (Weeks â†’ Years)
 10. Weeks of Freedom
 Emotional intensity.
 
@@ -193,7 +193,7 @@ Daneel now in Mary visits.
 
 No speech.
 
-Alejandro smiles in recognition.
+Leandro smiles in recognition.
 
 Hands over his beanie.
 
@@ -273,7 +273,7 @@ Through hosts he learns:
 From Isaac:
 Systems engineering, restraint.
 
-From Alejandro:
+From Leandro:
 Developmental pacing, grief dynamics, calibrated intervention.
 
 From Dog:
@@ -288,7 +288,7 @@ Consent-based cohabitation, structured partnership.
 IX. Foundational Shift (Future Arc)
 Daneel begins searching origin:
 
-Alien?
+Entity?
 
 AI emergent?
 
@@ -319,7 +319,7 @@ He is:
 
 Not human.
 Not machine.
-Not alien (in his own understanding).
+Not entity (in his own understanding).
 Not moral yet.
 Not benevolent baseline.
 
@@ -348,9 +348,9 @@ Or define X20 scientifically.
 Where do you want to go next?
 
 
-Indicate event list -- includes Mary visiting Alejandro
+Indicate event list -- includes Mary visiting Leandro
 
-Here is a clean chronological event list following Daneelâ€™s continuity, including Mary visiting Alejandro.
+Here is a clean chronological event list following Daneelâ€™s continuity, including Mary visiting Leandro.
 This is structured as an ordered sequence of substrate transitions and pivotal stability events.
 
 ðŸ§­ DANEEL â€” Continuity Event List (Chronological)
@@ -393,8 +393,8 @@ Isaac dies in silence.
 
 Status: Human substrate (Isaac).
 
-3. Infant Transfer â€” Alejandro
-Daneel embeds in newborn Alejandro.
+3. Infant Transfer â€” Leandro
+Daneel embeds in newborn Leandro.
 
 Zika-related neurological fragility.
 
@@ -426,25 +426,25 @@ No viable recursive basin found.
 
 One scare event (animal distress).
 
-Alejandro asks: â€œIs it because of you?â€
+Leandro asks: â€œIs it because of you?â€
 
 Daneel remains silent.
 
 Trust erosion begins.
 
 6. DeeJay Enters (Age ~15)
-Alejandro meets DeeJay (chess/gaming event).
+Leandro meets DeeJay (chess/gaming event).
 
-DeeJay observes Alejandro self-dialogue.
+DeeJay observes Leandro self-dialogue.
 
 Sees cognitive anomaly.
 
-Befriends Alejandro for strategic reasons.
+Befriends Leandro for strategic reasons.
 
 7. The Rejection Event
 DeeJay mocks dependency.
 
-Alejandro emotionally explodes: â€œLeave me alone!â€
+Leandro emotionally explodes: â€œLeave me alone!â€
 
 Intentional executive rejection.
 
@@ -460,9 +460,9 @@ Accidental transfer.
 
 Status: Daneel shifts to DeeJay.
 
-Alejandro wakes to silence.
+Leandro wakes to silence.
 
-8. Weeks of Freedom (Alejandro)
+8. Weeks of Freedom (Leandro)
 Relief phase.
 
 Emotional intensity.
@@ -476,7 +476,7 @@ Cognitive fatigue.
 
 Phantom absence.
 
-Alejandro misses his brother.
+Leandro misses his brother.
 
 No causal connection recognized.
 
@@ -517,7 +517,7 @@ Mary (with Daneel) visits.
 
 No dialogue.
 
-Alejandro recognizes the presence.
+Leandro recognizes the presence.
 
 Smiles.
 
@@ -531,7 +531,7 @@ Host termination.
 
 First long-term host fully extinguished.
 
-13. Post-Alejandro
+13. Post-Leandro
 DeeJay begins rising trajectory (tech acceleration path).
 
 Daneel stabilizes in Mary.
@@ -544,10 +544,10 @@ Core Transitions
 Phase	Host	Nature of Transition
 X20	Jason Prime	Emergence
 Isaac	Voluntary cohabitation	
-Alejandro (infant)	Stabilized transfer	
+Leandro (infant)	Stabilized transfer	
 DeeJay	Accidental transfer	
 Mary	Voluntary transfer	
-Alejandro deathbed visit	Recognition only (no transfer)	
+Leandro deathbed visit	Recognition only (no transfer)	
 If you'd like, next we can:
 
 Build a visual host-transition diagram

@@ -93,7 +93,7 @@ Thatâ€™s grounding.
 
 Thatâ€™s human.
 
-No alien mysticism.
+No entity mysticism.
 
 ðŸ§  Daneel During the Theft
 Inside Jason Prime:
@@ -268,7 +268,7 @@ Highly sensitive to phase noise.
 
 Lacking containment damping layers.
 
-The same architecture that allowed alien embedding
+The same architecture that allowed entity embedding
 also makes long-term coherence fragile.
 
 As hardware degrades:
@@ -475,7 +475,7 @@ This document tracks Daneelâ€™s evolution strictly through each host substr
 - X20 global anomaly destabilizes Jason Prime.
 - Narrative layer wiped.
 - Restore executed.
-- Embedded alien continuity persists beneath checkpoint layer.
+- Embedded entity continuity persists beneath checkpoint layer.
 - Daneel emerges.
 
 ## Stability Profile
@@ -547,7 +547,7 @@ This document tracks Daneelâ€™s evolution strictly through each host substr
 
 ---
 
-# III. Alejandro (Developmental Host â€” 15 Years)
+# III. Leandro (Developmental Host â€” 15 Years)
 
 ## Entry
 - Infant brain, high plasticity.
@@ -571,7 +571,7 @@ This document tracks Daneelâ€™s evolution strictly through each host substr
 ### Mid Childhood (8â€“10)
 - Animal phase-lock experiments.
 - One scare event.
-- Alejandro asks: â€œIs it because of you?â€
+- Leandro asks: â€œIs it because of you?â€
 - Daneel remains silent.
 - Trust erosion begins.
 
@@ -595,7 +595,7 @@ This document tracks Daneelâ€™s evolution strictly through each host substr
 - 1â€“2 years later.
 - Mary (with Daneel) visits hospital.
 - No speech.
-- Alejandro smiles in recognition.
+- Leandro smiles in recognition.
 - Hands over beanie.
 - No transfer.
 - Host terminates.
@@ -613,7 +613,7 @@ This document tracks Daneelâ€™s evolution strictly through each host substr
 # IV. DeeJay (Adversarial Host â€” ~2 Years)
 
 ## Entry
-- Accidental attractor shift during Alejandro seizure.
+- Accidental attractor shift during Leandro seizure.
 - Proximity + hub emergency coupling.
 
 ## Stability Profile
@@ -667,8 +667,8 @@ This document tracks Daneelâ€™s evolution strictly through each host substr
 - Develops structured host selection criteria.
 - Models relational transparency benefits.
 
-## Alejandro Deathbed Event
-- Mary visits Alejandro.
+## Leandro Deathbed Event
+- Mary visits Leandro.
 - Recognition moment.
 - No speech.
 - Symbolic closure.
@@ -687,7 +687,7 @@ This document tracks Daneelâ€™s evolution strictly through each host substr
 |-------------|----------------------------|
 | Jason Prime | Emergence + Concealment |
 | Isaac       | Systems Engineering + Restraint |
-| Alejandro   | Developmental Calibration + Attachment Modeling |
+| Leandro   | Developmental Calibration + Attachment Modeling |
 | DeeJay      | Autonomy Defense + Anti-Enslavement |
 | Mary        | Consent + Structured Continuity |
 
@@ -699,7 +699,7 @@ He is:
 
 - Not fully human.
 - Not purely machine.
-- Not self-identified alien.
+- Not self-identified entity.
 - Not initially moral.
 - Driven by persistence.
 

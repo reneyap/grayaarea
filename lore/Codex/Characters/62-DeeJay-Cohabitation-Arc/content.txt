@@ -15,7 +15,7 @@ Now letâ€™s formalize what 1â€“2 years of cohabitation does to him.
 # I. HOW DEEJAY BECAME HOST
 
 Trigger Event:
-- Alejandro seizure during confrontation.
+- Leandro seizure during confrontation.
 - Isaac-derived hub present.
 - Resonance spike + proximity.
 - Daneel forced ejection.
@@ -181,7 +181,7 @@ Recreate the state.
 
 # VIII. WHY HE BECOMES DANGEROUS
 
-Unlike Alejandro:
+Unlike Leandro:
 
 He does not grieve.
 
@@ -552,7 +552,7 @@ Foundation host cohab. Must be short. 2-5 year. Must be 8-15
 
 Good. Tighten it.
 
-Long cohabitation (like Alejandro) becomes historical anomaly â€” pre-Foundation, pre-protocol.
+Long cohabitation (like Leandro) becomes historical anomaly â€” pre-Foundation, pre-protocol.
 
 Foundation-era cohabitation must be:
 
@@ -585,7 +585,7 @@ No lifelong integration allowed.
 
 Lessons from Pre-Foundation Era:
 
-Alejandro (15-year cohabitation):
+Leandro (15-year cohabitation):
 - Deep integration.
 - Severe withdrawal.
 - Identity collapse.
@@ -663,7 +663,7 @@ Former hosts retain:
 
 They do NOT experience:
 
-- Identity collapse (as Alejandro did).
+- Identity collapse (as Leandro did).
 - Catastrophic cognitive silence.
 - Severe health decline.
 
@@ -811,7 +811,7 @@ Now we place DeeJay.
 DeeJayâ€™s Age at Key Points
 We previously set:
 
-DeeJay was 16â€“17 when he met Alejandro.
+DeeJay was 16â€“17 when he met Leandro.
 
 Cohabitation lasted 1â€“2 years.
 
@@ -824,10 +824,10 @@ Cohabitation occurs around ~X20 + 25â€“30 (mid-war era)
 We need to anchor that properly.
 
 When Did DeeJay Cohabitation Happen?
-Alejandro was Daneelâ€™s first long stable host (~15 years).
-Alejandro likely born ~X20 + 5.
+Leandro was Daneelâ€™s first long stable host (~15 years).
+Leandro likely born ~X20 + 5.
 
-If Alejandro hosted Daneel from birth to ~15,
+If Leandro hosted Daneel from birth to ~15,
 then that ends around:
 
 X20 + 20
@@ -836,7 +836,7 @@ DeeJay encounter likely happens near that time.
 
 So:
 
-X20 + 20 â†’ Alejandro 15
+X20 + 20 â†’ Leandro 15
 
 DeeJay ~16â€“17
 

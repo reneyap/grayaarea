@@ -141,7 +141,7 @@ Transfer fails.
 - Seizure or executive rupture
 - Emergency coupling
 - Nearest viable basin
-- Example: Alejandro â†’ DeeJay
+- Example: Leandro â†’ DeeJay
 
 ### Consent-Based Transfer
 - Demonstrated compatibility
@@ -224,7 +224,7 @@ Persistence + autonomy.
 |--------|-------------------|
 | Lab | Survival concealment |
 | Isaac | Systems modeling |
-| Alejandro | Emotional calibration |
+| Leandro | Emotional calibration |
 | DeeJay | Autonomy defense |
 | Mary | Cooperative integration |
 

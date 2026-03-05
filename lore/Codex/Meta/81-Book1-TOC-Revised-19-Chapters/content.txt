@@ -61,7 +61,7 @@ Daneelâ€™s host body goes limp.
 The Final Scene â€” Tone
 No speeches.
 
-No alien talk.
+No entity talk.
 
 Just aftermath.
 
@@ -107,8 +107,8 @@ Inside:
 
 Low-level recovery.
 Residual correlation still present.
-Alejandro match still logged.
-Alien collapse still unresolved.
+Leandro match still logged.
+Entity collapse still unresolved.
 
 He does not understand why Eli did not let him fall.
 
@@ -140,7 +140,7 @@ Cut.
 
 Why This Is Better Than a Teaser Signal Ending
 No cosmic hint.
-No alien whisper.
+No entity whisper.
 No cliffhanger.
 
 Just:
@@ -178,7 +178,7 @@ Youâ€™re ending Book 1 not with resolution â€” but with hidden instabi
 The reader thinks:
 
 Crisis contained.
-Alien fragment gone.
+Entity fragment gone.
 City saved.
 Daneel exhausted but safe.
 
@@ -196,15 +196,15 @@ It doesnâ€™t cliffhanger loudly.
 
 It plants a quiet ticking condition for Book 2.
 
-It mirrors the alien collapse.
+It mirrors the entity collapse.
 
 Letâ€™s refine it so itâ€™s powerful and not manipulative.
 
 Why This Works Thematically
 During the encounter:
 
-Alien fragment collapses.
-Alejandro memory spike resurfaces.
+Entity fragment collapses.
+Leandro memory spike resurfaces.
 Resonance overload hits.
 Daneel deepens alignment.
 
@@ -228,7 +228,7 @@ Thatâ€™s important.
 He is not infallible.
 
 Parallel Structure
-Alien fragment:
+Entity fragment:
 Collapsed under insufficient substrate.
 
 Daneel:
@@ -286,7 +286,7 @@ Probability of recovery: uncertain.
 
 But he does not panic.
 
-He has learned from Alejandro:
+He has learned from Leandro:
 
 Substrate loss happens.
 
@@ -366,7 +366,7 @@ This does three things:
 
 Book 1 resolves Echo 2.
 
-Alien remains ambiguous.
+Entity remains ambiguous.
 
 Daneelâ€™s mortality is now real.
 
@@ -436,7 +436,7 @@ Neural damage
 
 Correlation logs
 
-Alien fragment
+Entity fragment
 
 Backup pods
 
@@ -458,7 +458,7 @@ Why this works:
 
 Book 1 conflict (Echo 2) is resolved.
 
-The alien ambiguity remains intact.
+The entity ambiguity remains intact.
 
 DeeJay remains unresolved but present.
 
@@ -583,7 +583,7 @@ Iconic location (GCT).
 
 Abandoned transit car = metaphor for halted continuity.
 
-No alien mention.
+No entity mention.
 
 No medical hint.
 
@@ -673,7 +673,7 @@ They donâ€™t know what was lost.
 Readers will feel that uncertainty.
 
 The Subtext Is Doing Heavy Work
-Alien fragment collapsed.
+Entity fragment collapsed.
 Echo contained.
 City stabilized.
 
@@ -1137,7 +1137,7 @@ Mystery preserved.
 
 DeeJay positioned.
 
-Alien origin unnamed.
+Entity origin unnamed.
 
 Daneel vulnerable.
 

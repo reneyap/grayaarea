@@ -237,7 +237,7 @@ Now letâ€™s re-anchor him properly in the timeline and power structure.
 ## Canon Timeline Anchor
 
 X20 = Year 0  
-Alejandro cohab ends â‰ˆ X20 + 20  
+Leandro cohab ends â‰ˆ X20 + 20  
 DeeJay cohab â‰ˆ X20 + 20 to +22  
 Foundation begins â‰ˆ X20 + 25â€“30  
 Robot War â‰ˆ +15â€“30  
