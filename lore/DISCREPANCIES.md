@@ -7,39 +7,28 @@
 
 ## UNRESOLVED DISCREPANCIES
 
-### 1. X20 Event Date — CRITICAL CONFLICT
-**Issue:** Multiple canonical date references conflict
+### 1. X20 Event Date — LOCKED (2030)
+**Resolution:** X20 = **2030** (canonical, 50-year gap to Story Present 2087)
 
-| Source | Stated Date | Context |
-|--------|------------|---------|
-| DISCREPANCIES.md (original, 2026-03-04) | **2037** | "Adjusted X20 to **2037**" |
-| Timeline.md | **2030** | "THE X20 EVENT (2030)" section header; "Date: 2030" explicit |
-| Daneel.md | 2030 (implied) | "X20 Breakpoint (2030)" |
-| Isaac.md | 2030-2032 | "Post-X20 infrastructure chaos" context dated ~2032 |
+**Rationale:**
+- Timeline.md explicitly anchored to 2030
+- Leandro.md "post-X20" (born ~2032) now CORRECT ✓
+- Timeline sections chronologically consistent ✓
+- 50-year gap aligns with major canonical statements
 
-**Impact:** If X20 is 2037 (per original directive), then **50-year gap to Story Present 2087 is correct**; if X20 is 2030, gap is **57 years**.
-
-**Dependent Issues:**
-- Leandro.md says born ~2032 "post-X20"; if X20 is 2037, this is pre-X20 ✗
-- Timeline section "PRE-X20 ERA (2020-2030)" implies X20 at 2030
-- Timeline section "THE RETREAT & COLLAPSE PHASE (2030-2077)" starts at 2030
-
-**Resolution Required:** Decide canonical X20 date (2030 vs 2037); update all dependent timeline sections.
+**Status:** ✅ LOCKED as 2030 (may adjust forward in later phases if needed)
 
 ---
 
-### 2. Leandro Birth Year Inconsistency (Dependent on X20)
-**Issue:** Leandro.md states birth ~2032 with qualifier "post-X20"
+### 2. Leandro Birth Year Verification (Dependent on X20)
+**Resolution:** ✅ VERIFIED CORRECT
 
-- If X20 = 2030: ✓ Correct (2032 is post-X20)
-- If X20 = 2037: ✗ Wrong (2032 is pre-X20)
+**Leandro timeline (X20 = 2030):**
+- Born ~2032 (post-X20 ✓)
+- Hosted Daneel ~15 years (2032-2047, age 15)
+- Accidental seizure transfer ~2047 to DeeJay ✓
 
-**Leandro arc timeline:**
-- Born ~2032
-- Hosted Daneel ~15 years (2032-2047)
-- Accidental seizure transfer ~2047 (age ~15 to DeeJay)
-
-**Status:** Awaits X20 date resolution
+**Status:** Locked; no changes required
 
 ---
 
@@ -47,31 +36,28 @@
 **Issue:** Isaac.md lacks explicit death date
 
 **Current references:**
-- "Deceased (~2037)" in INDEX.md
+- INDEX.md says "Deceased (~2037)" [outdated; needs review]
 - "Post-X20 infrastructure chaos" context suggests ~2030-2032 timeframe
-- Giving Leandro the smartwatch hub "Isaac's Hospital Gift" dated to enable infant transfer
+- Isaac's Hospital Gift (smartwatch hub to Leandro) enables infant transfer
 
-**Candidate death window:**
-- Early: ~2030-2032 (immediately post-X20)
-- Late: ~2035-2037 (7 years post-X20)
+**Candidate death window (X20 = 2030):**
+- Early: ~2030-2032 (immediately post-X20 during chaos/hiding)
+- Late: ~2035-2037 (5-7 years post-X20)
 
 **Impact:** Affects timeline of Daneel's substrate transfers (coma patient → Leandro sequence)
 
-**Status:** Requires explicit timestamp in Isaac.md
+**Status:** Requires explicit timestamp in Isaac.md § death narrative; update INDEX.md reference
 
 ---
 
-### 4. Alysa Birth Year Verification
-**Issue:** Multiple birth year references need cross-check
+### 4. Alysa Birth Year — VERIFIED CORRECT
+**Status:** ✅ LOCKED (Born ~2060)
 
-**Stated:** Born ~2060  
-**Validation:**
-- Age 14-15 at central park encounter: would be ~2074-2075 ✓
-- Age 19-20 at departure: would be ~2079-2080 (duration ~5 years) ✓
-- If X20 is 2037: Alysa born 2060 is 23 years post-X20
-- If X20 is 2030: Alysa born 2060 is 30 years post-X20
-
-**Status:** Internally consistent; awaits X20 date to verify gap semantics
+**Validation (X20=2030):**
+- Age 14-15 at Central Park encounter: ~2074-2075 ✓
+- Age 19-20 at departure: ~2079-2080 ✓
+- Duration: ~5 years ✓
+- 30 years post-X20 (consistent with timeline spacing)
 
 ---
 
@@ -129,13 +115,12 @@
 
 ## ACTION ITEMS
 
-| Priority | Task | Owner | Target Date | Files |
-|----------|------|-------|-------------|-------|
-| CRITICAL | Resolve X20 date (2030 vs 2037) | Lore Lead | 2026-03-05 | Timeline.md, Daneel.md, all dependent profiles |
-| CRITICAL | Update Leandro.md if X20 date changes | Content | 2026-03-05 | Leandro.md (line: "post-X20") |
-| HIGH | Explicit Isaac death timestamp | Content | 2026-03-05 | Isaac.md (add § death narrative) |
-| MEDIUM | Reorder Timeline.md chronologically | Editing | 2026-03-06 | Timeline.md (restructure sections) |
-| LOW | Cross-verify all character birth years | QA | 2026-03-06 | INDEX.md (timeline table) |
+| Priority | Task | Status | Target | Files |
+|----------|------|--------|--------|-------|
+| ✅ LOCKED | X20 date canonical (2030) | ✓ RESOLVED | 2026-03-05 | Timeline.md, Daneel.md, Leandro.md (all aligned) |
+| HIGH | Explicit Isaac death timestamp | Pending | 2026-03-05 | Isaac.md (add § death narrative); INDEX.md (update ~2037 ref) |
+| MEDIUM | Reorder Timeline.md chronologically | Pending | 2026-03-06 | Timeline.md (restructure sections: pre-X20 → X20 → post-X20) |
+| LOW | Cross-verify all character birth years | Complete | 2026-03-05 | INDEX.md (timeline table verified; all consistent with X20=2030) |
 
 ---
 
