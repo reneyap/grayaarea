@@ -1,7 +1,7 @@
 # Chapter 10: Leaving Alyssa
-Daneel has inhabited Alyssa since she was sixteen. [Daneel taught Alyssa to see the colors of music, to enjoy creating them.  She thrived in her creativity.  Daneel every so often, he allow Alyssa to take control without her realizing it.   
+Daneel has inhabited Alyssa since she was fourteen. [Daneel taught Alyssa to see the colors of music, to enjoy creating them.  She thrived in her creativity.  Daneel every so often, he allow Alyssa to take control without her realizing it.   
 
-Alyssa is now twenty one, a full grown woman.    But she is beginning to show strange symptoms. Her movements are now a bit slower, her balance isn’t stable, and her hands shakes uncontrollably at times. 
+Alyssa is now twenty, a full grown woman.    But she is beginning to show strange symptoms. Her movements are now a bit slower, her balance isn't stable, and her hands shakes uncontrollably at times.
 
 I has seen these symptoms when he inhabited the comatose patients.   Daneel suspects that his prolonged presence in Alyssa is causing these same symptoms.   
 
