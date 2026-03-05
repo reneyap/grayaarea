@@ -50,20 +50,20 @@ This document tracks the consolidation of 75 files into streamlined canonical pr
 | **Entity** | 12, 17, 72, 73, 75 | ✅ Consolidated | Entity.md |
 | **Foundation** | 29, 41, 43, 44, 63 | ✅ Consolidated | Foundation.md |
 
-### Phase 3 Character Consolidation (In Progress 2026-03-05)
+### Phase 3 Character Consolidation (Complete 2026-03-05)
 
 | Character | Files | Status | Canonical Reference |
 |-----------|-------|--------|---------------------|
 | **Leandro** | 25, 26, 27, 32, 33, 76 | ✅ Consolidated | Leandro.md |
+| **Alysa** | 79 | ✅ Consolidated | Alysa.md |
+| **Cleo** | 77 | ✅ Consolidated | Cleo.md |
+| **Petrus** | 78 | ✅ Consolidated | Petrus.md |
 
 ### Remaining Character Consolidation
 
 | Character | Files | Status | Next Step |
-|-----------|-------|--------|-----------|
+|-----------|-------|--------|-----------||
 | **Jason Prime** | 15, 20, 21, 37 | Cross-referenced | Optional standalone JasonPrime.md |
-| **Alysa** | 79 | Single-file canonical | Optional Alysa.md (expanded) |
-| **Cleo** | 77 | Single-file canonical | Optional Cleo.md (expanded) |
-| **Petrus** | 78 | Single-file canonical | Optional Petrus.md (expanded) |
 
 ---
 
@@ -100,6 +100,9 @@ This document tracks the consolidation of 75 files into streamlined canonical pr
 | **Foundation.md** | Institutional profile | Doctrine, protocol, triad architecture, schism pressure |
 | **Entity.md** | Mystery profile | Origin ambiguity, echo phenomenology, containment tragedy |
 | **Leandro.md** | Developmental host profile | First stable host (15 years), accidental transfer, biological limits, Entity parallel |
+| **Alysa.md** | Consent model host profile | First voluntary host, NSC-AS precursor, overstay discovery, Foundation prototype |
+| **Cleo.md** | Book 1 opening host profile | Foundation-trained, Stage-5 infection, emergency transfer catalyst |
+| **Petrus.md** | Book 1 crisis host profile | Youngest host (age 14), power inversion, underdeveloped substrate, Eli dependency |
 | **INDEX.md** | Quick reference | Character lookup, timeline events, relationships, themes, reading paths |
 | **CONSOLIDATION_MAP.md** | This file | Migration tracking & phase planning |
 
@@ -229,7 +232,7 @@ Empty categories (no content):
 | Task | Files | Goal |
 |------|-------|------|
 | ~~Create Leandro.md~~ | ~~25, 26, 27, 32, 33, 76~~ | ✓ **Complete** |
-| Expand Alysa/Cleo/Petrus profiles | 79, 77, 78 | Promote single-file entries to full .md canon docs |
+| ~~Expand Alysa/Cleo/Petrus profiles~~ | ~~79, 77, 78~~ | ✓ **Complete** — Full canonical profiles created |
 
 ### Medium Priority
 
@@ -272,12 +275,14 @@ Empty categories (no content):
 - ✅ **Foundation.md:** 29, 41, 43, 44, 63 integrated
 - ✅ **Entity.md:** 12, 17, 72, 73, 75 integrated
 - ✅ **Leandro.md:** 25, 26, 27, 32, 33, 76 integrated
+- ✅ **Alysa.md:** 79 expanded to full canonical profile
+- ✅ **Cleo.md:** 77 expanded to full canonical profile
+- ✅ **Petrus.md:** 78 expanded to full canonical profile
 - ✅ **INDEX.md:** Phase 2 + Phase 3 references validated
 - ✅ **CONSOLIDATION_MAP.md:** Updated
 
 ### Remaining Tasks
 
-- [ ] Phase 3 profile expansions (Alysa/Cleo/Petrus)
 - [ ] Optional JasonPrime.md
 - [ ] Final polish pass on thematic cluster links
 
@@ -298,5 +303,9 @@ Empty categories (no content):
 | 2026-03-05 | Update INDEX.md links to canonical profiles | ✓ Complete |
 | 2026-03-05 | Commit Phase 2 consolidation (`fb1a8c4`) | ✓ Complete |
 | 2026-03-05 | Create Leandro.md (25, 26, 27, 32, 33, 76) | ✓ Complete |
-| 2026-03-05 | Update INDEX.md + CONSOLIDATION_MAP.md (Phase 3) | ✓ Complete |
+| 2026-03-05 | Update INDEX.md + CONSOLIDATION_MAP.md (Phase 3 Leandro) | ✓ Complete |
+| 2026-03-05 | Create Alysa.md, Cleo.md, Petrus.md canonical profiles (`e6c9b53`) | ✓ Complete |
+| 2026-03-05 | Canon correction: Alysa age 14-15, NSC-AS precursor, overstay model (`9b9cbcf`) | ✓ Complete |
+| 2026-03-05 | Propagate overstay canon to Foundation.md and INDEX.md (`480aaf4`) | ✓ Complete |
+| 2026-03-05 | Phase 3 completion: CONSOLIDATION_MAP.md final alignment | ✓ Complete |
 
