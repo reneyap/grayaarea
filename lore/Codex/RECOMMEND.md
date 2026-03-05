@@ -1,7 +1,9 @@
 # Codex Restructuring & Deduplication Recommendations
 
+> Status note (2026-03-05): This document is now partly historical. Major consolidation and dedup steps have already been implemented; remaining items are future optimization suggestions.
+
 ## Current State Analysis
-- **Total files**: 75
+- **Total files**: 81 (post-consolidation, post-dedup snapshot)
 - **Characters**: 42 files (56%)
 - **History**: 17 files (23%)
 - **Meta**: 8 files (11%)
@@ -41,11 +43,9 @@ Characters are split across 40+ micro-documents covering:
 - Knowledge_systems: (empty)
 - Language: (empty)
 
-### 5. **Working Notes in Lore**
-- `lore/Codex/Characters/cost_of_hosting_and_ghost_data.md` → Working draft
-- `lore/Codex/Characters/daneel-persistence-foundation.md` → Working draft
-- `lore/Codex/Characters/daneel_james_identity_and_lineage.md` → Working draft
-- These should be in `lore/raw/` or an analysis folder, not in canon reference
+### 5. **Post-Dedup Single-Source Enforcement**
+- Top-level duplicate concept files were removed in favor of category-canonical copies.
+- Remaining action is governance: enforce one canonical location per concept (avoid re-adding top-level mirrors).
 
 ### 6. **Potential Content Duplicates**
 - **Daneel knowledge**: Spread across 38 (canon), 39 (by host), 40 (architecture), + individual host files
@@ -67,6 +67,11 @@ Characters are split across 40+ micro-documents covering:
   - daneel_james_identity_and_lineage.md
 
 **Result**: Cleaner distinction between **lore reference** vs. **creative process notes**
+
+**Implementation update (2026-03-05):**
+- Meta move: completed
+- Working notes: removed during raw cleanup
+- `lore/raw/`: removed after consolidation; retained concept notes were moved into Codex and deduped
 
 ---
 
@@ -160,7 +165,7 @@ lore/Codex/
 
 **Recommended**: Unified timeline with indexed sections
 - **Timeline.md**
-  - Master timeline (2037 X20, 2055-2065 Robot War, 2087 present)
+  - Master timeline (2030 X20, 2055-2065 Robot War, 2087 present)
   - Indexed sections:
     - Pre-X20 (PRIME genesis, Jason Prime)
     - X20 Event (polar shift, Entity emergence, Daneel birth)
@@ -201,7 +206,7 @@ lore/Codex/
 ## Timelines
 | Event | Year | File | Context |
 |-------|------|------|---------|
-| X20 Event | 2037 | Timeline.md | Global anomaly, Entity emergence, Daneel birth |
+| X20 Event | 2030 | Timeline.md | Global anomaly, Entity emergence, Daneel birth |
 | Robot War | 2055-2065 | Timeline.md | AI rights conflict, Treaty era |
 ```
 

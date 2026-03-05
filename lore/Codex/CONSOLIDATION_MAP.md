@@ -1,6 +1,6 @@
 # Consolidation Map — Codex Reorganization (2026-03-04)
 
-This document tracks the consolidation of 75 files into streamlined canonical profiles.
+This document tracks the consolidation program and post-consolidation cleanup into streamlined canonical profiles.
 
 ---
 
@@ -13,6 +13,7 @@ This document tracks the consolidation of 75 files into streamlined canonical pr
 | **Meta/** (8 files) | docs/METADATA/Book1-Planning | Creative planning ≠ lore reference |
 | **Working notes** (3 .md files) | Removed | Obsolete drafts deleted during raw cleanup |
 | **Remaining raw concept notes** (3 .md files) | lore/Codex top-level (moved) | Promoted for canonical review and category dedup |
+| **Top-level concept duplicates** (3 .md files) | Removed (kept category canonical copies) | Dedup complete; single-source concept docs retained by category |
 
 **Rationale:** Draft-only files were removed; the three remaining concept notes were moved into Codex for controlled consolidation.
 
@@ -187,7 +188,7 @@ lore/Codex/
 │   ├── 72-Unknown-Entity-Not-Entity-Origin/
 │   ├── 75-Entity-Extinction-Tragic-Containment/
 │   ├── 77-Final-Encounter-GCT-Scene/
-│   └── driver_passenger_dynamic.md
+│
 │
 ├─ Constraints/
 │   └── cohabitation_cycle_and_selection.md
@@ -286,7 +287,7 @@ Empty categories (no content):
 | Date | Change | Status |
 |------|--------|--------|
 | 2026-03-04 | Meta/ → docs/METADATA/ | ✓ Complete |
-| 2026-03-04 | Working notes → lore/raw/ | ✓ Complete |
+| 2026-03-04 | Working notes → lore/raw/ | ✓ Complete (historical; later removed in raw cleanup) |
 | 2026-03-04 | Create Daneel.md (38, 39, 40) | ✓ Complete |
 | 2026-03-04 | Create Timeline.md (08, 09, 11, 14, 42, 60) | ✓ Complete |
 | 2026-03-04 | Create INDEX.md | ✓ Complete |
@@ -303,4 +304,6 @@ Empty categories (no content):
 | 2026-03-05 | Phase 3 completion: CONSOLIDATION_MAP.md final alignment | ✓ Complete |
 | 2026-03-05 | Delete consolidated/obsolete raw files and prune lore/raw | ✓ Complete |
 | 2026-03-05 | Move retained concept notes from lore/raw to lore/Codex | ✓ Complete |
+| 2026-03-05 | Canon pass: X20=2030 alignment in Timeline/Index/Daneel/Isaac (`4674f2b`) | ✓ Complete |
+| 2026-03-05 | Dedup concept docs + metadata refresh (`efece09`) | ✓ Complete |
 
