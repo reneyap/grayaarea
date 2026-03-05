@@ -188,7 +188,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 
 ---
 
-### Event 5: Infant Transfer — Leandro (Birth, ~2060)
+### Event 5: Infant Transfer — Leandro (Birth, ~2032)
 
 **The New Host**
 - Newborn Leandro, Zika-infected, neurological fragility
