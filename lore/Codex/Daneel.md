@@ -260,7 +260,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 
 ---
 
-### Event 10: Leandro's Weeks of Freedom & Decline (Age 16-18)
+### Event 10: Leandro's Weeks of Freedom & Decline (Age ~15-17)
 
 **Short-term**
 - Relief phase
@@ -315,7 +315,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 
 ---
 
-### Event 13: Leandro's Deathbed (Age 19-20)
+### Event 13: Leandro's Deathbed (Age ~15-17)
 
 **Hospital Visit**
 - Leandro's neurological decline advanced (seizures, cognitive decline, cascade failure)

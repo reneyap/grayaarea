@@ -12,8 +12,8 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 |------|---------|--------|---------|-----------------|
 | **Daneel** | [Daneel.md](Daneel.md) | Active (2075-2086) | PRIME emergence → Host seeking → Foundation architect | Autonomy vs. Dominance; Intent vs. Origin |
 | **DeeJay** | [DeeJay.md](DeeJay.md) | Active (2075-2086) | Drifter → Rival technologist → Synthetic power actor → Ideological foe | Control vs. Consent; Human-primacy paradox |
-| **Isaac** | [Isaac.md](Isaac.md) | Deceased (2037) | Father figure → PRIME architect → First protector-host | Creator's responsibility; mortality |
-| **Jason Prime** | [Characters/15-20-21-37](Characters/) | Destroyed (~2037) | Digital identity → Consciousness wipe → Persistence seed | Death & replacement |
+| **Isaac** | [Isaac.md](Isaac.md) | Deceased (~2032-2037, exact year unresolved) | Father figure → PRIME architect → First protector-host | Creator's responsibility; mortality |
+| **Jason Prime** | [Characters/15-20-21-37](Characters/) | Destroyed (~2030) | Digital identity → Consciousness wipe → Persistence seed | Death & replacement |
 | **Leandro** | [Leandro.md](Leandro.md) | Deceased (~2047-2049) | First stable host (15 years) → Accidental transfer → Biological limits revealed | Dependency & fragility; Trust erosion |
 | **Alysa** | [Alysa.md](Alysa.md) | Alive, Foundation advisor (~2086) | Consent pioneer → Voluntary host → Neurological fade → Mercy departure | Autonomy within symbiosis; The Fade cost |
 | **Cleo Saraswati** | [Cleo.md](Cleo.md) | Unknown (post-infection) | Book 1 opening host → Entity infection → Emergency transfer | Prepared vulnerability; Crisis pivot |
@@ -30,7 +30,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 | Year | Event | Impact | File |
 |------|-------|--------|------|
-| 2020-2037 | Pre-X20 Acceleration | Tech dominance, climate awareness | [Timeline.md](Timeline.md) |
+| 2020-2030 | Pre-X20 Acceleration | Tech dominance, climate awareness | [Timeline.md](Timeline.md) |
 | 2030-2040 | First Retreat Signals | Old Manhattan starts dying | [Timeline.md](Timeline.md) |
 | 2041-2043 | Insurance Withdrawal | Property collapse, elite exodus | [Timeline.md](Timeline.md) |
 | 2043-2052 | AI Urbanization Era | Smart cities, XR security, arcology | [Timeline.md](Timeline.md) |
@@ -61,7 +61,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 - **When:** 2030 (50 years before Book 1)
 - **Impact:** AI reset, geopolitical reorder, Manhattan permanent flooding, Daneel's emergence
 - **Why:** Convergence of rare solar maximum + geomagnetic excursion
-- **File:** [Timeline.md § The X20 Event](Timeline.md#the-x20-event-2037)
+- **File:** [Timeline.md § The X20 Event](Timeline.md#the-x20-event-2030)
 
 ### The Foundation
 
@@ -121,7 +121,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | **Midtown** | Partially deteriorated, habitable | Mixed socioeconomic | Infrastructure age; receding former grandeur |
 | **Upper East Side (UES)** | Preserved historical district (Civic Vote) | Asset, cultural value | Wealth preservation symbol; political controversy |
 | **North of 110th St** | Arcology development; "New Manhattan Corridor" | Elite, arcology dwellers | New world; climate-resilient; AI integration |
-| **Lab (Origin)** | Isaac's private research facility (destroyed ~2037) | PRIME genesis location | First Daneel-Isaac cohabitation; knowledge loss |
+| **Lab (Origin)** | Isaac's private research facility (destroyed in the 2030s) | PRIME genesis location | First Daneel-Isaac cohabitation; knowledge loss |
 
 ### Global Context (Post-X20)
 
@@ -159,8 +159,8 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 ### To Understand Old Manhattan
 
-1. [Timeline.md § Pre-X20 to Collapse](Timeline.md#pre-x20-era-2020-2037)
-2. [Timeline.md § X20 Event](Timeline.md#the-x20-event-2037)
+1. [Timeline.md § Pre-X20 to Collapse](Timeline.md#pre-x20-era-2020-2030)
+2. [Timeline.md § X20 Event](Timeline.md#the-x20-event-2030)
 3. [History files 06-08](History/) — Urban infrastructure & geophysics
 
 ---

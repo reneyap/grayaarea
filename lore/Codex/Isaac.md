@@ -15,7 +15,7 @@ He is:
 
 ### Role in Canon
 
-- **Status:** Deceased (~2037)
+- **Status:** Deceased (~2032-2037, exact year unresolved)
 - **Function:** Human bridge between machine-only phase and host-based continuity
 - **Primary conflict:** Scientific duty vs paternal attachment
 - **Moral profile:** Not villainous, not pure; protective under ambiguity

@@ -1,4 +1,4 @@
-# Timeline — GrayArea World History (2037-2087)
+# Timeline — GrayArea World History (2030-2087)
 
 Master timeline consolidating geopolitical, technological, and personal history.
 
@@ -387,8 +387,8 @@ Master timeline consolidating geopolitical, technological, and personal history.
 
 ### By 2087
 - 50-year perspective: X20 was turning point
-- Old world (pre-2037) seems naive
-- New world (post-2037) defined by resilience
+- Old world (pre-2030) seems naive
+- New world (post-2030) defined by resilience
 - Foundation doctrine: "Persistence requires partnership"
 
 ---
