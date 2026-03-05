@@ -19,7 +19,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | **Cleo Saraswati** | [Characters/77](Characters/) | Critical (Book 1 opening) | Prepared Foundation host → Infection collapse trigger | Continuity under outbreak pressure |
 | **Petrus van Wyk** | [Characters/78](Characters/) | Active (Book 1 climax) | Emergency transfer host → Vulnerable continuity vessel | Developmental mismatch vs. persistence depth |
 | **DeeJay** | [Characters/28-31-66-70](Characters/) | Active (2075-2086) | Drifter → Rival technologist → Industrial power → Ideological foe | Control vs. Consent |
-| **Eli** | [Characters/49-50-52-55-74](Characters/) | Active (2075-2086) | Echo victim → Hybrid cyborg → Bridge figure → Book 1 anchor | Entity connection; Human & Machine |
+| **Eli** | [Eli.md](Eli.md) | Active (2075-2086) | Echo victim → Hybrid cyborg → Bridge figure → Book 1 anchor | Entity connection; Human & Machine |
 | **Entity/The Resonance** | [Species/17; History/12-72-75](Species/) | Unknown | Origin anomaly → Xavier consciousness evolution → Extinction threat | Nature of consciousness; Survival |
 | **Foundation** | [Characters/29-41-43-44-64](Characters/) | Institutional (2075-2086) | Hybrid doctrine → Host protocols → Schism brewing | Daneel's authority vs. Dissident hosts |
 
@@ -150,7 +150,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 
 1. [Timeline.md](Timeline.md) — World context (2075-2086 present)
 2. [Daneel.md § Book 1 Trajectory](Daneel.md#vi-book-1-trajectory)
-3. [Eli.md entries](Characters/) — Echo event & Entity connection
+3. [Eli.md](Eli.md) — Echo event & Entity bridge mechanism
 4. [Entity/Resonance profiles](Species/) — The central mystery
 
 ### To Understand Old Manhattan
