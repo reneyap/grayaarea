@@ -11,17 +11,10 @@ This document tracks the consolidation of 75 files into streamlined canonical pr
 | Folder/Files | Destination | Reason |
 |--------------|-------------|--------|
 | **Meta/** (8 files) | docs/METADATA/Book1-Planning | Creative planning ≠ lore reference |
-| **Working notes** (3 .md files) | lore/raw/ | Drafts; not canon |
+| **Working notes** (3 .md files) | Removed | Obsolete drafts deleted during raw cleanup |
+| **Remaining raw concept notes** (3 .md files) | lore/Codex top-level (moved) | Promoted for canonical review and category dedup |
 
-### Working Notes Moved to lore/raw/
-
-```
-- cost_of_hosting_and_ghost_data.md
-- daneel-persistence-foundation.md
-- daneel_james_identity_and_lineage.md
-```
-
-**Rationale:** These are creative development notes, not settled canonical lore.
+**Rationale:** Draft-only files were removed; the three remaining concept notes were moved into Codex for controlled consolidation.
 
 ---
 
@@ -308,4 +301,6 @@ Empty categories (no content):
 | 2026-03-05 | Canon correction: Alysa age 14-15, NSC-AS precursor, overstay model (`9b9cbcf`) | ✓ Complete |
 | 2026-03-05 | Propagate overstay canon to Foundation.md and INDEX.md (`480aaf4`) | ✓ Complete |
 | 2026-03-05 | Phase 3 completion: CONSOLIDATION_MAP.md final alignment | ✓ Complete |
+| 2026-03-05 | Delete consolidated/obsolete raw files and prune lore/raw | ✓ Complete |
+| 2026-03-05 | Move retained concept notes from lore/raw to lore/Codex | ✓ Complete |
 
