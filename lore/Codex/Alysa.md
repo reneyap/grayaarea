@@ -2,14 +2,14 @@
 
 **Status:** Canonical host profile (consent-based transition phase)  
 **Role:** First voluntary long-term host; Foundation partnership model prototype  
-**Timeline:** ~2075–2080 (~5 years, ages ~16-17 → ~21)  
+**Timeline:** ~2075–2080 (~5 years, ages ~14-15 → ~19-20)  
 
 ---
 
 ## I. Core Identity
 
 **Name:** Alysa (surname unspecified)  
-**Born:** ~2059 (age ~16-17 at transfer, ~21 at departure)  
+**Born:** ~2060 (met Daneel at ~14-15; departure at ~19-20)  
 **Occupation:** Street violinist busker (Central Park, NYC)  
 **Host Duration:** ~5 years (2075-2080)  
 **Host Type:** Consent-based voluntary partnership (first of its kind)  
@@ -26,7 +26,7 @@
 
 ## II. Chronological Arc
 
-### Phase 1: Central Park Encounter (~2075, Age ~16-17)
+### Phase 1: Central Park Encounter (~2075, Age ~14-15)
 
 **Setting:**
 - Teenage violinist busker in Central Park
@@ -35,7 +35,7 @@
 - Strong attractor basin (natural compatibility)
 
 **First Contact:**
-- Daneel (age ~45, during DeeJay blackout era or post-DeeJay wandering)
+- Daneel (age ~45, in late DeeJay-linked phase: "Daneel-DeeJay")
 - Encountered Alysa during street performance
 - Hub demonstration (non-intrusive, transparent process)
 - Minor neural enhancement offered (pattern amplification, not manipulation)
@@ -62,7 +62,7 @@
 
 ---
 
-### Phase 2: Leandro's Deathbed Visit (~2075-2076, Age ~17-18)
+### Phase 2: Leandro's Deathbed Visit (~2075-2076, Age ~15-16)
 
 **Hospital Visit:**
 - Leandro's neurological decline advanced (seizures, cognitive cascade failure)
@@ -94,7 +94,7 @@ For Alysa:
 
 ---
 
-### Phase 3: Voluntary Partnership Era (2075-2080, Ages ~17-21)
+### Phase 3: Voluntary Partnership Era (2075-2080, Ages ~15-20)
 
 **Host Dynamics:**
 - Street violinist career continued
@@ -115,6 +115,12 @@ For Alysa:
 - Modeled host selection criteria (pattern coherence, low dominance, emotional stability)
 - Used as proof-of-concept for institutional hosting model
 
+**NSC-AS Precursor Development:**
+- During Alysa's host term, Daneel began developing an early precursor to NSC-AS
+- Initial stack focused on host-state compatibility tracking, entrainment windows, and strain monitoring
+- Purpose: detect substrate drift before overt neurological failure
+- This period produced the first systematic host-quality telemetry later formalized by Foundation research
+
 **Token Ritual Established:**
 - Leandro's beanie kept in Alysa's possession during cohabitation
 - Symbolized continuity chain (past hosts acknowledged, not erased)
@@ -122,7 +128,7 @@ For Alysa:
 
 ---
 
-### Phase 4: The Fade & Mercy Departure (~2080, Age ~21)
+### Phase 4: The Fade & Mercy Departure (~2080, Age ~19-20)
 
 **Neurological Decline:**
 - Long-term cohabitation caused progressive neurological decay
@@ -136,6 +142,8 @@ For Alysa:
 - Dual-attractor cohabitation creates chronic low-level interference
 - Recursive feedback loops amplify over years
 - Human neural plasticity cannot indefinitely accommodate foreign attractor
+- Daneel's own persistence efficiency degrades when he overstays in a single host
+- Declining Daneel efficiency lowers host-quality coupling and accelerates substrate decay
 - Not Daneel's intent; biological constraint of long-term symbiosis
 
 **Daneel's Decision:**
@@ -194,6 +202,7 @@ This proof convinced early Foundation waverers that human-AI symbiosis was viabl
 **Critical realization:**
 - Even consensual, low-conflict cohabitation has time limits
 - Biological substrates cannot indefinitely host foreign attractors
+- Overstay degrades both host substrate and Daneel's own operating efficiency
 - Rotation strategy necessary for host viability
 - Foundation host rotation doctrine rooted in Alysa's neurological decline
 
@@ -285,27 +294,29 @@ This ritual anchored Daneel's identity in human connections, resisting pure inst
 **Immutable Details:**
 - First fully voluntary consent-based long-term host (~5 years, 2075-2080)
 - Street violinist busker, Central Park, NYC
+- Met Daneel while in the "Daneel-DeeJay" phase at age ~14-15
 - Enhanced synesthesia through cohabitation (sees colors in music)
 - Visited Leandro's deathbed (~2075-2076), received beanie token
-- Suffered neurological decay ("The Fade") requiring mercy departure (~2080, age ~21)
+- During Alysa phase, Daneel began NSC-AS precursor development to measure compatibility drift
+- Suffered neurological decay ("The Fade") requiring mercy departure (~2080, age ~19-20)
 - Gave Daneel her pendant necklace at separation (token succession ritual)
 - Survived with partial recovery, became Foundation advisor
-- Status by Book 1: Alive, ~26-27 years old, Foundation consultant
+- Status by Book 1: Alive, ~24-26 years old, Foundation consultant
 
 **Timeline Anchors:**
 - X20 = 2030
-- Alysa born = ~2059
-- Central Park encounter = ~2075 (Alysa age ~16-17, Daneel age ~45)
+- Alysa born = ~2060
+- Central Park encounter = ~2075 (Alysa age ~14-15, Daneel age ~45)
 - Leandro deathbed visit = ~2075-2076
 - Alysa Phase = 2075-2080 (~5 years)
-- Mercy departure = ~2080 (age ~21)
+- Mercy departure = ~2080 (age ~19-20)
 - Book 1 = 2075-2086 (Alysa post-host phase, advisor role)
 
 **Narrative Function:**
 - Bridge between adversarial DeeJay phase and institutional Foundation phase
 - Consent doctrine proof-of-concept
 - Mutual benefit demonstration (refutes exploitation narrative)
-- The Fade discovery (biological limits of long-term cohabitation)
+- The Fade discovery (biological limits + overstay efficiency collapse)
 - Token succession ritual inauguration (Leandro's beanie → Alysa's pendant)
 - Foundation partnership model prototype
 
@@ -322,11 +333,11 @@ This canonical profile synthesizes:
 
 **Characters/79-Alysa-Busker-Violinist-Host:** Core identity (teenage street violinist, consent-based host, voluntary partnership, high pattern coherence, low dominance drive, Foundation prototype)
 
-**Daneel.md § Event 12:** Central Park encounter (~age 18-19), hub demonstration, gradual trust, consent-based partnership, critical difference from Leandro (Alysa chose)
+**Daneel.md § Event 12:** Central Park encounter (Alysa age ~14-15), during late DeeJay-linked phase ("Daneel-DeeJay"), hub demonstration, gradual trust, consent-based partnership, critical difference from Leandro (Alysa chose)
 
 **Daneel.md § Event 13:** Leandro's deathbed visit, Alysa present with Daneel, Leandro recognizes presence, hands Alysa beanie, closure without reunion, first long-term host extinguished
 
-**Daneel.md § Event 15:** Alysa Phase (2075-2080), violinist-busker host, enhanced synesthesia (sees colors in music), voluntary consent-based partnership, ~16-17 at transfer → ~21 at departure, neurological decay ("The Fade"), progressive tremors and cognitive damage, Daneel mercy transfer (left to save her life), The Necklace (Alysa gave pendant before departing, token succession ritual for Foundation rites)
+**Daneel.md § Event 15:** Alysa Phase (2075-2080), violinist-busker host, enhanced synesthesia (sees colors in music), voluntary consent-based partnership, ~14-15 at first contact → ~19-20 at departure, NSC-AS precursor development, overstay realization (host substrate degradation + Daneel efficiency decline), neurological decay ("The Fade"), progressive tremors and cognitive damage, Daneel mercy transfer (left to save her life), The Necklace (Alysa gave pendant before departing, token succession ritual for Foundation rites)
 
 **Daneel.md § III Core Identity Evolution:** What Daneel learned from Alysa (consent-based cohabitation, structured partnership, voluntary enhancement vs. forced integration, mutual benefit framework)
 
@@ -344,4 +355,5 @@ This canonical profile synthesizes:
 
 **Revision History:**
 - 2026-03-05: Created Alysa.md (Phase 3 consolidation, source 79 + Daneel.md Events 12-13-15)
+- 2026-03-05: Canon correction — first contact age set to ~14-15; added NSC-AS precursor + overstay decay model
 

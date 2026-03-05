@@ -298,10 +298,11 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 
 ---
 
-### Event 12: Central Park Encounter (Age ~18-19)
+### Event 12: Central Park Encounter (Alysa age ~14-15)
 
 **During DeeJay Blackout**
 - Alysa: teenage violinist busker, high pattern coherence, low dominance drive, emotional regulation stable
+- Daneel is still in late DeeJay-linked continuity phase ("Daneel-DeeJay")
 - Daneel encounters Alysa
 - Hub demonstration
 - Minor neural enhancement, no manipulation
@@ -342,11 +343,14 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 - Alysa: street violinist, high pattern coherence, low dominance drive
 - Enhanced synesthesia through Daneel cohabitation (sees colors in music)
 - Voluntary, consent-based partnership
-- ~16-17 years old at transfer; ~21 at departure
+- ~14-15 years old at first contact; ~19-20 at departure
+- Daneel begins precursor NSC-AS instrumentation for host-state compatibility and strain telemetry
 
 **The Cost**
 - Long-term cohabitation cause neurological decay ("The Fade")
 - Alysa shows progressive tremors and cognitive damage
+- Daneel realizes overstay degrades both host substrate and his own operating efficiency
+- Lower Daneel efficiency worsens coupling quality and accelerates host decline
 - Daneel leaves to save her life (mercy transfer)
 - **The Necklace:** Alysa gives Daneel her pendant before departing
 - Token ritual: passes family symbol for Foundation succession rites
@@ -415,6 +419,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 - Consent-based cohabitation, structured partnership
 - Voluntary enhancement vs. forced integration
 - Mutual benefit framework
+- Overstay in a single host degrades both host quality and Daneel efficiency
 
 ---
 
