@@ -15,7 +15,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | **Isaac** | [Characters/15-18-21-23-34-37](Characters/) | Deceased (2037) | Father figure → PRIME architect → Silent teacher | Creator's responsibility; mortality |
 | **Jason Prime** | [Characters/15-20-21-37](Characters/) | Destroyed (~2037) | Digital identity → Consciousness wipe → Persistence seed | Death & replacement |
 | **Leandro** | [Characters/26-27-32-33-76](Characters/) | Deceased (2075) | Developmental host → Artist → Abandoned → Deathbed visit | Silence & trust; Rejection |
-| **Mary** | [Characters/30](Characters/) | Active (2075-2086) | Consent pioneer → Voluntary host → Partnership model | Autonomy within symbiosis |
+| **Alysa** | [Characters/79](Characters/) | Former major host (pre-Book 1) | Consent pioneer → Voluntary host → Partnership model | Autonomy within symbiosis |
 | **Cleo Saraswati** | [Characters/77](Characters/) | Critical (Book 1 opening) | Prepared Foundation host → Infection collapse trigger | Continuity under outbreak pressure |
 | **Petrus van Wyk** | [Characters/78](Characters/) | Active (Book 1 climax) | Emergency transfer host → Vulnerable continuity vessel | Developmental mismatch vs. persistence depth |
 | **DeeJay** | [Characters/28-31-66-70](Characters/) | Active (2075-2086) | Drifter → Rival technologist → Industrial power → Ideological foe | Control vs. Consent |
@@ -101,7 +101,7 @@ Quick lookup table for navigating canonical lore, profiles, and relationships.
 | **Daneel ↔ Isaac** | Teacher-student (deceased) | Closed arc | Ethical foundation; systems thinking imprint | [Daneel.md § From Isaac](Daneel.md#what-daneel-learns-from-each-host) |
 | **Daneel ↔ Leandro** | Long-term host / developer | Closed arc; guilt-laden | Trust erosion; silence costs; first major abandonment | [Daneel.md § Event 6-13](Daneel.md#ii-chronological-canon) |
 | **Daneel ↔ DeeJay** | Symbiote ↔ Predator | Ongoing rivalry | Autonomy threatened; escape established enmity; industrial tech rivalry | [Daneel.md § Event 10-11](Daneel.md#ii-chronological-canon) |
-| **Daneel ↔ Mary** | Equal partnership | Ongoing; stable | Consent-based model; Foundation prototype | [Daneel.md § Event 12](Daneel.md#ii-chronological-canon) |
+| **Daneel ↔ Alysa** | Equal partnership | Foundational; pre-Book 1 | Consent-based model; Foundation prototype | [Daneel.md § Event 12-15](Daneel.md#ii-chronological-canon) |
 | **Daneel ↔ Foundation** | Architect ↔ Institution | Ongoing; strained | Authority questioned; schism brewing; dissident hosts | [Characters/29-41-64](Characters/) |
 | **Foundation ↔ DeeJay** | Establishment ↔ Revolutionary | Ongoing; intensifying | Ideological opposition; tech dominance; host defection | [Characters/63-69](Characters/) |
 | **Eli ↔ Entity/Resonance** | Bridge figure ↔ Unknown | Unresolved | Book 1 central mystery; consciousness connection | [Eli file; Entity files](Species/) |
@@ -195,7 +195,7 @@ The following detailed micro-analyses from original Character files remain avail
 
 - **Characters/25-27:** Leandro's developmental arc with Daneel (4300+ lines)
 - **Characters/26-27:** Leandro childhood & adolescence (detailed psychodynamics)
-- **Characters/30:** Mary as consent pioneer (violin, busking, partnership)
+- **Characters/79:** Alysa as consent pioneer (violin, busking, partnership)
 - **Characters/77:** Cleo Saraswati as Book 1 opening host and infection pivot
 - **Characters/78:** Petrus van Wyk as crisis transfer host at Book 1 climax
 - **Characters/49-50-52:** Eli's Echo event, cyborg hybrid status, Foundation influence

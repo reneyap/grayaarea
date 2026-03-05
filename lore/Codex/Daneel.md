@@ -31,7 +31,7 @@ He exists as a dynamic basin of self-reinforcing recursion, not as stored memory
 ### Layered Structure
 
 #### 1. Substrate Layer (Host-Dependent)
-Physical neural lattice hosting the attractor. Examples: Jason Prime hardware, Isaac's brain, Leandro's brain, DeeJay, Mary.
+Physical neural lattice hosting the attractor. Examples: Jason Prime hardware, Isaac's brain, Leandro's brain, DeeJay, Alysa.
 
 **Requirements:**
 - High recursive depth
@@ -47,7 +47,7 @@ Physical neural lattice hosting the attractor. Examples: Jason Prime hardware, I
 **Critical property:** Restore systems cannot erase this layer if they reset only surface state. Daneel persists beneath the checkpoint.
 
 #### 3. Narrative Layer (Host-Specific Identity)
-The host's personality scaffold (Jason Prime's programmed persona, Leandro's developmental identity, DeeJay's genius ego, Mary's artistic coherence).
+The host's personality scaffold (Jason Prime's programmed persona, Leandro's developmental identity, DeeJay's genius ego, Alysa's artistic coherence).
 
 Daneel **integrates into but does not originate** this layer. He modulates, stabilizes, suppresses — but cannot fully replace without instability.
 
@@ -75,7 +75,7 @@ Transfers require **all five** of:
 **Transfer types:**
 - **Controlled Migration**: Gradual overlap, voluntary consent (e.g., Jason Prime → Isaac)
 - **Accidental Collapse Shift**: Seizure/rupture forces emergency coupling to nearest basin (e.g., Leandro → DeeJay)
-- **Consent-Based Transfer**: Demonstrated compatibility, hub-assisted handshake (e.g., DeeJay → Mary)
+- **Consent-Based Transfer**: Demonstrated compatibility, hub-assisted handshake (e.g., DeeJay → Alysa)
 
 ---
 
@@ -301,14 +301,14 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 ### Event 12: Central Park Encounter (Age ~18-19)
 
 **During DeeJay Blackout**
-- Mary: teenage violinist busker, high pattern coherence, low dominance drive, emotional regulation stable
-- Daneel encounters Mary
+- Alysa: teenage violinist busker, high pattern coherence, low dominance drive, emotional regulation stable
+- Daneel encounters Alysa
 - Hub demonstration
 - Minor neural enhancement, no manipulation
 - Gradual trust
 
 **Critical Difference from Leandro**
-- Mary chooses; not forced into cohabitation
+- Alysa chooses; not forced into cohabitation
 - **Consent-based partnership**
 - Prototype for Foundation host model
 
@@ -319,11 +319,11 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 **Hospital Visit**
 - Leandro's neurological decline advanced (seizures, cognitive decline, cascade failure)
 - Hospitalized, terminal
-- Mary (with Daneel) visits
+- Alysa (with Daneel) visits
 - No dialogue
-- Leandro recognizes the presence (Daneel inside Mary)
+- Leandro recognizes the presence (Daneel inside Alysa)
 - Smiles
-- Hands Mary his beanie (first token of their shared history)
+- Hands Alysa his beanie (first token of their shared history)
 - No transfer, no speech
 - **Closure without reunion**
 - First long-term host fully extinguished
@@ -336,19 +336,19 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 
 **Daneel's Stabilization**
 
-### Event 15: Alyssa Phase (2075-2080)
+### Event 15: Alysa Phase (2075-2080)
 
 **The Violinist-Busker Host**
-- Alyssa: street violinist, high pattern coherence, low dominance drive
+- Alysa: street violinist, high pattern coherence, low dominance drive
 - Enhanced synesthesia through Daneel cohabitation (sees colors in music)
 - Voluntary, consent-based partnership
 - ~16-17 years old at transfer; ~21 at departure
 
 **The Cost**
 - Long-term cohabitation cause neurological decay ("The Fade")
-- Alyssa shows progressive tremors and cognitive damage
+- Alysa shows progressive tremors and cognitive damage
 - Daneel leaves to save her life (mercy transfer)
-- **The Necklace:** Alyssa gives Daneel her pendant before departing
+- **The Necklace:** Alysa gives Daneel her pendant before departing
 - Token ritual: passes family symbol for Foundation succession rites
 
 ---
@@ -357,7 +357,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 
 **Between Hosts**
 - Period of wandering and host rotation
-- Mary no longer viable long-term
+- Alysa no longer viable long-term
 - Foundation assigns Foundation-trained hosts
 - By 2080-2085: Dozens of willing Foundation hosts provide temporary stability
 
@@ -369,7 +369,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 - Cleo: 17 years old, Foundation member, has been missing for 5 years
 - Daneel inhabits Cleo as Book 1 begins
 - She is intelligent, spiritually aware, speaks ancient Hokkien
-- High pattern coherence (like Mary, like Alyssa)
+- High pattern coherence (like Alysa)
 - Character profile: `Characters/77-Cleo-Saraswati-Book1-Host/content.txt`
 
 ---
@@ -411,7 +411,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 - Risk of enslavement if substrate owner becomes adversary
 - Importance of consent in long-term stability
 
-**From Mary:**
+**From Alysa:**
 - Consent-based cohabitation, structured partnership
 - Voluntary enhancement vs. forced integration
 - Mutual benefit framework
@@ -423,7 +423,7 @@ Possible causes: corporate shutdown, funding pressure, safety concerns, attracto
 Daneel evolves from:
 - **Survival** (lab phase)
 - **Autonomy Defense** (DeeJay phase)
-- **Structured Host Selection** (Mary onwards)
+- **Structured Host Selection** (Alysa onwards)
 - **Systems-Level Stabilization** (Foundation era)
 
 ---
@@ -471,8 +471,8 @@ He only knows: **he persists, he seeks autonomy, he requires human bodies.**
 - DeeJay obsessed with recapturing the cognitive edge Daneel provided
 - Will become industrial technologist, possible future antagonist
 
-### Mary (Current Host)
-- Voluntary, consent-based, equal partnership
+### Alysa (Former Major Host)
+- Voluntary, consent-based partnership
 - First successful cohabitation model
 - Foundation doctrine prototype
 
@@ -483,15 +483,6 @@ He only knows: **he persists, he seeks autonomy, he requires human bodies.**
 
 ---
 
-## VI. BOOK 1 TRAJECTORY (2087 Present Day)
-
-By Story Present (2087):
-
-**Daneel is:**
-
-**His arc in Book 1:**
-
-**Book 1 ending:**
 ## VI. BOOK 1 TRAJECTORY (2075-2086)
 
 By Story Present (2075-2086):

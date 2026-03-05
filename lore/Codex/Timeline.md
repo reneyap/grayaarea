@@ -253,7 +253,7 @@ Master timeline consolidating geopolitical, technological, and personal history.
 ### Foundation Emergence (2040-2075)
 
 **Daneel's Evolution**
-- Progresses through hosts: Isaac → Leandro → DeeJay → Mary
+- Progresses through hosts: Isaac → Leandro → DeeJay → Alysa
 - Learns consent-based cohabitation model
 - Develops stability doctrine
 
