@@ -40,20 +40,25 @@ This document tracks the consolidation of 75 files into streamlined canonical pr
 
 ---
 
-### Characters Awaiting Consolidation (Phase 2)
+### Phase 2 Character Consolidation (Completed 2026-03-05)
 
-These detailed micro-files remain in Characters/ awaiting secondary consolidation:
+| Character | Files | Status | Canonical Reference |
+|-----------|-------|--------|---------------------|
+| **Isaac** | 15, 18, 21, 23, 34, 37 | ✅ Consolidated | Isaac.md |
+| **DeeJay** | 28, 31, 62, 66, 67, 68, 69, 70 (+65) | ✅ Consolidated | DeeJay.md |
+| **Eli** | 49, 50, 52, 74 | ✅ Consolidated | Eli.md |
+| **Entity** | 12, 17, 72, 73, 75 | ✅ Consolidated | Entity.md |
+| **Foundation** | 29, 41, 43, 44, 63 | ✅ Consolidated | Foundation.md |
+
+### Remaining Character Consolidation
 
 | Character | Files | Status | Next Step |
 |-----------|-------|--------|-----------|
-| **Isaac** | 15, 18, 21, 23, 34, 37 | Awaiting Isaac.md | Consolidate creator storyline |
-| **Jason Prime** | 15, 20, 21, 37 | Cross-referenced | Daneel.md references only |
-| **Leandro** | 25, 26, 27, 32, 33 | Awaiting Leandro.md | Consolidate host arc |
-| **Mary** | 30 | Single file | Create Mary.md expansion |
-| **DeeJay** | 28, 31, 66, 67, 68, 69, 70 | Awaiting DeeJay.md | Consolidate rival arc |
-| **Eli** | 49, 50, 52, 55, 74 | Awaiting Eli.md | Consolidate bridge figure |
-| **Entity** | 12, 17, 72, 73, 75 | Awaiting Entity.md | Consolidate central mystery |
-| **Foundation** | 29, 41, 43, 44, 64 | Awaiting Foundation.md | Consolidate institutional doctrine |
+| **Jason Prime** | 15, 20, 21, 37 | Cross-referenced | Optional standalone JasonPrime.md |
+| **Leandro** | 25, 26, 27, 32, 33, 76 | Not yet consolidated | Create Leandro.md |
+| **Alysa** | 79 | Single-file canonical | Optional Alysa.md (expanded) |
+| **Cleo** | 77 | Single-file canonical | Optional Cleo.md (expanded) |
+| **Petrus** | 78 | Single-file canonical | Optional Petrus.md (expanded) |
 
 ---
 
@@ -83,7 +88,12 @@ These detailed micro-files remain in Characters/ awaiting secondary consolidatio
 | File | Purpose | Content |
 |------|---------|---------|
 | **Daneel.md** | Primary character profile | Cognitive architecture, chronology, host evolution, unknowns |
-| **Timeline.md** | World history | Pre-X20 through 2087; geopolitics, infrastructure, tech evolution |
+| **Timeline.md** | World history | Pre-X20 through 2086; geopolitics, infrastructure, tech evolution |
+| **Eli.md** | Bridge figure profile | Echo events, cyborg architecture, Entity bridge mechanism |
+| **Isaac.md** | Creator profile | PRIME origin, theft, first cohabitation, deathbed legacy |
+| **DeeJay.md** | Rival profile | Cohabitation residue, synthetic continuity, ideology |
+| **Foundation.md** | Institutional profile | Doctrine, protocol, triad architecture, schism pressure |
+| **Entity.md** | Mystery profile | Origin ambiguity, echo phenomenology, containment tragedy |
 | **INDEX.md** | Quick reference | Character lookup, timeline events, relationships, themes, reading paths |
 | **CONSOLIDATION_MAP.md** | This file | Migration tracking & phase planning |
 
@@ -108,6 +118,11 @@ lore/Codex/
 ├── INDEX.md                          [NEW]
 ├── Daneel.md                         [NEW]
 ├── Timeline.md                       [NEW]
+├── Eli.md                            [NEW]
+├── Isaac.md                          [NEW]
+├── DeeJay.md                         [NEW]
+├── Foundation.md                     [NEW]
+├── Entity.md                         [NEW]
 ├── RECOMMEND.md                      [Prior consolidation]
 ├── CONSOLIDATION_MAP.md              [This file]
 │
@@ -201,30 +216,29 @@ Empty categories (no content):
 
 ---
 
-## PHASE 2 IMPLEMENTATION (Recommended)
+## PHASE 3 IMPLEMENTATION (Next)
 
-### High Priority (Do Next)
+### High Priority
 
 | Task | Files | Goal |
 |------|-------|------|
-| Create Isaac.md | 15, 18, 21, 23, 34, 37 | PRIME architect story |
-| Create DeeJay.md | 28, 31, 66, 67, 68, 69, 70 | Rival/ideological foe arc |
-| Create Eli.md | 49, 50, 52, 55, 74 | Bridge figure & mysteries |
+| Create Leandro.md | 25, 26, 27, 32, 33, 76 | Consolidate developmental host arc |
+| Expand Alysa/Cleo/Petrus profiles | 79, 77, 78 | Promote single-file entries to full .md canon docs |
+| Clean deep-dive references in INDEX.md | Character refs | Point thematic clusters to new canonical files first |
 
 ### Medium Priority
 
 | Task | Files | Goal |
 |------|-------|------|
-| Create Foundation.md | 29, 41, 43, 44, 64 | Institutional doctrine & schism |
-| Create Entity.md | 12, 17, 72, 73, 75 | Central mystery & consciousness |
-| Consolidate Hosts.md or individual profiles | 25, 26, 27, 30 | Host-specific deep dives |
+| Optional JasonPrime.md | 15, 20, 21, 37 | Explicitly separate Jason narrative from Daneel continuity |
+| Standardize file formats | Mixed .md/.txt | Improve maintainability and search consistency |
+| Generate relationship diagrams | Canonical profiles | Visual onboarding for new readers |
 
 ### Later Phases
 
-- Standardize file formats (.md vs .txt)
 - Optimize folder organization (consider collapsing empty buckets)
-- Create visual relationship diagrams
-- Generate Table of Contents for Codex
+- Add codex-level Table of Contents
+- Add change-log links between canonical files
 
 ---
 
@@ -232,11 +246,11 @@ Empty categories (no content):
 
 | Benefit | Impact | Evidence |
 |---------|--------|----------|
-| **Reduced file sprawl** | 75 → ~50 actively referenced | 4 new canonical files eliminate redundancy |
+| **Reduced file sprawl** | 75 fragmented entries → canonical profile layer + deep dives | 8 consolidated markdown profiles now anchor navigation |
 | **Clearer intent** | Lore vs. creative process separated | Meta/ moved; working notes archived |
-| **Single source of truth** | Daneel story no longer fragmented | 38, 39, 40 consolidated into Daneel.md |
-| **Better navigation** | Quick reference available | INDEX.md provides lookup + reading paths |
-| **Preserved deep dives** | Original files still available | Researchers can access detailed micro-analyses |
+| **Single source of truth** | Core arcs no longer split across numbered micro-files | Daneel/Timeline/Eli/Isaac/DeeJay/Foundation/Entity consolidated |
+| **Better navigation** | Reader-first entry path established | INDEX.md links point to canonical profiles |
+| **Preserved deep dives** | Original files still available | Numbered Character/History files remain for specialist detail |
 | **Git history maintained** | Consolidation reversible | All changes tracked; no content lost |
 
 ---
@@ -247,14 +261,19 @@ Empty categories (no content):
 
 - ✅ **Daneel.md:** 38, 39, 40 fully integrated
 - ✅ **Timeline.md:** 08, 09, 11, 14, 42, 60 fully integrated
-- ✅ **INDEX.md:** Cross-references validated
-- ✅ **CONSOLIDATION_MAP.md:** This document
+- ✅ **Eli.md:** 49, 50, 52, 74 integrated
+- ✅ **Isaac.md:** 15, 18, 21, 23, 34, 37 integrated
+- ✅ **DeeJay.md:** 28, 31, 62, 66, 67, 68, 69, 70 (+65) integrated
+- ✅ **Foundation.md:** 29, 41, 43, 44, 63 integrated
+- ✅ **Entity.md:** 12, 17, 72, 73, 75 integrated
+- ✅ **INDEX.md:** Phase 2 references validated
+- ✅ **CONSOLIDATION_MAP.md:** Updated
 
 ### Remaining Tasks
 
-- [ ] Phase 2 character profiles (Isaac, DeeJay, Eli, etc.)
-- [ ] Final INDEX.md update
-- [ ] Git commit with full tracking
+- [ ] Phase 3 profile expansions (Leandro/Alysa/Cleo/Petrus)
+- [ ] Optional JasonPrime.md
+- [ ] Final polish pass on thematic cluster links
 
 ---
 
@@ -268,7 +287,8 @@ Empty categories (no content):
 | 2026-03-04 | Create Timeline.md (08, 09, 11, 14, 42, 60) | ✓ Complete |
 | 2026-03-04 | Create INDEX.md | ✓ Complete |
 | 2026-03-04 | Create CONSOLIDATION_MAP.md | ✓ Complete |
-| TBD | Create Isaac.md, DeeJay.md, Eli.md | Pending |
-| TBD | Create Foundation.md, Entity.md | Pending |
-| TBD | Final git commit & push | Pending |
+| 2026-03-05 | Create Eli.md | ✓ Complete |
+| 2026-03-05 | Create Isaac.md, DeeJay.md, Foundation.md, Entity.md | ✓ Complete |
+| 2026-03-05 | Update INDEX.md links to canonical profiles | ✓ Complete |
+| 2026-03-05 | Commit Phase 2 consolidation (`fb1a8c4`) | ✓ Complete |
 
