@@ -13,7 +13,7 @@
 *   **Eli Williams** (Cyborg Detective) investigates the Grand Central Museum outbreak.
 *   Encounters **The Twins** and **Cleo**.
 *   Eli is knocked out by a high-frequency "hum".
-*   **Key Reveal:** Eli remembers his grandmother's (**Charlene**) connection to a similar event about 35 years ago.
+*   **Key Reveal:** Eli remembers his grandmother's (**Charlene**) connection to a similar event 80 years ago.
 
 ---
 
