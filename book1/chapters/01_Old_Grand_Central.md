@@ -74,7 +74,9 @@ As the crowd rushes out, two small humanoids begin hovering and zipping through 
 
 One of them, P1010, swoops down and snatches a woman who was almost out of the building. The woman screams.  
 
-XR6 takes a shot, hitting the shoulder of P1010. But there’s no effect.
+XR6 takes a shot, hitting P1010's shoulder. No penetration.
+
+His AI flagged the plating as Foundation-derivative—60% material match, adaptive polymer class. Not a perfect correlation, but the signature was unmistakable. The design, though, was something else entirely. Generations ahead of standard Foundation specs. Unique configuration. Built for purposes his database couldn't even categorize.
 
 P1011, slightly bulkier, lands and attacks the XR units guarding the main exit.  
 
