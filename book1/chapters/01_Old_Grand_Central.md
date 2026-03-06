@@ -26,6 +26,8 @@ The Global Contact Tracing System reports Grand Central Museum is the probable e
 
 Eli leads his team of XR bots in the Apache XR-45 towards Old Manhattan—an island that is now designated a Federal protected landmark. The once vibrant downtown is totally submerged. The Upper West Side is flooded. The old Riverside Drive is now the Riverside Flood Barrier, erected at least 100 years ago to keep the Hudson River from encroaching into the fragile island.
 
+Midtown's elevated landmarks—Grand Central, the Library steps at 42nd—still stood above the waterline, preserved monuments behind reinforced seawalls. The barriers had held. Barely.
+
 The Central Park Prime Properties (C3P) does not include just the Park but also properties, once apartment buildings, which have now been converted into luxury hotels. A perimeter wall has been erected around this prime property. Beyond the walls, vagrants and the homeless scuttle in the darkness. Guarded by the National Guard, Central Park remains pristine and is a main tourist destination. However, at night, on the watchtowers, guards snipe at vagrants for fun.
 
 *It’s January. There is a blizzard going on. It’ll be dark soon.*
