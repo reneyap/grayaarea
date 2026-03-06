@@ -26,13 +26,11 @@ The Global Contact Tracing System reports Grand Central Museum is the probable e
 
 Eli leads his team of XR bots in the Apache XR-45 towards Old Manhattan—an island that is now designated a Federal protected landmark. The once vibrant downtown is totally submerged. The Upper West Side is flooded. The old Riverside Drive is now the Riverside Flood Barrier, erected at least 100 years ago to keep the Hudson River from encroaching into the fragile island.
 
-Midtown's elevated landmarks—Grand Central, the Library steps at 42nd—still stood above the waterline, preserved monuments behind reinforced seawalls. The barriers had held. Barely.
-
 The Central Park Prime Properties (C3P) does not include just the Park but also properties, once apartment buildings, which have now been converted into luxury hotels. A perimeter wall has been erected around this prime property. Beyond the walls, vagrants and the homeless scuttle in the darkness. Guarded by the National Guard, Central Park remains pristine and is a main tourist destination. However, at night, on the watchtowers, guards snipe at vagrants for fun.
 
 *It’s January. There is a blizzard going on. It’ll be dark soon.*
 
-With the Apache XR-45 hovering over the GCT Museum, Eli can see tourists sequestered a few blocks north of the Museum—in a field hospital erected by the Marine Corps of Engineers.
+With the Apache ER hovering over the GCT Museum, Eli can see tourists sequestered a few blocks north of the Museum—in a field hospital erected by the Marine Corps of Engineers.
 
 Landed. Eli and his team rush out of the XR-45 and head straight to GCT Museum. 
 
@@ -42,19 +40,9 @@ Without completing his command, Eli sees that the XR1 contact-tracking unit is a
 
 The CyComm module. Damn it.
 
-The Cybernetic Command interface doesn't just relay his orders to the droid units; it's pre-programmed to anticipate his tactical instincts and execute before his words catch up. It was installed without his consent—a mandatory upgrade when the interagency joint task force requisitioned him three months ago. The Pandemic Response Act mandated CyComm standardization across all augmented federal agents—sold as interoperability, implemented as institutional control over personnel the brass already didn't trust. The system reads his neural patterns and translates intention into code faster than language can follow.
+The Cybernetic Command interface doesn't just relay his orders to the droid units; it's pre-programmed to anticipate his tactical instincts and execute before his words catch up. It was installed without his consent—a mandatory upgrade when the interagency joint task force requisitioned him three months ago. The system reads his neural patterns and translates intention into code faster than language can follow.
 
 Eli hates it. Hates the puppet-master sensation when his XR team moves in unison with thoughts he hasn't finished thinking.
-
-It wasn't just the tactical predictions. The module monitored his biometrics—heart rate, cortisol spikes, micro-expressions his facial servos made before his conscious mind registered emotion. Every time he started to reach for his sidearm, the safety was already disengaged. Every time he glanced toward cover, his threat assessment subroutines had already calculated firing angles.
-
-The worst part? The module was usually right.
-
-It made him faster. More lethal. A better operator by every measurable standard. That's what the tech briefing had emphasized: enhanced response time, reduced cognitive overhead, optimized battlefield efficiency. They'd framed it as augmentation.
-
-Eli called it what it was: preemptive puppetry. His own neural architecture dissected and predicted, intentions translated to commands before he'd decided to act. The illusion of choice with a half-second delay.
-
-Three months in, and he still couldn't shake the feeling that he was becoming passenger in his own body.
 
 They are now in the Main Concourse of the Grand Central Terminal (GCT) Museum. He catches himself for a brief moment. He hasn’t been here since he was a kid visiting with his maternal grandmother—his guardian, his *Whaea*.
 
@@ -66,10 +54,6 @@ He reaches for his wrist control band so he can change the enhanced audio settin
 
 But the screeching stops as abruptly as it started. His XR team has already secured the exits as a number of civilians rush out of the museum.
 
-Eli's tactical overlay painted the concourse in threat gradients. Green for clear passages. Yellow for questionable routes. Red blooming near the information booth where thermal signatures clustered in unnatural synchronization. His neural processor fed him probability matrices faster than conscious thought—egress routes, contamination spread patterns, defensive firing lanes.
-
-XR2 and XR4 had bracketed the north exit without his verbal command. The CyComm module again, reading his tactical instincts and translating them to machine language before his mouth could form words. Efficient. Invasive.
-
 *XR6 scanning…*
 
 *Human: Clear…*
@@ -80,19 +64,7 @@ XR2 and XR4 had bracketed the north exit without his verbal command. The CyComm 
 
 *Human: infected: Stage-4 P1009…*
 
-The Stage-1s moved jerkily, still fighting it—hands twitching, heads cocked at wrong angles as if listening to frequencies only they could hear. A businessman in a shredded suit stumbled past Eli's position, muttering fragments: "...hear it... the pattern... can you hear the pattern..."
-
-Stage-4s had stopped resisting. Three figures moved in eerie coordination, steps synchronized to the millisecond. Their eyes were open but unfocused, pupils fully dilated. One woman walked directly into a marble pillar without breaking stride, adjusted course mechanically, and continued toward the exit as if nothing had happened.
-
-Eli had seen battlefield shock. He'd seen combat drugs turn soldiers into dead-eyed automatons. This was different. This was *shared*. Like fifty different radios all tuned to the same frequency, broadcasting the same signal through human nervous systems.
-
-As the crowd rushes out, two small humanoids begin hovering and zipping through the air.
-
-Eli's hand moved toward his sidearm—or tried to. His arm was already in motion, muscle memory and neural command firing simultaneously. Except it wasn't his command. The CyComm had read his threat assessment, calculated optimal draw speed, and triggered the motor cortex impulse 0.3 seconds before his conscious decision resolved.
-
-The weapon cleared leather smoothly. Perfect form. His targeting reticle locked on the nearest humanoid before his eyes had fully tracked the movement.
-
-He wanted to curse, to wrench control back, to prove he could still make his own goddamn decisions. But the tactical situation didn't allow for pride. The module was optimizing. He was executing. The boundary between his will and its predictions had blurred into something he no longer recognized as autonomy.
+As the crowd rushes out, two small humanoids begin hovering and zipping through the air.  
 
 *XR6 scanning humanoids: unknown ...*
 
@@ -102,17 +74,11 @@ He wanted to curse, to wrench control back, to prove he could still make his own
 
 One of them, P1010, swoops down and snatches a woman who was almost out of the building. The woman screams.  
 
-XR6 takes a shot, hitting P1010's shoulder. No penetration.
+XR6 takes a shot, hitting the shoulder of P1010. But there’s no effect.
 
-His AI flagged the plating as Foundation-derivative—60% material match, adaptive polymer class. Not a perfect correlation, but the signature was unmistakable. The design, though, was something else entirely. Generations ahead of standard Foundation specs. Unique configuration. Built for purposes his database couldn't even categorize.
+P1011, slightly bulkier, lands and attacks the XR units guarding the main exit.  
 
-P1011, slightly bulkier, lands and attacks the XR units guarding the main exit.
-
-XR3 went down first—servos shrieking as P1011's strike crumpled its torso housing. XR5 returned fire, plasma rounds that should have punched through military-grade armor. The shots splashed harmlessly against P1011's adaptive plating, energy dissipating in ripples across the surface.
-
-He snatches two children near the exit—a girl, maybe eight, and a boy younger still, both frozen in terror. Eli and the rest of the team immediately converge, forming a tactical perimeter. His sidearm was already raised, targeting solution painting itself across his HUD. Center mass. But if XR5's plasma couldn't penetrate...
-
-He throws one of the kids towards Eli, jumps out and disappears.
+He snatches two children near the exit. Eli and the rest of the team immediately surround him. He throws one of the kids towards Eli, jumps out and disappears.
 
 *Searching for P#1010 and P#1011...*
 
@@ -141,39 +107,7 @@ His built-in AI mentally responds — *a palladium pendant... some sort of commu
 *Yes, the pendant does look familiar... Maori.*
 
 *Geo Tracking System: searching location of individual... unknown.*
-Eli replayed the footage again. And again. The exo-cam had captured 4.7 seconds of usable data between the moment he collapsed and full consciousness loss. Frame-by-frame analysis showed:
 
-**00:00:00** - X20 resonance wave hits, his knees buckle  
-**00:01:23** - Peripheral vision catches movement, hooded figure approaching from the east entrance  
-**00:02:84** - Contact: gloved hands under his shoulders, surprisingly strong for her frame size  
-**00:03:61** - Pendant swings into frame - silvery-white metal catching the emergency lighting, spiral unfurling pattern unmistakable  
-**00:04:70** - Blackout
-
-The gap between frames 00:04:70 and his return to consciousness outside the Library: eight minutes, forty-two seconds. Unrecorded. The exo-cam's buffer had corrupted—electromagnetic interference consistent with X20 resonance aftershocks, according to the diagnostic logs. Convenient timing.
-
-But it was the pendant that wouldn't let him rest.
-
-Charlene had worn one almost identical. Not the same piece—hers had been older, the metal more tarnished, the spiral tighter. But the symbology was unmistakable: *koru*, the unfurling fern frond. New life. New beginnings. In Maori tradition, it represented growth, harmony, and the connection between past and future.
-
-She'd told him once, during one of their last conversations before the Kaikoura trip, that the koru wasn't just decorative. "Our whanau marks them with specific weaving patterns," she'd explained, tracing the spiral with one finger. "Each family line has variations—like genetic signatures in metal. You can read lineage in the curves if you know what to look for."
-
-His AI had already begun pattern analysis, comparing the pendant from the exo-cam footage to archived images of Charlene's collection. Preliminary results: 67% structural similarity to the Kapetaua family variant. Not a match. But close enough to suggest related craft traditions. Same regional origin, possibly same generation of artisans.
-
-The girl couldn't be older than eighteen. If she was connected to his grandmother's whanau, that meant... what? A distant cousin he'd never met? Someone Charlene had trained before her death, passed down knowledge Eli had refused to learn?
-
-Or something else entirely. Foundation operatives didn't wear family heirlooms on tactical missions by accident.
-
-*Run facial recognition again,* Eli thought. *Expand parameters—include historical databases, immigration records, New Zealand national archives pre-2060.*
-
-*Processing. Estimated completion: 47 minutes.*
-
-He should report this. Protocol demanded it—unidentified operative with apparent Foundation ties had made physical contact during an active outbreak scenario. Commander Washington would want a full debrief. The girl's exo-suit signature alone was worth a classified memorandum.
-
-But Eli had learned the hard way that some investigations lived longer in the shadows. The moment he filed an official report, the incident would get flagged, cross-referenced, analyzed by intelligence algorithms that fed directly into inter-agency political machinery. The Foundation would be notified through diplomatic channels. And this girl—whoever she was—would disappear into whatever black-site protection the Foundation provided for exposed operatives.
-
-The pendant was his only lead to Kaikoura. To Charlene. To thirty-five years of unanswered questions about weaponized plagues and strangers who moved through quarantine zones untouched.
-
-He wasn't ready to lose that thread yet.
 ## Elijah Williams 
 
 Elijah Williams was one of the lead special agents for the recently organized United East Pandemic Task Force, an ex-marine and a former NYPD detective. He had just been assigned to the task force. 
@@ -195,14 +129,6 @@ Initially he refused—until the outbreak became a pandemic in NYC. There were r
 He'd never mentioned it to anyone. But he was familiar with virology when he was growing up. His guardian, his biological grandmother, Charlene Kapetaua—an immunological anthropologist and professor at Columbia—cultivated that obsession in him before her death. She died of encephalitis, a sudden inflammation of the brain, when Eli was fifteen. The doctors in New Zealand called it a viral infection from one of the periodic outbreaks in that region.
 
 But Eli believed she was targeted—murdered by artificial infection. A bio-weapon. He'd been present during her final hours, locked in containment with her. He remembered a stranger—a boy, maybe a teenager—moving through the infected with unusual purpose. That boy never became infected, though everyone around him did. The memory was fragmented, thirty-five years buried. The face was lost. But the pattern remained: intentional selection. Weaponized precision.
-
-***
-
-The hut in Kaikoura. Eucalyptus oil and sickness. Charlene convulsing on the woven mat, her final words in the family creole: *"Mian kua gia, wa ho se."* The stranger's hand on his shoulder—impossibly strong, holding him back. When Eli looked up, the stranger had vanished.
-
-Thirty-five years, and he could still hear the ankle tracker beeping in the silence.
-
-***
 
 The doctors said trauma could rewrite memory. That he was blocking shock. But Eli had learned to trust his augmented neural logs. The patterns didn't lie.
 
@@ -246,33 +172,5 @@ Eli did not react. But the commander stared at the holographic screen and mutter
 
 "I have, sir. The medical unit—MedU—is currently verifying their sensor data. And Tracker techs have already started checking XR units." He corrected the commander misclassifying the medical unit as a division. The commander is a political appointee and has only been on the job for a few weeks, before this outbreak. It was supposed to be a cushy job.
 
-The commander leaned back, rubbing his temples. "The Director wants answers I don't have. She's fielding calls from the Confederation Council, the Foundation's diplomatic liaison, and about twelve different intelligence agencies. Everyone wants to know why two children survived Stage-6 infection and why a Foundation operative extracted one of our agents instead of letting him get swarmed."
-
-Eli kept his expression neutral. What he didn't say: the Koru pendant matched symbols from his grandmother's collection—Maori heritage markers she'd worn as protection talismans. The girl couldn't be older than eighteen, but she moved with tactical precision that suggested either extensive training or something else. Foundation operatives were notoriously hard to age. Their enhancements ran deep.
-
-What he didn't say: the stranger from Kaikoura had moved through infected populations the same way—selective, purposeful, immune. Thirty-five years between incidents. If it was the same individual, that suggested life extension technology far beyond standard Federation capabilities. Foundation-level bioengineering.
-
-What he didn't say: his neural logs had flagged a 73% behavioral pattern match between the Kaikoura stranger and the hooded girl's movement signatures. Not proof. But enough to make his augmented threat-assessment systems flag her file with a red marker he hadn't shared with anyone.
-
-"Sir," Eli said carefully, "if the Foundation wanted those twins alive, there's a reason. Stage-6 infection has a 100% mortality rate. Has had for thirty years across every documented outbreak. If the Johnson twins survived—even temporarily—it suggests either the Foundation has developed Stage-6 countermeasures we don't know about, or..."
-
-"Or what, Williams?"
-
-"Or the twins weren't infected with the standard pathogen. They were infected with something modified. Weaponized differently."
-
-The commander's face darkened. "You're saying the Foundation engineered this outbreak?"
-
-"No, sir. I'm saying someone with access to Foundation-level biotech engineered variants. Could be rogue elements. Could be a third party. But if those twins are still alive somewhere in Foundation custody, their blood chemistry could tell us whether this pandemic is natural mutation or deliberate release."
-
-Washington stood, pacing to the window overlooking the flooded streets of Lower Manhattan. "The Foundation has diplomatic immunity across seven continental zones. We can't touch them without a UN Security Council resolution, and that takes weeks we don't have. The Director knows this. She wants me to find another angle."
-
-Eli understood the subtext: find evidence that doesn't require declaring war on the most powerful private institution in the Western Confederation.
-
-"The girl who extracted me," Eli said slowly, testing the waters. "She could be a loose thread. She saved my life. That suggests she's not hostile. If we can identify her, establish contact through back channels—"
-
-"You mean recruit her as an informant against her own organization." The commander turned, studying Eli with new calculation. "That's dangerous, Williams. The Foundation doesn't tolerate defectors. And they have long memories."
-
-*I know,* Eli thought. *I've been running from one for thirty-five years.*
-
-"It's an option, sir. Just flagging it for consideration."
-
+## Note on Foundation
+It is not clear when the Foundation started. However, there are references that it was founded by a George Evans in London 2276.
