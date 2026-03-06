@@ -1,4 +1,22 @@
-# Chapter 1: Old Grand Central 
+---
+title: "Old Grand Central"
+book: 1
+chapter: 1
+pov: "Elijah Williams"
+location: "Grand Central Terminal, Old Manhattan"
+date_story: "2085-01-14"
+word_count_target: 4500
+status: "draft"
+tags: [x20-event, resonance-echo, foundation-emergence, cyborg-protagonist]
+canon_refs:
+  - lore/Codex/Eli.md
+  - lore/Codex/Timeline.md
+  - lore/Codex/Foundation.md
+  - lore/Codex/Technology/CyComm.md
+notes: "Opening chapter. Introduces Eli's cyborg nature, CyComm friction, Foundation contact via Koru-pendant girl. Sets up X20 resonance event. Validates NZ grandmother backstory (Echo 1, 2050)."
+---
+
+# Chapter 1: Old Grand Central
 
 ## Alert: Tracking...
 
@@ -18,9 +36,13 @@ Landed. Eli and his team rush out of the XR-45 and head straight to GCT Museum.
 
 *Arwan, take...* Eli starts giving orders.
 
-Without completing his command, Eli sees that the XR1 contact-tracking unit and its team have already advanced and taken their positions. He isn’t yet accustomed to the newly installed CyComm module. This new Cybernetic communication prototype module not only lets him communicate with his XR droid units but is also pre-programmed to anticipate his tactical maneuvers and transmit commands to the XR units.
+Without completing his command, Eli sees that the XR1 contact-tracking unit is already advancing. Before he can reissue orders, both XR2 and XR3 units respond—moving into tactical positions he hadn't yet formulated in his conscious mind.
 
-Eli is now required to have the new CyComm module installed, an order given when he was recruited to the interagency joint task force. He hates it.  
+The CyComm module. Damn it.
+
+The Cybernetic Command interface doesn't just relay his orders to the droid units; it's pre-programmed to anticipate his tactical instincts and execute before his words catch up. It was installed without his consent—a mandatory upgrade when the interagency joint task force requisitioned him three months ago. The system reads his neural patterns and translates intention into code faster than language can follow.
+
+Eli hates it. Hates the puppet-master sensation when his XR team moves in unison with thoughts he hasn't finished thinking.
 
 They are now in the Main Concourse of the Grand Central Terminal (GCT) Museum. He catches himself for a brief moment. He hasn’t been here since he was a kid visiting with his maternal grandmother—his guardian, his *Whaea*.
 
@@ -54,7 +76,7 @@ One of them, P1010, swoops down and snatches a woman who was almost out of the b
 
 XR6 takes a shot, hitting the shoulder of P1010. But there’s no effect.
 
-P1011, slightly bulkier, lands and acts out the XR units guarding the main exit.  
+P1011, slightly bulkier, lands and attacks the XR units guarding the main exit.  
 
 He snatches two children near the exit. Eli and the rest of the team immediately surround him. He throws one of the kids towards Eli, jumps out and disappears.
 
@@ -104,9 +126,11 @@ There were many times he could have been fired. But he was a good cop. A great d
 
 Initially he refused—until the outbreak became a pandemic in NYC. There were rumors that it may be a biological weapon. During the last war and subsequent rebellion he has been involved in the investigative team for biochemical weapons. 
 
-He’d never mentioned it to anyone. But he was familiar with virology when he was growing up. His guardian, his biological grandmother, an immunological anthropologist, was a professor at Columbia University. When he was a teenager, he got obsessed with studying virology, after his *Whaea* died of encephalitis, an inflammation of the brain. The doctors in New Zealand informed him that the condition was caused by an unknown viral infection during one of those periodic outbreaks.
+He'd never mentioned it to anyone. But he was familiar with virology when he was growing up. His guardian, his biological grandmother, Charlene Kapetaua—an immunological anthropologist and professor at Columbia—cultivated that obsession in him before her death. She died of encephalitis, a sudden inflammation of the brain, when Eli was fifteen. The doctors in New Zealand called it a viral infection from one of the periodic outbreaks in that region.
 
-But he believed she was targeted—murdered—a victim of an artificial viral infection. Since then he thought it could have been some sort of bio-weapon. He remembered a stranger—a teenager—who was with her when she died. But his memory is fuzzy. He can’t remember the boy’s face. He couldn’t even remember her face anymore. Even when he viewed one of the video recordings of her, he knew it was his grandmother; but she was becoming less recognizable. Yes, it had been at least 80 years since she died. The event seemed to be buried. The doctors said he could be traumatized, he could be blocking it. he was only 15 when it happened. 
+But Eli believed she was targeted—murdered by artificial infection. A bio-weapon. He'd been present during her final hours, locked in containment with her. He remembered a stranger—a boy, maybe a teenager—moving through the infected with unusual purpose. That boy never became infected, though everyone around him did. The memory was fragmented, thirty-five years buried. The face was lost. But the pattern remained: intentional selection. Weaponized precision.
+
+The doctors said trauma could rewrite memory. That he was blocking shock. But Eli had learned to trust his augmented neural logs. The patterns didn't lie.
 
 ## Debrief
 
@@ -138,7 +162,7 @@ Eli did not react. But the commander stared at the holographic screen and mutter
 
 “That’s not possible! Your XR tracer bot must be damaged.”
 
-“Most unlikely, sir. All 3 other XR sensors confirmed it. My own covid sensor unit also indicated their Stage-6 infection... 96% confidence level.”
+*Most unlikely, sir. All 3 other XR sensors confirmed it. My own pathogen-stage sensor also indicated their Stage-6 infection... 96% confidence level.*
 
 “96%?! When has the System ever reported a 96% confidence level?”
 
@@ -146,7 +170,7 @@ Eli did not react. But the commander stared at the holographic screen and mutter
 
 “Get hold of the medical division and tracker technology team.. Inform them of this situation.”
 
-“I have, sir. The medical unit—MedU—is currently verifying their sensor data. And Tracker techs have already started checking XR units.” He corrected the commander misclassifying the medical unit as a division. The commander is a political appointee and has only been on the job for a few weeks, before the new covid outbreak. It was supposed to be a cushy job.
+"I have, sir. The medical unit—MedU—is currently verifying their sensor data. And Tracker techs have already started checking XR units." He corrected the commander misclassifying the medical unit as a division. The commander is a political appointee and has only been on the job for a few weeks, before this outbreak. It was supposed to be a cushy job.
 
 ## Note on Foundation
 It is not clear when the Foundation started. However, there are references that it was founded by a George Evans in London 2276.
