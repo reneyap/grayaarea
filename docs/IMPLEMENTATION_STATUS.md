@@ -179,10 +179,58 @@
 2. ✅ Create `.vale.ini` and custom vocabulary
 3. ✅ Document implementation status (this file)
 4. ✅ Create chapter template
-5. ⏳ Install Vale locally: `brew install vale` or `choco install vale`
+5. ⏳ Install Vale locally (see Vale Installation section below)
 6. ⏳ Test Vale on existing chapters: `vale book1/chapters/`
 7. ⏳ Draft Chapters 1-3 to validate workflow
 8. ⏳ Add pre-commit hooks (Vale + YAML validation)
+
+---
+
+## Vale Installation (Platform-Specific)
+
+### macOS
+```bash
+brew install vale
+vale --version
+```
+
+### Windows (Git Bash)
+
+**Option A: Using Scoop (Recommended)**
+```bash
+# Install Scoop (requires PowerShell admin)
+powershell -Command "iwr -useb get.scoop.sh | iex"
+
+# Then install Vale
+scoop install vale
+
+# Verify
+vale --version
+```
+
+**Option B: Using Chocolatey**
+```bash
+# Install Chocolatey first if needed (requires admin PowerShell)
+# See https://chocolatey.org/install
+
+choco install vale
+
+# Verify
+vale --version
+```
+
+**Option C: Direct Download (No Package Manager)**
+1. Visit: https://github.com/errata-ai/vale/releases
+2. Download latest `vale_*_Windows_x86_64.zip`
+3. Extract to a folder in your PATH (e.g., `C:\Program Files\vale\`)
+4. Add folder to PATH environment variable
+5. Restart git bash terminal
+6. Verify: `vale --version`
+
+**Troubleshooting**: 
+- If git bash can't find `vale` after installation, restart the terminal
+- Scoop/Chocolatey require admin rights; ensure you run PowerShell as Administrator
+- On Windows, you may need to add the installation folder to your Windows PATH environment variable
 
 ---
 
