@@ -240,3 +240,33 @@ Eli did not react. But the commander stared at the holographic screen and mutter
 
 "I have, sir. The medical unit—MedU—is currently verifying their sensor data. And Tracker techs have already started checking XR units." He corrected the commander misclassifying the medical unit as a division. The commander is a political appointee and has only been on the job for a few weeks, before this outbreak. It was supposed to be a cushy job.
 
+The commander leaned back, rubbing his temples. "The Director wants answers I don't have. She's fielding calls from the Confederation Council, the Foundation's diplomatic liaison, and about twelve different intelligence agencies. Everyone wants to know why two children survived Stage-6 infection and why a Foundation operative extracted one of our agents instead of letting him get swarmed."
+
+Eli kept his expression neutral. What he didn't say: the Koru pendant matched symbols from his grandmother's collection—Maori heritage markers she'd worn as protection talismans. The girl couldn't be older than eighteen, but she moved with tactical precision that suggested either extensive training or something else. Foundation operatives were notoriously hard to age. Their enhancements ran deep.
+
+What he didn't say: the stranger from Kaikoura had moved through infected populations the same way—selective, purposeful, immune. Thirty-five years between incidents. If it was the same individual, that suggested life extension technology far beyond standard Federation capabilities. Foundation-level bioengineering.
+
+What he didn't say: his neural logs had flagged a 73% behavioral pattern match between the Kaikoura stranger and the hooded girl's movement signatures. Not proof. But enough to make his augmented threat-assessment systems flag her file with a red marker he hadn't shared with anyone.
+
+"Sir," Eli said carefully, "if the Foundation wanted those twins alive, there's a reason. Stage-6 infection has a 100% mortality rate. Has had for thirty years across every documented outbreak. If the Johnson twins survived—even temporarily—it suggests either the Foundation has developed Stage-6 countermeasures we don't know about, or..."
+
+"Or what, Williams?"
+
+"Or the twins weren't infected with the standard pathogen. They were infected with something modified. Weaponized differently."
+
+The commander's face darkened. "You're saying the Foundation engineered this outbreak?"
+
+"No, sir. I'm saying someone with access to Foundation-level biotech engineered variants. Could be rogue elements. Could be a third party. But if those twins are still alive somewhere in Foundation custody, their blood chemistry could tell us whether this pandemic is natural mutation or deliberate release."
+
+Washington stood, pacing to the window overlooking the flooded streets of Lower Manhattan. "The Foundation has diplomatic immunity across seven continental zones. We can't touch them without a UN Security Council resolution, and that takes weeks we don't have. The Director knows this. She wants me to find another angle."
+
+Eli understood the subtext: find evidence that doesn't require declaring war on the most powerful private institution in the Western Confederation.
+
+"The girl who extracted me," Eli said slowly, testing the waters. "She could be a loose thread. She saved my life. That suggests she's not hostile. If we can identify her, establish contact through back channels—"
+
+"You mean recruit her as an informant against her own organization." The commander turned, studying Eli with new calculation. "That's dangerous, Williams. The Foundation doesn't tolerate defectors. And they have long memories."
+
+*I know,* Eli thought. *I've been running from one for thirty-five years.*
+
+"It's an option, sir. Just flagging it for consideration."
+
