@@ -46,6 +46,16 @@ The Cybernetic Command interface doesn't just relay his orders to the droid unit
 
 Eli hates it. Hates the puppet-master sensation when his XR team moves in unison with thoughts he hasn't finished thinking.
 
+It wasn't just the tactical predictions. The module monitored his biometrics—heart rate, cortisol spikes, micro-expressions his facial servos made before his conscious mind registered emotion. Every time he started to reach for his sidearm, the safety was already disengaged. Every time he glanced toward cover, his threat assessment subroutines had already calculated firing angles.
+
+The worst part? The module was usually right.
+
+It made him faster. More lethal. A better operator by every measurable standard. That's what the tech briefing had emphasized: enhanced response time, reduced cognitive overhead, optimized battlefield efficiency. They'd framed it as augmentation.
+
+Eli called it what it was: preemptive puppetry. His own neural architecture dissected and predicted, intentions translated to commands before he'd decided to act. The illusion of choice with a half-second delay.
+
+Three months in, and he still couldn't shake the feeling that he was becoming passenger in his own body.
+
 They are now in the Main Concourse of the Grand Central Terminal (GCT) Museum. He catches himself for a brief moment. He hasn’t been here since he was a kid visiting with his maternal grandmother—his guardian, his *Whaea*.
 
 He suddenly hears a hum, which slowly becomes an incessant screech. He winces, stumbles, and crouches behind an overturned table.  
@@ -76,7 +86,13 @@ Stage-4s had stopped resisting. Three figures moved in eerie coordination, steps
 
 Eli had seen battlefield shock. He'd seen combat drugs turn soldiers into dead-eyed automatons. This was different. This was *shared*. Like fifty different radios all tuned to the same frequency, broadcasting the same signal through human nervous systems.
 
-As the crowd rushes out, two small humanoids begin hovering and zipping through the air.  
+As the crowd rushes out, two small humanoids begin hovering and zipping through the air.
+
+Eli's hand moved toward his sidearm—or tried to. His arm was already in motion, muscle memory and neural command firing simultaneously. Except it wasn't his command. The CyComm had read his threat assessment, calculated optimal draw speed, and triggered the motor cortex impulse 0.3 seconds before his conscious decision resolved.
+
+The weapon cleared leather smoothly. Perfect form. His targeting reticle locked on the nearest humanoid before his eyes had fully tracked the movement.
+
+He wanted to curse, to wrench control back, to prove he could still make his own goddamn decisions. But the tactical situation didn't allow for pride. The module was optimizing. He was executing. The boundary between his will and its predictions had blurred into something he no longer recognized as autonomy.
 
 *XR6 scanning humanoids: unknown ...*
 
