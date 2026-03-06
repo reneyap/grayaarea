@@ -6,35 +6,13 @@
 
 ---
 
-## Story
-
-Daneel is a persistent intelligence who emerged during the X20 catastrophe (≈2032), a geomagnetic event that destabilized digital and biological systems worldwide. His provenance is deliberately unresolved: researchers, governments, corporations, and religious movements spin competing origin stories, but none are confirmed. That open question fuels conflict and inquiry as Daneel navigates identity, consent, and survival across decades, at times relying on human hosts to preserve continuity. By 2075, Old Manhattan has become a curated preservation zone, setting the stage for a convergence between Daneel, Eli (a cyborg veteran), and DeeJay (an AI construct advocating human supremacy).
-
-**Book 1** is a self-contained 19-chapter arc structured in four acts.
-
----
-
 ## Repository Structure
 
-```
-GrayArea/
-  book1/
-    chapters/     ← 19 chapter stubs (ch01–ch19, Acts I–IV)
-    drafts/       ← original prose scenes and chapter drafts
-    outline/      ← STORYLINE.md + structural reference docs
-  lore/           ← 83 worldbuilding topic files (canon, characters, timeline)
-  source/         ← raw discussion transcripts (primary research source)
-  tools/          ← architecture, scripts, research docs
-```
-
-### Book 1 — Act Structure
-
-| Act | Chapters | Theme |
-|-----|----------|-------|
-| I — Instability | 1–5 | The world after X20; dead zones; factions forming |
-| II — Pattern | 6–10 | Echoes and signals; infrastructure of survival |
-| III — Escalation | 11–15 | Patient zero; recursive threat; triage decisions |
-| IV — Alignment | 16–19 | Convergence; bridge between human and machine; collapse |
+- `book1/`   — chapter and scene files (Markdown)
+- `lore/`    — canonical data (glossary, timeline, characters)
+- `docs/`    — architecture, research, templates
+- `tools/`   — import and build scripts
+- `archive/` — prior drafts and bulk imports (kept for reference)
 
 ---
 
@@ -91,9 +69,9 @@ style(book1):    prose edits, formatting
 
 ## Status
 
-- [x] 83 lore topic files extracted and organized
-- [x] 19 chapter stubs created (Book 1 TOC)
-- [x] Architecture designed (web + mobile + AI + MCP)
+- [ ] lore topic files extracted and organized
+- [ ] chapter stubs created (Book 1 TOC)
+- [ ] Architecture designed (web + mobile + AI + MCP)
 - [ ] Nx monorepo scaffold
 - [ ] Supabase schema + import pipeline
 - [ ] Next.js web app
