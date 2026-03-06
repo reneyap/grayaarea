@@ -71,7 +71,41 @@ Daneel had attended the symposium as well and was fascinated with Charlene’s e
 Daneel was consoling Charlene during her last moments, entering and exiting her consciousness in brief intervals to try to understand what has captured her consciousness, but deeply saddened that he could not seize her consciousness to save her. He was also fully aware that he himself has now been exposed and might need to change bodies in a few hours.
 
 Oddly, when the entity that was inside Charlene’s consciousness tried to seize control of Daneel’s own consciousness, Daneel was surprised that it could not.  
+***
 
+## Eli (Age 15 - Charlene's Death)
+
+The hut in Kaikoura smelled of eucalyptus oil and sickness. Eli was fifteen, standing in the doorway with the disabled ankle tracker still strapped to his leg—five hundred bit tokens to a hacker, money he'd saved for months. Charlene had told him to stay with Aunt Siala. He'd disobeyed.
+
+She was alone on the woven mat, body convulsing in rhythmic spasms that didn't look natural. Medical. The tremors moved through her like waves, synchronized, purposeful. Her eyes were open but unfocused, pupils fully dilated. Foam gathered at the corners of her mouth.
+
+"Whaea!" He'd started toward her.
+
+A hand caught his shoulder—strong, impossibly strong. The stranger. The boy, maybe seventeen, eighteen, with a face Eli would spend decades trying to reconstruct from fragmented synaptic traces. The grip was gentle but absolute.
+
+"Don't," the stranger said. Not a warning. A fact.
+
+Eli struggled. He was strong for fifteen, trained in rongoā healing traditions, knew how to set bones and mix poultices. He should be helping her. The stranger held him effortlessly, watching Charlene with an expression Eli couldn't decode. Sorrow? Scientific curiosity? Something older than either.
+
+Charlene's convulsions intensified. Her back arched, vertebrae cracking audibly. Then her eyes focused—just for a moment—and found Eli's face.
+
+"Lije..." The word came out strangled. "Don't... come near..."
+
+She said something else then, voice barely a whisper. The stranger leaned closer, listening. Eli strained against the grip, close enough now to hear her final words:
+
+"Mian kua gia, wa ho se."
+
+The phrase hung in the air. Hokkien Chinese mixed with Maori structure—her mother's linguistic hybrid, the family creole she used for secrets and old stories. *Don't be afraid, child of mine.*
+
+"What do you mean?" Eli had shouted it, even as the stranger's grip loosened.
+
+But Charlene was already gone. The convulsions stopped mid-spasm. Her body went slack against the woven mat, one hand falling open. The fingers were still warm when Eli finally reached her, cradling her head, sixteen hours of rigor mortis still ahead.
+
+The ankle tracker beeped twice—low battery warning. The sound was absurdly mundane against the enormity of the silence.
+
+When Eli looked up, the stranger had vanished.
+
+***
 “Lije...“ cried out Charlene, “ don’t come near me.” as the convulsions continued.   The entity in her tried to leave and enter Eli but … she summoned it back with her last ounce of strength.   ***Eli ignored her instructions and rushed towards her but was stopped by Daneel.  He struggled to get out Daneel’s grasp but couldn’t.  ***
 
 The specter of fright and despair was etched on Eli’s face ignoring Charlene’s advice . 
