@@ -141,7 +141,39 @@ His built-in AI mentally responds — *a palladium pendant... some sort of commu
 *Yes, the pendant does look familiar... Maori.*
 
 *Geo Tracking System: searching location of individual... unknown.*
+Eli replayed the footage again. And again. The exo-cam had captured 4.7 seconds of usable data between the moment he collapsed and full consciousness loss. Frame-by-frame analysis showed:
 
+**00:00:00** - X20 resonance wave hits, his knees buckle  
+**00:01:23** - Peripheral vision catches movement, hooded figure approaching from the east entrance  
+**00:02:84** - Contact: gloved hands under his shoulders, surprisingly strong for her frame size  
+**00:03:61** - Pendant swings into frame - silvery-white metal catching the emergency lighting, spiral unfurling pattern unmistakable  
+**00:04:70** - Blackout
+
+The gap between frames 00:04:70 and his return to consciousness outside the Library: eight minutes, forty-two seconds. Unrecorded. The exo-cam's buffer had corrupted—electromagnetic interference consistent with X20 resonance aftershocks, according to the diagnostic logs. Convenient timing.
+
+But it was the pendant that wouldn't let him rest.
+
+Charlene had worn one almost identical. Not the same piece—hers had been older, the metal more tarnished, the spiral tighter. But the symbology was unmistakable: *koru*, the unfurling fern frond. New life. New beginnings. In Maori tradition, it represented growth, harmony, and the connection between past and future.
+
+She'd told him once, during one of their last conversations before the Kaikoura trip, that the koru wasn't just decorative. "Our whanau marks them with specific weaving patterns," she'd explained, tracing the spiral with one finger. "Each family line has variations—like genetic signatures in metal. You can read lineage in the curves if you know what to look for."
+
+His AI had already begun pattern analysis, comparing the pendant from the exo-cam footage to archived images of Charlene's collection. Preliminary results: 67% structural similarity to the Kapetaua family variant. Not a match. But close enough to suggest related craft traditions. Same regional origin, possibly same generation of artisans.
+
+The girl couldn't be older than eighteen. If she was connected to his grandmother's whanau, that meant... what? A distant cousin he'd never met? Someone Charlene had trained before her death, passed down knowledge Eli had refused to learn?
+
+Or something else entirely. Foundation operatives didn't wear family heirlooms on tactical missions by accident.
+
+*Run facial recognition again,* Eli thought. *Expand parameters—include historical databases, immigration records, New Zealand national archives pre-2060.*
+
+*Processing. Estimated completion: 47 minutes.*
+
+He should report this. Protocol demanded it—unidentified operative with apparent Foundation ties had made physical contact during an active outbreak scenario. Commander Washington would want a full debrief. The girl's exo-suit signature alone was worth a classified memorandum.
+
+But Eli had learned the hard way that some investigations lived longer in the shadows. The moment he filed an official report, the incident would get flagged, cross-referenced, analyzed by intelligence algorithms that fed directly into inter-agency political machinery. The Foundation would be notified through diplomatic channels. And this girl—whoever she was—would disappear into whatever black-site protection the Foundation provided for exposed operatives.
+
+The pendant was his only lead to Kaikoura. To Charlene. To thirty-five years of unanswered questions about weaponized plagues and strangers who moved through quarantine zones untouched.
+
+He wasn't ready to lose that thread yet.
 ## Elijah Williams 
 
 Elijah Williams was one of the lead special agents for the recently organized United East Pandemic Task Force, an ex-marine and a former NYPD detective. He had just been assigned to the task force. 
@@ -166,35 +198,9 @@ But Eli believed she was targeted—murdered by artificial infection. A bio-weap
 
 ***
 
-The hut in Kaikoura had smelled of eucalyptus oil and sickness. Eli was fifteen, standing in the doorway with the disabled ankle tracker still strapped to his leg—five hundred bit tokens to a hacker, money he'd saved for months. Charlene had told him to stay with Aunt Siala. He'd disobeyed.
+The hut in Kaikoura. Eucalyptus oil and sickness. Charlene convulsing on the woven mat, her final words in the family creole: *"Mian kua gia, wa ho se."* The stranger's hand on his shoulder—impossibly strong, holding him back. When Eli looked up, the stranger had vanished.
 
-She was alone on the woven mat, body convulsing in rhythmic spasms that didn't look natural. Medical. The tremors moved through her like waves, synchronized, purposeful. Her eyes were open but unfocused, pupils fully dilated. Foam gathered at the corners of her mouth.
-
-"Whaea!" He'd started toward her.
-
-A hand caught his shoulder—strong, impossibly strong. The stranger. The boy, maybe seventeen, eighteen, with a face Eli would spend decades trying to reconstruct from fragmented synaptic traces. The grip was gentle but absolute.
-
-"Don't," the stranger said. Not a warning. A fact.
-
-Eli struggled. He was strong for fifteen, trained in rongoā healing traditions, knew how to set bones and mix poultices. He should be helping her. The stranger held him effortlessly, watching Charlene with an expression Eli couldn't decode. Sorrow? Scientific curiosity? Something older than either.
-
-Charlene's convulsions intensified. Her back arched, vertebrae cracking audibly. Then her eyes focused—just for a moment—and found Eli's face.
-
-"Lije..." The word came out strangled. "Don't... come near..."
-
-She said something else then, voice barely a whisper. The stranger leaned closer, listening. Eli strained against the grip, close enough now to hear her final words:
-
-"Mian kua gia, wa ho se."
-
-The phrase hung in the air. Hokkien Chinese mixed with Maori structure—her mother's linguistic hybrid, the family creole she used for secrets and old stories. *Don't be afraid, child of mine.*
-
-"What do you mean?" Eli had shouted it, even as the stranger's grip loosened.
-
-But Charlene was already gone. The convulsions stopped mid-spasm. Her body went slack against the woven mat, one hand falling open. The fingers were still warm when Eli finally reached her, cradling her head, sixteen hours of rigor mortis still ahead.
-
-The ankle tracker beeped twice—low battery warning. The sound was absurdly mundane against the enormity of the silence.
-
-When Eli looked up, the stranger had vanished. He never saw him again—not at the *tangihanga* burial rites for Charlene and great-grandfather Hone, not in the weeks of quarantine that followed. But he remembered the pattern: selective infection, precise targeting, and someone moving through plague zones with engineered immunity.
+Thirty-five years, and he could still hear the ankle tracker beeping in the silence.
 
 ***
 
