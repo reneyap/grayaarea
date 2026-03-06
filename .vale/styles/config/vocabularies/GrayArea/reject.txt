@@ -1,0 +1,8 @@
+# GrayArea Rejected Spellings
+# Common mistakes or deprecated terms
+
+# Ensure consistent spelling
+utilize
+utilise
+grey area
+gray area

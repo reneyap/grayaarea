@@ -1,0 +1,41 @@
+# GrayArea Custom Vocabulary
+# Accepted spellings for sci-fi terms, character names, and canon vocabulary
+
+# Characters
+Daneel
+Elijah
+Eli
+Cleo
+Petrus
+Saraswati
+Leandro
+Maurizio
+Annabelle
+Alyssa
+Christina
+DeeJay
+
+# Entities and Organizations
+Attractor
+[Tt]he Entity
+[Tt]he Foundation
+[Tt]he Rubensteins
+
+# Technical Terms
+X20
+neurophysiological
+substrate
+bioelectric
+overstay
+cohabitation
+driver-passenger
+geomagnetic
+
+# Locations
+Manhattan
+[Gg]rand [Cc]entral
+
+# Misc Canon Terms
+Liturgy of Resonance
+NSC
+AS
