@@ -30,7 +30,7 @@ The Central Park Prime Properties (C3P) does not include just the Park but also 
 
 *It’s January. There is a blizzard going on. It’ll be dark soon.*
 
-With the Apache ER hovering over the GCT Museum, Eli can see tourists sequestered a few blocks north of the Museum—in a field hospital erected by the Marine Corps of Engineers.
+With the Apache XR-45 hovering over the GCT Museum, Eli can see tourists sequestered a few blocks north of the Museum—in a field hospital erected by the Marine Corps of Engineers.
 
 Landed. Eli and his team rush out of the XR-45 and head straight to GCT Museum. 
 
