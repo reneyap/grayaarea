@@ -164,6 +164,40 @@ He'd never mentioned it to anyone. But he was familiar with virology when he was
 
 But Eli believed she was targeted—murdered by artificial infection. A bio-weapon. He'd been present during her final hours, locked in containment with her. He remembered a stranger—a boy, maybe a teenager—moving through the infected with unusual purpose. That boy never became infected, though everyone around him did. The memory was fragmented, thirty-five years buried. The face was lost. But the pattern remained: intentional selection. Weaponized precision.
 
+***
+
+The hut in Kaikoura had smelled of eucalyptus oil and sickness. Eli was fifteen, standing in the doorway with the disabled ankle tracker still strapped to his leg—five hundred bit tokens to a hacker, money he'd saved for months. Charlene had told him to stay with Aunt Siala. He'd disobeyed.
+
+She was alone on the woven mat, body convulsing in rhythmic spasms that didn't look natural. Medical. The tremors moved through her like waves, synchronized, purposeful. Her eyes were open but unfocused, pupils fully dilated. Foam gathered at the corners of her mouth.
+
+"Whaea!" He'd started toward her.
+
+A hand caught his shoulder—strong, impossibly strong. The stranger. The boy, maybe seventeen, eighteen, with a face Eli would spend decades trying to reconstruct from fragmented synaptic traces. The grip was gentle but absolute.
+
+"Don't," the stranger said. Not a warning. A fact.
+
+Eli struggled. He was strong for fifteen, trained in rongoā healing traditions, knew how to set bones and mix poultices. He should be helping her. The stranger held him effortlessly, watching Charlene with an expression Eli couldn't decode. Sorrow? Scientific curiosity? Something older than either.
+
+Charlene's convulsions intensified. Her back arched, vertebrae cracking audibly. Then her eyes focused—just for a moment—and found Eli's face.
+
+"Lije..." The word came out strangled. "Don't... come near..."
+
+She said something else then, voice barely a whisper. The stranger leaned closer, listening. Eli strained against the grip, close enough now to hear her final words:
+
+"Mian kua gia, wa ho se."
+
+The phrase hung in the air. Hokkien Chinese mixed with Maori structure—her mother's linguistic hybrid, the family creole she used for secrets and old stories. *Don't be afraid, child of mine.*
+
+"What do you mean?" Eli had shouted it, even as the stranger's grip loosened.
+
+But Charlene was already gone. The convulsions stopped mid-spasm. Her body went slack against the woven mat, one hand falling open. The fingers were still warm when Eli finally reached her, cradling her head, sixteen hours of rigor mortis still ahead.
+
+The ankle tracker beeped twice—low battery warning. The sound was absurdly mundane against the enormity of the silence.
+
+When Eli looked up, the stranger had vanished. He never saw him again—not at the *tangihanga* burial rites for Charlene and great-grandfather Hone, not in the weeks of quarantine that followed. But he remembered the pattern: selective infection, precise targeting, and someone moving through plague zones with engineered immunity.
+
+***
+
 The doctors said trauma could rewrite memory. That he was blocking shock. But Eli had learned to trust his augmented neural logs. The patterns didn't lie.
 
 ## Debrief
