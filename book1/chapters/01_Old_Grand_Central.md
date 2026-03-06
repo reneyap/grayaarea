@@ -174,5 +174,3 @@ Eli did not react. But the commander stared at the holographic screen and mutter
 
 "I have, sir. The medical unit—MedU—is currently verifying their sensor data. And Tracker techs have already started checking XR units." He corrected the commander misclassifying the medical unit as a division. The commander is a political appointee and has only been on the job for a few weeks, before this outbreak. It was supposed to be a cushy job.
 
-## Note on Foundation
-It is not clear when the Foundation started. However, there are references that it was founded by a George Evans in London 2276.

@@ -165,6 +165,16 @@ It is a governance machine under existential test, not a monolithic utopia.
 
 ---
 
+## X. ORIGIN TIMELINE (CONTESTED)
+
+**Claimed founding:** 2276, London, by George Evans  
+**Earliest documented activity:** [TBD - needs archive verification]  
+**Canonical stance:** Date unresolved; Foundation obscures its own history
+
+**Note:** Requires further consolidation from archive material and cross-referencing with Timeline.md. Multiple conflicting origin narratives exist in source documents.
+
+---
+
 ## Source Consolidation
 
 Consolidated from:
