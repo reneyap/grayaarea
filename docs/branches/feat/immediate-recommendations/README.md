@@ -3,7 +3,7 @@
 **Branch**: `feat/immediate-recommendations`  
 **Based on**: `baseline` (tagged as `b1-planning-v1.0`)  
 **Created**: 2026-03-05  
-**Status**: Ready for review (not pushed)
+**Status**: Ready for review (Vale validated on Windows Git Bash, not pushed)
 
 ---
 
@@ -20,7 +20,6 @@ Implementation of immediate recommendations from `docs/STORY-AS-CODE-FEEDBACK.md
 - Chapter template with front matter schema
 
 **What's NOT Included:**
-- Vale installation or testing
 - Pre-commit hooks
 - GitHub Actions CI/CD
 - Supabase/Next.js/MCP infrastructure
@@ -154,6 +153,38 @@ notes: ""
 
 ---
 
+### 6. `docs(branches): document feat/immediate-recommendations branch`
+**Hash**: `e407d27`  
+**Files**: `docs/branches/feat/immediate-recommendations/README.md` (new)
+
+Added branch-level implementation notes, scope, commit log, validation checklist, and merge readiness criteria.
+
+---
+
+### 7. `docs: add platform-specific Vale installation instructions`
+**Hash**: `30ea986`  
+**Files**: `docs/IMPLEMENTATION_STATUS.md` (modified)
+
+Added explicit platform guidance for Vale setup (macOS and Windows/Git Bash) and troubleshooting notes.
+
+---
+
+### 8. `fix(tools): stabilize Vale setup for Windows git bash`
+**Hash**: `4845f3e`  
+**Files**:
+- `.vale.ini` (modified)
+- `.gitignore` (modified)
+- `.vale/styles/config/vocabularies/GrayArea/accept.txt` (new)
+- `.vale/styles/config/vocabularies/GrayArea/reject.txt` (new)
+
+Finalized Vale behavior on Windows/Git Bash:
+- Added package sync for `write-good`
+- Added `Vocab = GrayArea` wiring
+- Stored vocab files at the path Vale resolves in this environment
+- Ignored generated synced package files (`.vale/styles/write-good/`)
+
+---
+
 ## Files Created/Modified
 
 | File | Type | Purpose |
@@ -175,9 +206,11 @@ notes: ""
 - ✅ Files created and committed with conventional commit messages
 - ✅ Explicit file staging (no `git add -A`)
 - ✅ All commits follow the project's conventional commit format
+- ✅ Vale installed on Windows via Scoop
+- ✅ Vale smoke-tested successfully on `book1/chapters/_TEMPLATE.md` (0 errors, 0 warnings, suggestions only)
 
 ### What Needs Testing
-- ⏳ Vale linting (need to install Vale, then run: `vale book1/chapters/`)
+- ⏳ Full run across all chapters: `vale book1/chapters/`
 - ⏳ Chapter template (use it for Chapter 01 draft to validate front matter schema)
 - ⏳ Copilot-instructions behavior (verify Copilot applies rules in all future sessions)
 
@@ -192,10 +225,10 @@ notes: ""
 ## Next Steps
 
 ### Immediate (This Week)
-1. Install Vale locally: `brew install vale` (Mac) or `choco install vale` (Windows)
-2. Test Vale on existing chapters: `vale book1/chapters/`
-3. Adjust `.vale.ini` if needed (e.g., word count limits per chapter)
-4. Review IMPLEMENTATION_STATUS.md and confirm accuracy
+1. Run full lint pass on chapter set: `vale book1/chapters/`
+2. Adjust `.vale.ini` severity levels based on false positives
+3. Review IMPLEMENTATION_STATUS.md and confirm accuracy
+4. Draft Chapter 01 from template and lint it
 
 ### Medium-term (Weeks 2-4)
 1. Draft Chapters 1-3 using template
