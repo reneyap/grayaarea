@@ -100,7 +100,9 @@ Use semantic versioning for major milestones:
 1. Check for canon consistency
 2. Update CONSOLIDATION_MAP.md if lore changed
 3. Verify conventional commit format
-4. Stage related changes together
+4. **NEVER use `git add -A` or `git add .`** — always stage files explicitly by path
+5. Stage only related changes together (single logical unit)
+6. Review staged changes with `git diff --staged` before committing
 
 ## File Organization
 
