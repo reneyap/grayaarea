@@ -56,6 +56,10 @@ He reaches for his wrist control band so he can change the enhanced audio settin
 
 But the screeching stops as abruptly as it started. His XR team has already secured the exits as a number of civilians rush out of the museum.
 
+Eli's tactical overlay painted the concourse in threat gradients. Green for clear passages. Yellow for questionable routes. Red blooming near the information booth where thermal signatures clustered in unnatural synchronization. His neural processor fed him probability matrices faster than conscious thought—egress routes, contamination spread patterns, defensive firing lanes.
+
+XR2 and XR4 had bracketed the north exit without his verbal command. The CyComm module again, reading his tactical instincts and translating them to machine language before his mouth could form words. Efficient. Invasive.
+
 *XR6 scanning…*
 
 *Human: Clear…*
@@ -65,6 +69,12 @@ But the screeching stops as abruptly as it started. His XR team has already secu
 *Human: infected: Stage-1 P1008…*
 
 *Human: infected: Stage-4 P1009…*
+
+The Stage-1s moved jerkily, still fighting it—hands twitching, heads cocked at wrong angles as if listening to frequencies only they could hear. A businessman in a shredded suit stumbled past Eli's position, muttering fragments: "...hear it... the pattern... can you hear the pattern..."
+
+Stage-4s had stopped resisting. Three figures moved in eerie coordination, steps synchronized to the millisecond. Their eyes were open but unfocused, pupils fully dilated. One woman walked directly into a marble pillar without breaking stride, adjusted course mechanically, and continued toward the exit as if nothing had happened.
+
+Eli had seen battlefield shock. He'd seen combat drugs turn soldiers into dead-eyed automatons. This was different. This was *shared*. Like fifty different radios all tuned to the same frequency, broadcasting the same signal through human nervous systems.
 
 As the crowd rushes out, two small humanoids begin hovering and zipping through the air.  
 
@@ -80,9 +90,13 @@ XR6 takes a shot, hitting P1010's shoulder. No penetration.
 
 His AI flagged the plating as Foundation-derivative—60% material match, adaptive polymer class. Not a perfect correlation, but the signature was unmistakable. The design, though, was something else entirely. Generations ahead of standard Foundation specs. Unique configuration. Built for purposes his database couldn't even categorize.
 
-P1011, slightly bulkier, lands and attacks the XR units guarding the main exit.  
+P1011, slightly bulkier, lands and attacks the XR units guarding the main exit.
 
-He snatches two children near the exit. Eli and the rest of the team immediately surround him. He throws one of the kids towards Eli, jumps out and disappears.
+XR3 went down first—servos shrieking as P1011's strike crumpled its torso housing. XR5 returned fire, plasma rounds that should have punched through military-grade armor. The shots splashed harmlessly against P1011's adaptive plating, energy dissipating in ripples across the surface.
+
+He snatches two children near the exit—a girl, maybe eight, and a boy younger still, both frozen in terror. Eli and the rest of the team immediately converge, forming a tactical perimeter. His sidearm was already raised, targeting solution painting itself across his HUD. Center mass. But if XR5's plasma couldn't penetrate...
+
+He throws one of the kids towards Eli, jumps out and disappears.
 
 *Searching for P#1010 and P#1011...*
 
