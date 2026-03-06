@@ -42,7 +42,7 @@ Without completing his command, Eli sees that the XR1 contact-tracking unit is a
 
 The CyComm module. Damn it.
 
-The Cybernetic Command interface doesn't just relay his orders to the droid units; it's pre-programmed to anticipate his tactical instincts and execute before his words catch up. It was installed without his consent—a mandatory upgrade when the interagency joint task force requisitioned him three months ago. The system reads his neural patterns and translates intention into code faster than language can follow.
+The Cybernetic Command interface doesn't just relay his orders to the droid units; it's pre-programmed to anticipate his tactical instincts and execute before his words catch up. It was installed without his consent—a mandatory upgrade when the interagency joint task force requisitioned him three months ago. The Pandemic Response Act mandated CyComm standardization across all augmented federal agents—sold as interoperability, implemented as institutional control over personnel the brass already didn't trust. The system reads his neural patterns and translates intention into code faster than language can follow.
 
 Eli hates it. Hates the puppet-master sensation when his XR team moves in unison with thoughts he hasn't finished thinking.
 
